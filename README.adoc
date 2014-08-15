@@ -1,0 +1,19 @@
+= Cuducos's PhD writings
+Eduardo Cuducos
+:homepage: http://about.me/cuducos
+
+I'm a PhD student in sociology at the http://www.essex.ac.uk[University of Essex], my research focus is on crowdfunding. Here I share my writings, fell free to read, comment, criticize…
+
+And, yes, I'm geek enough to prefer a markdown language rather than a word processor, GitHub rather than word processors' comments and tracking tools.
+
+As you probably have discovered by yourself, I’m not a native english speaker. I’m really sorry for all the small crimes I commit with your beloved language. I’d be really glad if you point them out.
+
+If this introduction is not enough, you can start to http://about.me/cuducos[stalk me]. 
+
+== Text(s) available
+
+* http://j.mp/1cW9HGH[*Post-politics and crowdfunding*]: Research design with some literature review
+
+== License
+
+include::LICENSE.adoc[]
