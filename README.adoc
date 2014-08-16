@@ -13,6 +13,7 @@ If this introduction is not enough, you can start to http://about.me/cuducos[sta
 == Text(s) available
 
 * http://j.mp/1cW9HGH[*Post-politics and crowdfunding*]: Research design with some literature review
+* (_Work-in-progress_) link:literature-review/politics.adoc[*Contemporary political theory and the possibilities within crowdfunding*]: Theoretical review on politics
 
 == License
 

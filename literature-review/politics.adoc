@@ -1,0 +1,79 @@
+= [WORK-IN-PROGRESS] Contemporary political theory and the possibilities within crowdfunding footnote:[This text articulates a _late_ literature review suggested during the June 2014 board meeting; in the future this contents should be integrated to the literature review that is part of the project design discussed at this meeting.]
+Eduardo Cuducos
+:homepage: http://about.me/cuducos
+:numbered:
+:toc:
+
+*Eduardo Gonçalves* +
+_2^nd^ year PhD student in sociology, University of Essex_
+
+== Introduction: Politics and its modern foundations
+
+The relevance of the concepts of public and private sphere is not new into political theory. This literature review aims at considering these topics under a wider political framework in order to set the basis for a doctoral research on the political consideration of the crowdfunding phenomenon.footnote:[Crowdfunding is the name given to a specific mechanism of crowdsourcing through which users can propose projects (setting the financial target in order to execute that project) and other users can back it (by financially contributing to that project). Eventually some projects are founded in this scheme, operating basically according to the action of ordinary people, i.e. without incumbent institutions explicitly supporting it.] The hypothesis is that a post-political approach to political action can reveal a relationship between political theory and what have been done under the label of crowdfunding.
+
+Therefore the following sections discuss how these concepts, i.e. public and private sphere, are understood since the revolutions that founded the modern understanding of political issues nowadays: the American and the French Revolutions (Arendt 1973). Next, some critiques are considered into the scope of politics in terms of different ideas of centralization (and the consequent issues that emerge from this centralization). The subsequent section touch upon common critiques towards contemporary political participation and representation, namely the individualization process and the possibilities of a post-political phase. Finally, based on this theoretical review, the last part discusses research hypotheses about how crowdfunding could be comprehended as a relevant element to understand the future of politics. What is suggested is that crowdfunding have impact over the perception of the public and the private affairs, possibly taking part in this political configuration.
+
+== Arendt’s critique of modern politics
+
+Analyzing the American Revolution (1776) and French Revolution (1789), Hannah Arendt (1973) argues that the ‘spirit of revolution’ underneath these outbreaks conceals two elements that have become opposites throughout history and that, moreover, set the stage for a polarization within contemporary politics. For her the concern with stability contrasts with the spirit of the new while aspiring a new political body “seem irreconcilable and even contradictory” (Arendt 1973:222). In other words, while aspiring to create a new government, these revolutions had to confront the paradox of founding a new way to organize politics and at the same time of keeping it open to further adaptations -- and, eventually, open changes as deeper as the ones they were promoting at that moment. In order to face this paradox, Arendt argued, there was a conceptual and practical loss in terms of politics:
+
+[quote]
+Perhaps the very fact that these two elements ... have become opposites in political thought and terminology -- one being used as conservatism and the other being claimed as the monopoly of progressive liberalism -- must be recognized as the symptoms of our loss ... In other words, to the extent that our political terminology is modern at all, it is revolutionary in origin. And the chief characteristic of this modern, revolutionary vocabulary seems to be that it always talks in pairs of opposites -- the right and the left, reactionary and progressive, conservationism and liberalism, to mention a few at random (Arendt 1973:223).
+
+In fact, Arendt (1973) highlights how the American and French uprisings ended up favoring each different elements: while the USA focused on the stability of the new government, France seemed to be closer to the ideal of openness to further changes. In sum, “the revolution in the USA resulted in a stable political scenario, not in a long decade of instability as the post revolutionary France” (Borch 2012:125). What happen next have consequences not only in political theory but also in social theory. For instance, Christian Borch (2012) argues that the semantics of crowds in the nineteenth and twentieth-century France was attached to a strongly negative approach to crowds (describing then, basically, as irrational and destructive towards social order); alternatively, in the USA, these assemblies were regarded in a very positive manner (depicted as simultaneously the result and the representation of a health democracy). These interpretations of social collective behavior appear later on this review, but before that it is important to understand the critiques in terms of political thought that are underneath the unfold of these revolutions.
+
+Arendt’s analysis ended up suggesting that in the USA the engagement with politics among ordinary people is slight, and this conclusion seems to resonate with antipolitics critiques, such as Erwin Jaffe (1997:78), who argued that this disinterest is not only found only “among those who feel left out or mistreated or who have learned that the rules of the game often operates to their disadvantage. Contempt for the law and the system also shows up regularly among the favored and highly placed.” Yet, he complements, disconnectedness is at the core of this antipolitical process that American faces nowadays. Arendt (1973) take the Founding Father as a starting point of this process, and place the challenge about representation at the spotlights: when Jefferson was reflecting upon the violent upsurging in post revolutionary France, he considered that maybe people (not only their representatives) should be able to reform the constitution from times to times (i.e. in conciliating the two elements of the spirit of revolution).
+
+[quote]
+But the reason Jefferson, throughout his long life, was carried away by such impracticabilities was that he knew, however dimly, that the Revolution, while it had given freedom to the people, had failed to provide a space where this freedom could be exercised. Only the representatives of the people, not the people themselves, had an opportunity to engage in those activities of ‘expressing, discussing, and deciding’ which in a positive sense are the activities of freedom … Only Jefferson among the founders had a clear premonition of this tragedy, for his greatest fear was indeed lest ‘the abstract political system of democracy lacked concrete organ’ (Arendt 1973:235-6).
+
+In spite of that, Founding Fathers focus was on representativeness and, at the end of the day, what they proposed was that representation should substitute direct political action for very practical reasons -- e.g. the chamber, the congress, ‘the room will not hold them all’ in case of direct political action. Accordingly the elected should respect the will of the electors and opinions on which the election was handled. But, as Arendt (1973:236) puts, the founders “must have been the first to know how far removed this theory was from reality.” As she (1973:237) argued, first the “public realm was vanished” as government focus was more on administrative issues, relegating decisions to experts, and keeping these decisions closed to opinion and genuine choice from ordinary people.footnote:[It is noteworthy that in terms of political thought Arendt differentiated opinion and interests: “Interest and opinion are entirely different political phenomena. Politically, interests are relevant only as group of interests, and for the purification of such group interests it seems to suffice that they are represented in such a way that their partial character is safeguarded under all conditions, even under the condition that the interest of one group happens to be the interest of the majority. Opinions, on the contrary, never belong to groups but exclusively to individuals … Opinions will rise whenever men communicate freely with one another and have the right to make their views public” (Arendt 1973:227).] Second, this displacement of the public realm together with the representative democracy strategy ended up reestablishing the boundaries between ruler and ruled that these revolutions aspired to eliminate: "once more the people are not admitted to the public realm, once more the business of government has become the privilege of a few" (Arendt 1973:237). In a practical sense, the argument is that the power conferred to people was limited to the day of the election, what kept the public space restricted to the representative of the people in-between the elections. These two instances of problematic consequences of the American Revolutions have yet further consequences:
+
+[quote]
+Opinions are formed in a process of open discussion and public debate, and where no opportunity for the forming of opinions exist, there may by moods ... but no opinion. Hence, the best the representative can do is to act as his constituents would act if they themselves had any opportunity to do so... Through pressure groups, lobbies, and other devices, the voters can indeed influence the actions of their representatives to execute their wishes at the expense of the wishes and interests of the other groups of voters. In all these instances _the voter acts out of concern with his private life and well-being_, and the residue of power he still holds in his hands resembles rather the reckless coercion with which a blackmailer forces his victim into obedience than the power that arises out of joint action and joint deliberation (Arendt 1973:268-9, emphasis added).
+
+… 
+
+== Centralization and politics
+
+…
+
+== Contemporary issues
+
+…
+
+=== Individualization
+
+…
+
+=== Post-politics
+
+…
+
+== Possibility of plurality and public spheres
+
+…
+
+== Next Steps: Technology, politics and possibilities within Crowdfunding
+
+…
+
+== References
+
+Arendt, H. (1973). _On Revolution_. Bungay: Penguin. 
+
+Borch, C. (2012). _The Politics of Crowds: An Alternative History of Sociology_. Cambridge: Cambridge University Press.
+
+Jaffe, E. (1997). Our Own Invisible Hand: Antipolitics as an American Given. In Schedler, A. (ed.) _The end of Politics? Explorations into modern antipolitics_. New York: Macmillan. Pp. 57-90.
+
+Joas, H. and Knöbl W. (2009). _Social Theory: Twenty Introductory Lectures_. Cambridge: Cambridge University Press.
+
+Papacharissi, Z. (2009). The Virtual Sphere 2.0: The internet, the public sphere, and beyond. In A. Chadwick & P. N. Howard (eds.). _Routledge Handbook of Internet Politics_. London and New York: Routledge. Pp. 230-245.
+
+Schedler, A. (1997). Introduction: Antipolitics – Closing and colonizing the public sphere. In Schedler, A. (ed.) _The end of Politics? Explorations into modern antipolitics_. New York: Macmillan. Pp. 1-20.
+
+Sniderman, P. M. and Bullock, J. (2004). A Consistency Theory of Public Opinion and Political Choice: The hypothesis of men dependence. In Saris, W. E. and Sniderman, P. M. (eds.). _Studies in Public Opinion: Attitudes, nonattitudes, measurement error, and change_. Princeton and Oxford: Princeton University Press. Pp. 337-357.
+
+Tocqueville, A. (1986). _De la démocratie en Amérique, I_. Paris: Gallimard.
+
+Wolin, S. (2004). _Politics and Vision: Continuity and Innovation in Western Political Thought_. Princeton and Oxford: Princeton University Press.
