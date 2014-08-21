@@ -1,4 +1,4 @@
-﻿= [WORK-IN-PROGRESS] Contemporary political theory and the possibilities within crowdfunding footnote:[This text articulates a _late_ literature review suggested during the June 2014 board meeting; in the future this contents should be integrated to the literature review that is part of the project design discussed at this meeting.]
+﻿= WORK-IN-PROGRESS | Contemporary political theory and the possibilities within crowdfunding footnote:[This text articulates a _late_ literature review suggested during the June 2014 board meeting; in the future this contents should be integrated to the literature review that is part of the project design discussed at this meeting.]
 Eduardo Cuducos
 :homepage: http://about.me/cuducos
 :numbered:
