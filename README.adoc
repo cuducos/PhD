@@ -1,4 +1,4 @@
-set= Cuducos's PhD writings 
+= Cuducos's PhD writings 
 Eduardo Cuducos
 :homepage: http://about.me/cuducos
 
