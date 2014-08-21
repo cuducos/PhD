@@ -164,7 +164,7 @@ Finally, it is important to understand that this new environment has its own log
 
 [quote]
 “To be sure, such an ‘aristocratic‘ form of government would spell the end of general suffrage as we understand it today; for only those who as voluntary members of an ‘elementary republic’ have demonstrated that they care for more than their private happiness and are concerned about the state of the world would have the right to be heard in the conduct of the business of the republic. However, this exclusion from politics should not be derogatory, since a political élite is // by no means identical with a social or cultural or professional élite. The exclusion, moreover, would not depend upon an outside body; if those who belong are self-chosen, those who do not belong are self-excluded. And such self-exclusion, far from being arbitrary discrimination, would in fact give substance and reality to one of the most important negative liberties we have enjoyed since the end of the ancient world, namely, freedom from politics (Arendt 1973:279-80).
-s
+
 == References
 
 Arendt, H. (1973). _On Revolution_. Bungay: Penguin. 
