@@ -3,6 +3,7 @@ Eduardo Cuducos
 :homepage: http://about.me/cuducos
 :numbered:
 :toc:
+:sectanchors:
 
 *Eduardo Gonçalves* +
 _2^nd^ year PhD student in sociology, University of Essex_
