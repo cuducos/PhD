@@ -4,6 +4,7 @@ Eduardo Cuducos
 :numbered:
 :toc:
 :sectanchors:
+:icons: font
 
 *Eduardo Gonçalves* +
 _2^nd^ year PhD student in sociology, University of Essex_
