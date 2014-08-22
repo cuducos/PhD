@@ -15,6 +15,12 @@ If this introduction is not enough, you can start to http://about.me/cuducos[sta
 * link:literature-review/research-design.adoc[*Post-politics and crowdfunding*]: research design with some literature review
 * link:literature-review/politics.adoc[*Contemporary political theory and the possibilities within crowdfunding*]: literature review on politics -> *work in progress*
 
+== Generating print friendly HTMLs
+
+Use link:http://asciidoctor.org/docs/install-toolchain/(AsciiDoctor Toolchain) and commands such as:
+
+ $ asciidoctor -a stylesheet=custom_style.css -a stylesdir=../ -o politics.html politics.adoc
+
 == License
 
 include::LICENSE.adoc[]
