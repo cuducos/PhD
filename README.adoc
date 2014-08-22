@@ -17,7 +17,7 @@ If this introduction is not enough, you can start to http://about.me/cuducos[sta
 
 == Generating print friendly HTMLs
 
-Use link:http://asciidoctor.org/docs/install-toolchain/(AsciiDoctor Toolchain) and commands such as:
+Use link:http://asciidoctor.org/docs/install-toolchain/[AsciiDoctor Toolchain] and commands such as:
 
  $ asciidoctor -a stylesheet=custom_style.css -a stylesdir=../ -o politics.html politics.adoc
 
