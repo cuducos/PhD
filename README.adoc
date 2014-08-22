@@ -24,4 +24,3 @@ Use link:http://asciidoctor.org/docs/install-toolchain/[AsciiDoctor Toolchain] a
 == License
 
 include::LICENSE.adoc[]
-
