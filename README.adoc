@@ -21,6 +21,10 @@ Use link:http://asciidoctor.org/docs/install-toolchain/[AsciiDoctor Toolchain] a
 
  $ asciidoctor -a stylesheet=custom_style.css -a stylesdir=../ -o politics.html politics.adoc
 
+== Thanks
+
+My PhD is sponsored by link:http://capes.gov.br/[CAPES], a government agency linked to the Brazilian Ministry of Education.
+
 == License
 
 include::LICENSE.adoc[]
