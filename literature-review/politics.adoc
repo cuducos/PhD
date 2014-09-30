@@ -1,6 +1,6 @@
 = WORK-IN-PROGRESS | Contemporary political theory and the possibilities within crowdfunding footnote:[This text articulates a _late_ literature review suggested during the June 2014 board meeting; in the future this content will be integrated to the _previous_ literature review (the one discussed at that meeting).]
 Eduardo Cuducos
-:homepage: http://about.me/cuducos
+:homepage: http://cuducos.me
 :numbered:
 :toc:
 :sectanchors:

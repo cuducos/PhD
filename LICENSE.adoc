@@ -1,3 +1,3 @@
 image::https://i.creativecommons.org/l/by/4.0/88x31.png[Creative Commons License, link="http://creativecommons.org/licenses/by/4"]
 
-These writings by http://about.me/cuducos[Eduardo Cuducos] are licensed under a http://creativecommons.org/licenses/by/4.0/[Creative Commons Attribution 4.0 International License].
+These writings by http://cuducos.me[Eduardo Cuducos] are licensed under a http://creativecommons.org/licenses/by/4.0/[Creative Commons Attribution 4.0 International License].
