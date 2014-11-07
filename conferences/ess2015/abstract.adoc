@@ -1,0 +1,26 @@
+= Crowdfunding and the reconfiguration of the public and private spaces
+Eduardo Cuducos
+:homepage: http://cuducos.me
+:numbered:
+:sectanchors:
+:icons: font
+
+*Eduardo Gonçalves* +
+_University of Essex_
+
+This ongoing PhD research analyzes the crowdfunding phenomenon through the lens of social and political theory. Platforms such as Kickstarter and Indiegogo make some initiatives tangible through actions of ordinary people, without institutional support from government or corporations.
+
+Modern states created different instances of freedom, but failed to offer people real opportunities to exercise it. Arendt argues that the party system created the possibility of political careers for lower classes, challenging old elites’ dominance based on birth or wealth. However, she adds, political action itself remained restricted to a political elite. Critics such as Wolin or Schedler argued that the private sphere logic is incorporated in governments, therefore political decisions are taken within the private realm, not the public one. Bellah argued that this scenario favored individualism, but the paradox is that people are not comfortable with it: the lack of social ties makes them eager for connections.
+
+This paper is based on preliminary analysis of interviews with people engaged with crowdfunding. If that conjuncture seems to seize the public sphere from people, citizens might be fighting back recreating the public realm within this purportedly private space – and here crowdfunding is considered from that standpoint. Instead of traditional political gatherings (such as parties or social movements) crowdfunding as politics finds support in practical and conceptual disruptions emerged from new technological possibilities. It grasps what post-representativeness could be or what a post-political pragmatic approach could look like, inviting us to consider new possibilities and limitations in politics.
+
+[NOTE]
+====
+
+*Missing*
+
+* Word count
+* Linking ideas and concepts through the abstract
+* Keywords
+
+====
