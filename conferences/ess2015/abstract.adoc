@@ -17,7 +17,7 @@ This paper is based on preliminary analysis of interviews with people engaged wi
 [NOTE]
 ====
 
-*To-don't*
+*To-do*
 
 * Word count
 * Linking ideas and concepts through the abstract
