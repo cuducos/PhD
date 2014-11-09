@@ -17,10 +17,16 @@ This paper is based on preliminary analysis of interviews with people engaged wi
 [NOTE]
 ====
 
-*Missing*
+*To-don't*
 
 * Word count
 * Linking ideas and concepts through the abstract
-* Keywords
+* Build up the public/private idea through a better linking
+* Add keywords
+* No need to mention PhD research
+* Literature review not too relevant to the short abstract
+* Say a bit more about your data/interviews
+* More precision in the last paragraph: which conjuncture? that standpoint, which?
+* Introduce post-representativeness and post-political befor ementioning them
 
 ====

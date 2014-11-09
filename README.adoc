@@ -19,7 +19,7 @@ If this introduction is not enough, you can start to http://cuducos.me[stalk me]
 
 === Conferences and presentations
 
-* link:conferences/ess2015/abstract.adoc[*Crowdfunding and the reconfiguration of the public and private spaces*]: Abstract submitted to the Mini-Conference on Digital Sociology, part of the link:http://www.essnet.org/?page_id=47[2015 ESS annual meeting]. 
+* link:conferences/ess2015/abstract.adoc[*Crowdfunding and the reconfiguration of the public and private spaces*]: Abstract submitted to the Mini-Conference on Digital Sociology, part of the link:http://www.essnet.org/?page_id=47[2015 ESS annual meeting] -> *work in progress*
 
 == Generating print friendly HTMLs
 
