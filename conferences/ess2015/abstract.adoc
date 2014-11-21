@@ -8,25 +8,14 @@ Eduardo Cuducos
 *Eduardo Gonçalves* +
 _University of Essex_
 
-This ongoing PhD research analyzes the crowdfunding phenomenon through the lens of social and political theory. Platforms such as Kickstarter and Indiegogo make some initiatives tangible through actions of ordinary people, without institutional support from government or corporations.
+This ongoing PhD research consists of a social and political analysis of the crowdfunding phenomenon. Platforms as Kickstarter or Indiegogo make initiatives tangible through actions of ordinary people, dismissing institutional support from government or corporations. The hypothesis is that a political analysis of these online gatherings might call into question the spaces where people pursue public and private interests.
 
-Modern states created different instances of freedom, but failed to offer people real opportunities to exercise it. Arendt argues that the party system created the possibility of political careers for lower classes, challenging old elites’ dominance based on birth or wealth. However, she adds, political action itself remained restricted to a political elite. Critics such as Wolin or Schedler argued that the private sphere logic is incorporated in governments, therefore political decisions are taken within the private realm, not the public one. Bellah argued that this scenario favored individualism, but the paradox is that people are not comfortable with it: the lack of social ties makes them eager for connections.
+Arendt criticized the role of modern state as a guardian of individual freedom, highlighting that real possibilities of political action still restricted to political elites. Simultaneously private interests of corporations have compromised the political sphere, argues Wolin and Schedler. According to them states take decisions within the private realm, diminishing the spaces for public interests. Finally Bellah argued that this scenario and its emphasis in the private interests favored individualism. Yet, he adds, people are not comfortable with it: the lack of social ties makes them eager for connections.
 
-This paper is based on preliminary analysis of interviews with people engaged with crowdfunding. If that conjuncture seems to seize the public sphere from people, citizens might be fighting back recreating the public realm within this purportedly private space – and here crowdfunding is considered from that standpoint. Instead of traditional political gatherings (such as parties or social movements) crowdfunding as politics finds support in practical and conceptual disruptions emerged from new technological possibilities. It grasps what post-representativeness could be or what a post-political pragmatic approach could look like, inviting us to consider new possibilities and limitations in politics.
+The basis of this paper are interviews with people engaged with crowdfunding in Brazil, the UK and the USA. If the institutional conjuncture seems to seize the public sphere from people, citizens might be fighting back recreating the public realm within this purportedly private space. Instead of traditional political organizations (such as parties or social movements) crowdfunding benefits from practical disruptions emerged from new technologies. Yet it might grasps what post-representativeness could be or what a post-political pragmatic approach could look like. The discussion considers political possibilities and limitations of this new setting for private and public spaces.
 
-[NOTE]
-====
+Keywords:: crowdfunding, internet, politics, public space, private space.
 
-*To-do*
+Word count:: 246
 
-* Word count
-* Linking ideas and concepts through the abstract
-* Build up the public/private idea through a better linking
-* Add keywords
-* No need to mention PhD research
-* Literature review not too relevant to the short abstract
-* Say a bit more about your data/interviews
-* More precision in the last paragraph: which conjuncture? that standpoint, which?
-* Introduce post-representativeness and post-political befor ementioning them
-
-====
+Conference:: Digital Sociology Mini-Conference within the link:http://www.essnet.org/?page_id=47[ESS Annual Meeting] (from Feb. 26 to Mar. 1st, 2015 -- New York, USA). 
