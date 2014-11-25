@@ -2,6 +2,9 @@
 *.html
 *.docx
 
+# PyCharm IDE
+.idea
+
 # Zed code editor
 .zedstate
 
