@@ -14,8 +14,8 @@ If this introduction is not enough, you can start to http://cuducos.me[stalk me]
 
 *Research design and literature review*
 
-* link:literature-review/research-design.adoc[*Post-politics and crowdfunding*] (research design with some preliminary literature review)
-* link:literature-review/politics.adoc[*Contemporary political theory and the possibilities within crowdfunding*] (literature review on politics)
+* link:literature-review/research-design.adoc[Post-politics and crowdfunding] (research design with some preliminary literature review)
+* link:literature-review/politics.adoc[Contemporary political theory and the possibilities within crowdfunding] (literature review on politics)
 
 *Conference materials and presentations*
 
