@@ -1,14 +1,32 @@
+# Rendred HTML and DOCX
+*.html
+*.docx
+
 # Zed code editor
 .zedstate
 
-# Rendred HTML
-*.html
+# vim
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist
+
+# KDE directory preferences
+.directory
 
 # Linux System
 *~
 
-# KDE directory preferences
-.directory
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msm
+*.msp
 
 # Mac OS X
 ._*
@@ -25,21 +43,3 @@ Temporary Items
 Icon
 
 
-# leave two \r after Icon
-
-# vim
-[._]*.s[a-w][a-z]
-[._]s[a-w][a-z]
-*.un~
-Session.vim
-.netrwhist
-
-# Windows
-Thumbs.db
-ehthumbs.db
-Desktop.ini
-$RECYCLE.BIN/
-*.cab
-*.msi
-*.msm
-*.msp
