@@ -14,12 +14,20 @@ If this introduction is not enough, you can start to http://cuducos.me[stalk me]
 
 === Research design and literature review
 
-* link:literature-review/research-design.adoc[*Post-politics and crowdfunding*]: research design with some literature review
-* link:literature-review/politics.adoc[*Contemporary political theory and the possibilities within crowdfunding*]: literature review on politics -> *work in progress*
+* link:literature-review/research-design.adoc[*Post-politics and crowdfunding*] (research design with some preliminary literature review)
+* link:literature-review/politics.adoc[*Contemporary political theory and the possibilities within crowdfunding*] (literature review on politics)
 
 === Conferences and presentations
 
-* link:conferences/ess2015/abstract.adoc[*Crowdfunding and the reconfiguration of the public and private spaces*]: Abstract submitted to the Mini-Conference on Digital Sociology, part of the link:http://www.essnet.org/?page_id=47[2015 ESS annual meeting] -> *work in progress*
+[%hardbreaks]
+==== Mini-conference on Digital Sociology @ link:http://www.essnet.org/?page_id=47[2015 ESS Annual Meeting]
+
+* link:conferences/ess2015/abstract.adoc[Crowdfunding and the reconfiguration of the public and private spaces] (abstract) -> *work in progress*
+
+[%hardbreaks]
+==== 2014 Manchester International Summer School on Emerging (University of Manchester)
+
+* link:http://www.slideshare.net/cuducos/s24b-goncalves-20140610[Crowdfunding and post-politics] (presentation slides)
 
 == Generating print friendly HTMLs
 
