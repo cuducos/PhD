@@ -1,0 +1,184 @@
+/* Import fonts */
+
+@import url(http://fonts.googleapis.com/css?family=Lato:300,400,300italic|Cardo:400,400italic,700);
+
+/* Page settings */
+
+@page {
+
+    size: 21cm 29.7cm;
+    margin: 2.5cm;
+    orphans:3;
+    widows:3;
+    counter-increment: page;
+
+    @bottom-center {
+        content: counter(page) " of " counter(pages);
+        color: #000;
+        font-size: 11pt;
+        font-style: italic;
+        font-family: 'Cardo', serif;
+    }
+
+}
+
+
+/* Document settings */
+
+html, body {
+    font-size: 11pt;
+}
+
+html {
+    font-family: 'Cardo', serif;
+}
+
+body {
+    background: #fff;
+    color: #000;
+    padding: 0;
+    margin: 0;
+    line-height: 2;
+    text-align: justify;
+}
+
+/* Basic textual elements */
+
+a {
+    color: #000;
+    text-decoration: none !important;
+}
+
+blockquote {
+    line-height: 1.2;
+    margin: 1rem 0 1rem 3rem;
+}
+
+b, strong {
+    font-weight: bold;
+}
+
+i, em {
+    font-style: italic;
+}
+q {
+    quotes: "\201C" "\201D" "\2018" "\2019";
+}
+
+small {
+    font-size: 80%;
+}
+
+sub, sup {
+    font-size: 75%;
+    line-height: 0;
+    position: relative;
+    vertical-align: baseline;
+}
+
+sup {
+    top: -.5em;
+}
+
+sub {
+    bottom: -.25em;
+}
+
+hr {
+    border: 0;
+    background-color: #000;
+    height: 1px;
+    width: 38.2%;
+    margin: 1rem 0 1rem 0;
+}
+
+/* Titles */
+
+h1, h2, h3, h4, h5, h6 {
+    line-height: normal;
+    text-align: left;
+    margin: 1rem 0;
+    font-family: Lato, sans-serif;
+    font-weight: 300;
+}
+
+h1 {
+    font-size: 2em;
+    font-weight: 400;
+    text-align: center;
+}
+
+h2, h3, h4, h5, h6 {
+    margin: 8rem 0 4rem 0;
+}
+
+
+/* AsciiDoctor */
+
+@media screen {
+    #header, #content, #footnotes, #footer {
+        width: 61.8%;
+        margin: 3em auto;
+    }
+}
+
+.left {
+    float: left !important;
+}
+
+.right {
+    float: right !important;
+}
+
+.text-left {
+    text-align: left !important;
+}
+
+.text-right {
+    text-align: right !important;
+}
+
+.text-center {
+    text-align: center !important;
+}
+
+.text-justify {
+    text-align: justify !important;
+}
+
+.hide, div.details, div#toc {
+    display: none;
+}
+
+#preamble {
+    text-align: right;
+    line-height: 1.2;
+}
+
+span.footnote {
+    font-size: .7em;
+    line-height: 0;
+    position: relative;
+    vertical-align: baseline;
+    top: -.5em;
+}
+
+div#content div.sect1:last-child,
+div#footnotes {
+    line-height: 1.2;
+}
+
+div#footnotes {
+    font-size: 90%;
+}
+
+div#footnotes div.footnote {
+    margin: 0 0 1em 0;
+}
+div#footnotes div.footnote a[href*="#_footnoteref_"] {
+    font-weight: bold;
+}
+
+div#footer-text {
+    display: none;
+}
