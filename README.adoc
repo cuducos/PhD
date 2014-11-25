@@ -12,20 +12,18 @@ If this introduction is not enough, you can start to http://cuducos.me[stalk me]
 
 == Text(s) available
 
-=== Research design and literature review
+*Research design and literature review*
 
 * link:literature-review/research-design.adoc[*Post-politics and crowdfunding*] (research design with some preliminary literature review)
 * link:literature-review/politics.adoc[*Contemporary political theory and the possibilities within crowdfunding*] (literature review on politics)
 
-=== Conferences and presentations
+*Conference materials and presentations*
 
-[%hardbreaks]
-==== Mini-conference on Digital Sociology @ link:http://www.essnet.org/?page_id=47[2015 ESS Annual Meeting]
+_Mini-conference on Digital Sociology @ link:http://www.essnet.org/?page_id=47[2015 ESS Annual Meeting]_
 
 * link:conferences/ess2015/abstract.adoc[Crowdfunding and the reconfiguration of the public and private spaces] (abstract) -> *work in progress*
 
-[%hardbreaks]
-==== 2014 Manchester International Summer School on Emerging (University of Manchester)
+_2014 Manchester International Summer School on Emerging (University of Manchester)_
 
 * link:http://www.slideshare.net/cuducos/s24b-goncalves-20140610[Crowdfunding and post-politics] (presentation slides)
 
@@ -44,6 +42,7 @@ If you prefer a Word version, use link:http://johnmacfarlane.net/pandoc/[Pandoc]
 
 This research is possible due to the scholarship offered by link:http://capes.gov.br/[CAPES], a government agency linked to the Brazilian Ministry of Education.
 
+image::http://www.capes.gov.br/images/logo-capes.png[CAPES, link="http://www.capes.gov.br/"]
 == License
 
 These writings by http://about.me/cuducos[Eduardo Cuducos] are licensed under a http://creativecommons.org/licenses/by/4.0/[Creative Commons Attribution 4.0 International License].
