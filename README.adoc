@@ -27,7 +27,7 @@ _2014 Manchester International Summer School on Emerging (University of Manchest
 
 * link:http://www.slideshare.net/cuducos/s24b-goncalves-20140610[Crowdfunding and post-politics] (presentation slides)
 
-== Generating print friendly HTMLs
+== Print friendly versions
 
 *HTML*
 
@@ -36,9 +36,13 @@ To genearte print friendly HTML use link:http://asciidoctor.org/docs/install-too
  $ cd literature-review
  $ asciidoctor -a stylesheet=print.css -a stylesdir=../ -o politics.html politics.adoc
 
+*PDF*
+
 To generate a PDF, use link:http://www.princexml.com/[Prince] to convert the HTML. For example:
 
   $ prince politics.html
+
+*Word*
 
 If you prefer a Word version, use link:http://johnmacfarlane.net/pandoc/[Pandoc] to convert the HTML. For example:
 
