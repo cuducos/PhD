@@ -8,14 +8,16 @@ Eduardo Cuducos
 *Eduardo Gonçalves* +
 _University of Essex_
 
-This ongoing PhD research consists of a social and political analysis of the crowdfunding phenomenon. Platforms as Kickstarter or Indiegogo make initiatives tangible through actions of ordinary people, dismissing institutional support from government or corporations. The hypothesis is that a political analysis of these online gatherings might call into question the spaces where people pursue public and private interests.
+This ongoing PhD research consists of a social and political analysis of the crowdfunding phenomenon. 
 
-Arendt criticized the role of modern state as a guardian of individual freedom, highlighting that real possibilities of political action still restricted to political elites. Simultaneously private interests of corporations have compromised the political sphere, argues Wolin and Schedler. According to them states take decisions within the private realm, diminishing the spaces for public interests. Finally Bellah argued that this scenario and its emphasis in the private interests favored individualism. Yet, he adds, people are not comfortable with it: the lack of social ties makes them eager for connections.
+Platforms such as Kickstarter or Indiegogo make initiatives tangible through actions of ordinary people, dismissing institutional support from government or corporations. Through a social and political analysis of these online gatherings, my ongoing PhD research calls into question the spaces where people pursue public and private interests.
 
-The basis of this paper are interviews with people engaged with crowdfunding in Brazil, the UK and the USA. If the institutional conjuncture seems to seize the public sphere from people, citizens might be fighting back recreating the public realm within this purportedly private space. Instead of traditional political organizations (such as parties or social movements) crowdfunding benefits from practical disruptions emerged from new technologies. Yet it might grasps what post-representativeness could be or what a post-political pragmatic approach could look like. The discussion considers political possibilities and limitations of this new setting for private and public spaces.
+The relationship between public and private spheres of action has been long debated in the literature. Arendt criticized the role of modern state as a guardian of individual freedom, highlighting that real possibilities of political action still restricted to political elites. Simultaneously private interests of corporations have compromised the political sphere, argues Wolin and Schedler. According to them states take decisions within the private realm, diminishing the spaces for public interests. Finally Bellah argued that this scenario and its emphasis in the private interests favored individualism. Yet, he adds, people are not comfortable with it: the lack of social ties makes them eager for connections.
+
+This paper introduces some of my data and findings, focusing on interviews I conducted with people engaged with crowdfunding in Brazil, the UK and the USA. I start from the point that if the institutional conjuncture seems to seize the public sphere from people, citizens might be fighting back recreating the public realm within this purportedly private space. Instead of traditional political organizations (such as parties or social movements) crowdfunding benefits from practical disruptions emerged from new technologies. Yet at the same time crowdfunding might grasps what post-representativeness could be or what a post-political pragmatic approach could look like. The discussion considers political possibilities and limitations of this new setting for private and public spaces.
 
 Keywords:: crowdfunding, internet, politics, public space, private space.
 
-Word count:: 246
+Word count:: 269
 
 Conference:: Digital Sociology Mini-Conference within the link:http://www.essnet.org/?page_id=47[ESS Annual Meeting] (from Feb. 26 to Mar. 1st, 2015 -- New York, USA). 
