@@ -1,0 +1,71 @@
+= Crowdfunding and the reconfiguration of the public and private spaces
+Eduardo Cuducos
+:homepage: http://cuducos.me
+:numbered:
+:sectanchors:
+:icons: font
+
+*Eduardo Gonçalves* +
+_University of Essex_
+
+== Introduction
+
+The phenomenon of crowdfunding is among the several novelties brought to existence by the emergence of the internet and of the web 2.0. While the turn of century platforms for blogging and social networking were focused on the production of online contents by ordinary users, arguably what came next was the extrapolation of the digital boundaries. Underneath this claim lies a set of changes that includes (but is not limited to) the falling costs of production of different kinds of goods and services (from 3D printers to music production, for example), the easiness to find and collaborate with others world wide, and online shoppings delivering very specialized products all around the world. Yet this scenario takes into account more ideological changes, such as the idea of collaboration and of crowd sourced projects (the most renowned probably are Linux, Wikipedia or the Human Genome Project), the debate over intellectual property (such as the struggle and changes the music industry faced after the advent of the MP3, or yet Google book-scanning efforts and the succeeding debates) and the debates over privacy on the internet (specially after WikiLeaks, some specific Anonymous operations labeled as hacktivism, and the Edward Snowden case). In sum, the internet has been pivotal in transformations affecting several spheres of the social life, and within these changes crowdfunding is a specific mechanism that puts together different aspects of these novelties.
+
+Basically crowdfunding platforms are websites on which users expose their own projects and ideas, asking for financial contributions in order to be able to execute these projects. Enthusiasts can offer different amounts during the period in which the campaign is online. If the project is funded usually there are some rewards to those who made it possible. The biggest players in this field are Kickstarter and Indiegogo and different kind of projects have been funded through several platforms: from museums to individual's trips, from olympic athletes to personal charity, from technological gadgets to online education, from music albums to medical equipments, from comics to public transportation.footnote:[It is not the case of commenting on individual cases, but the references for the projects mentioned are (respectively): Tesla Museum (asked for US$ 850k, raised more than US$ 1.3m – http://www.indiegogo.com/teslamuseum), Destino Incomum (asked for US$ 100, raised US$ 1k – http://catarse.me/destinoincomum), Larissa Juk (asked and raised US$ 10k – http://catarse.me/larissario2016), Alan Barnes Fund (asked for US$ 750, raised US$ 495k – http://gofundme.com/l0dt9o), Glif (asked for US$ 10k, raised US$ 137k – http://kck.st/bb6Tuu), Escola Livre de Jornalismo (asked and raised US$ 9k – http://catarse.me/enois), Amanda Palmer (asked for US$ 100k, raised roughly US$ 1.3m – http://kck.st/JliwH9), Avado (asked for US$ 5k, raised US$1.3m – http://medstartr.com/projects/13), Corey Mohler (raising US$ 1.1k monthly through a recurring platform – http://patreon.com/ExistentialComics), and Kansas City B-cycle (raised 60% of the US$ 700k target – http://neighbor.ly/projects/bikesharekc).  All values were converted to US dollars when the project used a different currency.]
+
+The fact that such a variety of ideas are becoming tangible without a formal sponsorship of incumbent institutions (such as government or corporations) makes of crowdfudning a promising case for sociological studies. This ongoing doctoral research the focus on the way people engaged in this type of project employ a pro-active and hands on mode that challenge these incumbent institutions. Interestingly the tone of this challenging attitude is not of direct confront against policies or multi national companies, but simply of finding an alternative path, a path completely marginal from governments and corporations. In opposition to initiatives such as social movements or NGOs, crowdfunding unreservedly embraces the idea of profit and reshapes it as a sustainable mean to empower this marginal path. Profit is often dislocated from an endless accumulative disposition footnote:[As described, for example, in Weber's _The Protestant Ethic and the Spirit of Capitalism_ (1976).] and understood as a tool for autonomy, as an important resource to enable individual and collective (political) action.
+
+Yet the general disinterest of these individuals in traditional politics (such as elections or parties), together with their contempt for traditional careers within corporations place them in a peculiar position, inviting social researchers to explore the participation of this group in contemporary society. The idea is to understand how this behavior typical from crowdfunding engaged individuals calls into question the notions of the private and public realm in order to comprehend the role politics plays in their everyday life. Moreover, the idea is to explored how their activities might influence our wider understanding of politics.
+
+The next section explores current debates in terms of political theory. Arguably nowadays society has become more and more apolitical, both from the individual and collective perspectives. The conceptual framework employed takes this discussion into account and puts forward an approach focused on the understanding of the public ad the private realm. The following section offers an overview of the in-depth interviews that are the empirical support to this paper. Next there is the core of the findings, a discussion on the lifestyle of this crowdfunding community, their influences, and their (political) motivations to operate in such a marginal way to governments and corporations.
+
+== Literature review
+
+_Approx: 2 page_
+
+* What is public, what is private, and how politics fits?
+* Political participation today
+
+== Methodology
+
+_Approx: 1 page_
+
+== Crowdfunding culture
+
+…
+
+=== Lifestyle
+
+_Approx: 3 pages_
+
+* Maker culture, hacker culture: focus on action
+* Autonomy is the key word
+
+=== Internet native
+
+_Approx: 2 pages_
+
+* Intersection with different influences: hacker, open access
+
+=== Challenging incumbent institutions
+
+_Approx: 3-4 pages_
+
+* Lack of trust in (or not willing to depend on) in corporations and government as in Arendt.
+* But also the same behavior exists towards NGO, volunteering etc.
+
+
+== Debate: crowd funding initiatives, the private and the public
+
+_Max. 2 pages_
+
+* Politics as action - not as contemplation, as in Arendt.
+
+== References
+
+Belleflamme, P., Lambert, T., and Schwienbacher, A. (2013). Crowdfunding: Tapping the right crowd. _Journal of Business Venturing_, 29(1). Pp. 1-16.
+
+English, R. (2013). Rent-a-crowd? Crowdfunding academic research. _First Monday_, 19(1). Available at: http://firstmonday.org/ojs/index.php/fm/article/view/4818/3804 [Accessed: 20 Apr. 2014].
+
+Weber, M. (1976). _The Protestant Ethic and the Spirit of Capitalism_. London and New York: Routledge.
