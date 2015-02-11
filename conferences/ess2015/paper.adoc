@@ -19,12 +19,13 @@ The fact that such a variety of ideas are becoming tangible without a formal spo
 
 Additionally the general disinterest of these individuals in traditional politics (such as elections or parties), together with their contempt for traditional careers within traditional corporations, place them in a intriguing gap: they are not the virtuous citizens as imagined by theories of representative democracy, neither they seem to fit the traditional self-interested capitalist maximizing profits through a solid and stable professional career. Therefore this peculiar characteristics invite social researchers to explore the participation of this group in contemporary society. Here the idea is to understand how this attitudes calls into question the notions of the private and public realm and, subsequently, how it contributes to the comprehension of politics, both in their everyday life as well as in a wider understanding of politics.
 
-== Literature review
+The next section explores current debates in terms of political theory. Arguably nowadays society has become more and more anti political, both from the individual and institutional perspectives. Based on Arendt (1998, 1973), the conceptual framework employed here takes this discussion into account and puts forward an approach focused on the understanding of the public and the private realm within modern societies. The following section offers an overview of the in-depth interviews that are the empirical support to this paper. Next there is the core of the findings: from an analytical description of their lifestyle, the objective is to explore how their attitudes relates to the wider context of social institutions such as government, corporations, money and professional career. This analysis is based on their focus on individual autonomy and the controversial possibility of politics (as well as values inherent to the public realm) being revitalized through this process. 
 
+== The public and the private realms in a modern, anti political and individualist society
 _Approx: 2 page_
 
-* What is public, what is private, and how politics fits?
-* Political participation today
+* What is public, what is private, and how politics fits: explore Arendt's argument on the delegitimation of traditional political institutions, and how the concepts of public and private are situated in the core of this process (in other words, even the government in modern society is looking after and operating according to the private realm, leaving no space for the public one).
+* Discuss the relation (and importance) of action for Arendt's understanding of politics.
 
 == Crowdfunding and social institutions
 
@@ -36,35 +37,40 @@ Unintentionally the sample ended up being biased towards initiatives that make e
 
 The following section draws on my interviewee's personal experiences and life choices. The idea is to grasp how they deal with everyday choices regarding making a living of their projects, including personal aspirations and inspirations. Drawing on this micro sociological approach the subsequent section discusses how crowdfunding relates to social institutions, describing the subtle and the explicit challenges and criticism they foster. On top of that there is the sociological discussion regarding the public and the private realm as well as the possibilities for politics in modern society. 
 
+=== Lifestyle, non-traditional pathways and motivations
+
 _Approx: 3 pages_
 
-* Maker culture, hacker culture: focus on action
-* Autonomy is the key word
-
-=== Internet native
-
-_Approx: 2 pages_
-
-* Intersection with different influences: hacker, open access
+* Maker culture, hands-on attitude: focus on action.
+* Autonomy is the key driver.
+* Clarify that the digital culture has a tangible aspect of accessibility, easiness to communicate, to spread the word about one's project. But also, this crowdfunding community intersects with different (and more specific) influences such as hacker culture, and access to knowledge.
+* Putting all together, to the maker culture it is added an ideological component: the willing to make certain projects happen is an important motivation, even if no direct benefit is taken from this realization (maybe this is slightly different from more utilitarian market relationship, and arguably it fosters a certain kind of common good).
+* How they make a living (different projects, the idea of multiple smaller pots in opposition to a traditional career and the idea of an all-in in one single pot).
+* The importance of building a network based on mutual trust to sustain the individuals' projects.
 
 === Challenging incumbent institutions
 
-_Approx: 3-4 pages_
+_Approx: 5 pages_
 
-* Lack of trust in (or not willing to depend on) in corporations and government as in Arendt.
-* But also the same behavior exists towards NGO, volunteering etc.
-
+* From a radical standpoint, one could say that there is a complete lack of trust in corporations and government; a more subtle view would argue that people engaged in crowdfunding simply do not want to depend on these incumbent and traditional institutions.
+* Connect this attitude to Arendt's critique of modern societies and the mitigating of the public realm. Also to private interest being persuasive within corporations and government (Wolin).
+* Extend the argument to the contempt for NGO, volunteering, social movements and other traditional a approaches to politics: when there is the attempt to be universal, to shadow the individual, there is contempt.
+* The peculiar role of money (and profit) as a requirement to ensure autonomy and means for action to the individual. 
+* Discuss individuality and the value of building a network: on the one hand, networks helps in putting projects through, on the other, it could be a way to rescue the idea of citizenship that was lost according to Arendt's claims (link to Bellah's individualism).
 
 == Debate: crowd funding initiatives, the private and the public
 
-_Max. 2 pages_
+_Approx: 2 pages_
 
-* Politics as action - not as contemplation, as in Arendt.
+
+* How their idea autonomy is linked to an ideal of building a better world in a very personal, subjective, individual, non-expansive and local way (how it is egocentric, but not egoistic; it values the individual to the extent that the idea of _let's change the world_ is a representation of an unacceptable violence against the individuality).
+* The bright side: politics as action, not as contemplation (Arendt), and the possibility of a public realm, of of a different kind of awareness towards social ties (also related to Arendt's claims)
+* The dark side: Weber, his hunch on the charismatic authority (the risks of trusting the charisma, the individual visions and dreams, as an escape from bureaucratic modern – and rather inefficient – institutions), and what Weber could not testify: the emergence of National Socialism (which, interestingly, was the starting point to Arendt's thought).
 
 == References
 
-Belleflamme, P., Lambert, T., and Schwienbacher, A. (2013). Crowdfunding: Tapping the right crowd. _Journal of Business Venturing_, 29(1). Pp. 1-16.
+Arendt, H. (1973[1963]). _On Revolution_. Bungay: Penguin.
 
-English, R. (2013). Rent-a-crowd? Crowdfunding academic research. _First Monday_, 19(1). Available at: http://firstmonday.org/ojs/index.php/fm/article/view/4818/3804 [Accessed: 20 Apr. 2014].
+Arendt, H. (1998[1958]). _The Human Condition_. 2 ed. Chicago and London: University of Chicago Press.
 
 Weber, M. (1976). _The Protestant Ethic and the Spirit of Capitalism_. London and New York: Routledge.
