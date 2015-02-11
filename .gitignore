@@ -1,12 +1,6 @@
 # Rendred HTML and DOCX
 *.html
 *.docx
-
-# PyCharm IDE
-.idea
-
-# Zed code editor
-.zedstate
 *.pdf
 
 # vim
@@ -45,5 +39,3 @@ Network Trash Folder
 Temporary Items
 .apdisk
 Icon
-
-
