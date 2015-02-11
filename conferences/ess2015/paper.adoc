@@ -26,15 +26,15 @@ _Approx: 2 page_
 * What is public, what is private, and how politics fits?
 * Political participation today
 
-== Methodology
+== Crowdfunding and social institutions
 
-_Approx: 1 page_
+Drawing on 10 in-depth semi-structured interviews this paper organizes the findings of the first round of data collection for this project. According to the wider research design this set of interviews intended to explore the world views of people engaged in crowdfunding platforms in two different levels: founders or staff of these platforms, and project creators, that is, people who have recently submitted projects to these platforms. The access to this public is not uncomplicated. For instance, some of the platforms featuring among the wealthiest startups of recent years are considerably closed for interviews, only expressing themselves through their own public relations department. Very successful project creators usually end up dealing with thousands of followers on social media, making their attention to incoming message relatively unreliable. In spite of that, this initial stage was able to interview people involved with seven different platforms (Indiegogo, CrowdCube, Catarse, Benfeitoria, Cinese and Unlock) from three different countries (USA, UK and Brazil). The interviewees, 4 women and 6 men, were from four different countries (the three above plus Romania) with ages varying from 24 to 61 years old. Names and other references that could be used to identify informants have been anonymized. The entry points for access to these people involved different initiatives: attempts to direct contact through email and social media, attendance to events and places related to sharing economy and similar topics, personal contacts in the entrepreneur and technological scene in the USA and Brazil, and, mainly, snowballing.
 
-== Crowdfunding culture
+The structure of the interview was funnel shaped: the fist topic was focused on self identity, lifestyle, main activities and projects, and on one's own biography and life trajectory. Usually the conversation would end up in crowdfunding, which was exactly the second block of the interview: discussing why they have embraced these platforms (whether it was as founder, staff or project creator) and how the experience was, or have been so far. Finally, if issues about government, corporations and formal politics have not emerged, some verification was done at the final part of the interview, in order to assimilate interviewee's perception about these institutions. 
 
-…
+Unintentionally the sample ended up being biased towards initiatives that make efforts to differentiate themselves from the mainstream startup and entrepreneurship agenda. On the one hand, this was due to the aforementioned difficult in getting access to big players. For instance, when I had access to the personal email address of a former staff of one of these platforms, she was unable to conceive what she could offer me beyond what was already available in the public relations material of her former employer. She ended up declining my invitation for interview, apologising and referring to her former employer guidelines of conduct. On the other hand, this difficulty to gain access to the startup driven enterprises, together with the easiness to gain access to the alternative branch, reinforces the different approach which was, in fact, more relevant to the sociological discussion proposed here, that is to say, to the marginal path I shall expand on below.
 
-=== Lifestyle
+The following section draws on my interviewee's personal experiences and life choices. The idea is to grasp how they deal with everyday choices regarding making a living of their projects, including personal aspirations and inspirations. Drawing on this micro sociological approach the subsequent section discusses how crowdfunding relates to social institutions, describing the subtle and the explicit challenges and criticism they foster. On top of that there is the sociological discussion regarding the public and the private realm as well as the possibilities for politics in modern society. 
 
 _Approx: 3 pages_
 
