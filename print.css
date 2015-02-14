@@ -7,7 +7,7 @@
 @page {
 
     size: 21cm 29.7cm;
-    margin: 2.5cm;
+    margin: 2cm;
     orphans:3;
     widows:3;
     counter-increment: page;
@@ -15,7 +15,7 @@
     @bottom-center {
         content: counter(page) " of " counter(pages);
         color: #000;
-        font-size: 11pt;
+        font-size: 9pt;
         font-style: italic;
         font-family: 'Cardo', serif;
     }
@@ -38,7 +38,7 @@ body {
     color: #000;
     padding: 0;
     margin: 0;
-    line-height: 2;
+    line-height: 1.5;
     text-align: justify;
 }
 
@@ -153,6 +153,11 @@ h2, h3, h4, h5, h6 {
 #preamble {
     text-align: right;
     line-height: 1.2;
+}
+
+.sidebarblock {
+    margin: 4rem 1cm auto 1cm;
+    text-align: justify;
 }
 
 span.footnote {
