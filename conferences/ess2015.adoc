@@ -8,6 +8,19 @@ Eduardo Cuducos
 *Eduardo Gonçalves* +
 _University of Essex_
 
+****
+*Abstract*
+
+This ongoing PhD research consists of a social and political analysis of the crowdfunding phenomenon. Platforms such as Kickstarter or Indiegogo make initiatives tangible through actions of ordinary people, dismissing institutional support from government or corporations. Through a social and political analysis of these online gatherings, my ongoing PhD research calls into question the spaces where people pursue public and private interests.
+
+The relationship between public and private spheres of action has been long debated in the literature. Arendt criticized the role of modern state as a guardian of individual freedom, highlighting that real possibilities of political action still restricted to political elites. Simultaneously private interests of corporations have compromised the political sphere, argues Wolin and Schedler. According to them states take decisions within the private realm, diminishing the spaces for public interests. Finally Bellah argued that this scenario and its emphasis in the private interests favored individualism. Yet, he adds, people are not comfortable with it: the lack of social ties makes them eager for connections.
+
+This paper introduces some of my data and findings, focusing on interviews I conducted with people engaged with crowdfunding in Brazil, the UK and the USA. I start from the point that if the institutional conjuncture seems to seize the public sphere from people, citizens might be fighting back recreating the public realm within this purportedly private space. Instead of traditional political organizations (such as parties or social movements) crowdfunding benefits from practical disruptions emerged from new technologies. Yet at the same time crowdfunding might grasps what post-representativeness could be or what a post-political pragmatic approach could look like. The discussion considers political possibilities and limitations of this new setting for private and public spaces.
+
+*Keywords* +
+crowdfunding, internet, politics, public space, private space.
+****
+
 == Introduction
 
 The phenomenon of crowdfunding is among the several possibilities brought to existence by the emergence of the internet and of the web 2.0. While the turn of century platforms for blogging and social networking were focused on the production of online contents by ordinary users, arguably what came next was the extrapolation of the digital boundaries. Underneath this claim lies a set of changes that includes (but is not limited to) the falling costs of production of different kinds of goods and services (from 3D printers to video production, for example), the easiness to find and collaborate with others world wide (which basically started with emails, but expanded to the most different and specific kinds of platforms), and niche online stores delivering very specialized products all around the world (from tools for peculiar hobbies, to DIY supplies and technological gadgets). Yet this scenario takes into account abstract and intangible changes, such as the idea of collaborative and crowdsourced projects (the most renowned being Linux, Wikipedia and the Human Genome Project), the debate over intellectual property (such as the struggle and changes the music industry faced after the advent of the MP3, or yet Google book-scanning efforts and the succeeding debates) and the dispute over privacy on the internet (specially after WikiLeaks, specific Anonymous operations labeled as hacktivism, and the Edward Snowden case). In sum, the internet has been pivotal to transformations that affect several spheres of the social life. And within these changes crowdfunding is a specific mechanism that puts together different aspects of these novelties.

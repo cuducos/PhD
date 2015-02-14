@@ -155,6 +155,11 @@ h2, h3, h4, h5, h6 {
     line-height: 1.2;
 }
 
+.sidebarblock {
+    margin: 4rem 1cm auto 1cm;
+    text-align: justify;
+}
+
 span.footnote {
     font-size: .7em;
     line-height: 0;
