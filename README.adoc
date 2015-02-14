@@ -6,11 +6,11 @@ I'm a PhD student in sociology at the http://www.essex.ac.uk[University of Essex
 
 And, yes, I'm geek enough to prefer a markdown language rather than a word processor, GitHub rather than word processors' comments and tracking tools.
 
-As you probably have discovered by yourself, I’m not a native english speaker. I’m really sorry for all the small crimes I commit with your beloved language. I’d be really glad if you point them out.
+As you probably have discovered by yourself, I'm not a native English speaker. I'm really sorry for all the small crimes I commit with your beloved language. I'd be really glad if you point them out.
 
 If this introduction is not enough, you can start to http://cuducos.me[stalk me]. 
 
-== Privisional title and abstract
+== Provisional title and abstract
 
 *Crowdfunding and the possibilities within contemporary political theory: world views and post-politics*
 
@@ -41,7 +41,7 @@ _2014 Manchester International Summer School on Emerging (University of Manchest
 
 *HTML*
 
-To genearte print friendly HTML use link:http://asciidoctor.org/docs/install-toolchain/[AsciiDoctor Toolchain] and the customized CSS included in this repository. For example:
+To generate print friendly HTML use link:http://asciidoctor.org/docs/install-toolchain/[AsciiDoctor Toolchain] and the customized CSS included in this repository. For example:
 
  $ cd literature-review
  $ asciidoctor -a stylesheet=print.css -a stylesdir=../ -o politics.html politics.adoc
