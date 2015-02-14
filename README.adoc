@@ -31,7 +31,7 @@ This research is based on interviews I conducted with people engaged with crowdf
 
 _Mini-conference on Digital Sociology (2015 ESS Annual Meeting)_
 
-* link:conferences/ess2015/abstract.adoc[Crowdfunding and the reconfiguration of the public and private spaces] (abstract)
+* link:conferences/ess2015.adoc[Crowdfunding and the reconfiguration of the public and private spaces] (paper)
 
 _2014 Manchester International Summer School on Emerging (University of Manchester)_
 
