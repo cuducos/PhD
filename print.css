@@ -160,7 +160,8 @@ h2, h3, h4, h5, h6 {
     text-align: justify;
 }
 
-span.footnote {
+span.footnote,
+blockquote span.footnote {
     font-size: .7em;
     line-height: 0;
     position: relative;
