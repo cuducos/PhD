@@ -126,12 +126,20 @@ In sum what is clear is that the argument in favor of individual autonomy, of em
 
 == Debate: crowd funding initiatives, the private and the public
 
-_Approx: 2 pages_
+According to Jaffe (1997) one of the signals of the antipolitics mechanisms regarded above is disconnectedness: since the public realm is fading out, since the private realm (embodied by the corporation market) is expanding significantly within society, the Hobbesian notion of politics is also fading out. The idea of individuals acting according to a set of agreed-upon rules is called into question and individual judgments is replacing collective structures such as legal jurisdiction, for example. The basic tension here is weather or not citizens' ability to easily connect, associate and act together through private enterprises is able to promote politics on a public understanding. The case here is crowdfunding, but as the argument is similar to Tocqueville's (1986) arguments about the US, it worth it to recall the paradox he put: if citizens were familiar to grand theories such as political virtues they would handle them in a way that inserted this knowledge in the private realm. In other words, in spite of the associations, judgements derived from political ideas ended up as a matter of individual choice, not as something to be discussed publicly. Or, yet, the phenomenon would tend to sustain that moral and judgement are things to be held in the private, not debated throughout public life.
 
-* Inidividualism and Bellah
-* How their idea autonomy is linked to an ideal of building a better world in a very personal, subjective, individual, non-expansive and local way (how it is egocentric, but not egoistic; it values the individual to the extent that the idea of _let's change the world_ is a representation of an unacceptable violence against the individuality).
-* The bright side: politics as action, not as contemplation (Arendt), and the possibility of a public realm, of of a different kind of awareness towards social ties (also related to Arendt's claims)
-* The dark side: Weber, his hunch on the charismatic authority (the risks of trusting the charisma, the individual visions and dreams, as an escape from bureaucratic modern – and rather inefficient – institutions), and what Weber could not testify: the emergence of National Socialism (which, interestingly, was the starting point to Arendt's thought).
+Bellah _at al_ (2008) follow Tocqueville's argument, reinforcing the need to have individuals views scrutinized in public. However, what Bella _et al_ conclude is that contemporary society is experiencing an individualization process — and their work focus on understanding this individualization. Accordingly, they put forward four different ideal types of individualization: a biblical, a republican, a utilitarian and a expressive. For them, while the first two types are not so common nowadays (or, at least, by mid-1980s, when the book was first published), the last two types are very typical:
+
+[quote]
+For contemporary individualism, so Bellah tells us, is either utilitarian, that is, largely concerned with short-term and generally materialistic utility calculations or expressive, in other words, oriented towards satisfaction of emotional needs and the cultivation of oneself (Joas and Knöbl 2009:493).
+
+This framework may be useful for further analysis regarding the crowdfunding communities, but it is possible to sustain some hypothesis regarding possible changes in this scenario. The contempt for politics foreseen by Jaffe and the utilitarian individualism put forward by Bellah _et al_ can be called into question by recent researches. For instance, Bennett _at al_ (2013) claim for a slightly different concept, namely, the _disavowal of politics_. In spite of the predictions that a skeptical behavior towards politics would repel people from political action, they claim for an idea of a _skeptical engagement_ with two different possibilities: “a context of mistrust and cynicism might discourage or pervert political participation, on the one hand, or spur innovation, on the other” (2013:537). Deep down they showed how civic organizations strategically deny the label of ‘politics’ in order to better engage with and to promote change within the local community. Interestingly, this former objective included activities that can be considered very political in nature, such as joining the city council, or lobbying with the local politicians and government. Yet, this phenomenon of denying certain labels, without necessarily changing the nature of the activity, is also found elsewhere in the literature. For instance, in registering the birth of the area of social movements, Borch (2012:259-60) describes that the scholars involved strategically put aside the jargon that would link them to the negative approach to crowds and masses: “to avoid the association with the register of abnormality, irrationality, crowds and masses, scholars now argued for a more rational conception of social movements where these were seen as entities aiming to achieve specific, commonly shared purposes.” 
+
+In sum, rather than departing from common place critiques inherited from political theory, it seems more fruitful to grasp how the crowdfunding community conceives the public realm. The hypothesis is that new forms of public realm, new forms of acting according to agreed-upon rules and values might be at stage. If this hypothesis is correct these novelties may reinterpret the processes of individualization, of mitigating of the public realm as well as it might consist of a call for a reconstruction of traditional concepts from political theory.
+
+What is at sake is the inherent tension put forward by crowdfunding: on the one hand their focus on individual autonomy seems to foster an atomized private realm, relegating the decisions about what should and should not be done to the sphere of individual moral and judgements. On the other hand, the mechanism embraced by crowdfunding, from the functioning of the online campaigns to the dependence built on ties with a close network, requires this decision to held by a greater audience: without supporters, no project becomes reality, without collaboration within the network (open source included), less action is possible. Their idea is linked the building of an alternative space in a very personal, subjective, individual, non-expansive and local way. They refrain the idea of _changing the world_ themselves — that would be an unacceptable violence against the individuality.
+
+The brightest possibility would be to understand that politics can be about empowering action — and not only about contemplation, as in ancient Greece (Arendt 1998). Therefore opening more possibilities for ordinary people to act could be a way of (re)engagement in politics. In that scenario individualistic antipolitics would be declined in as so far each idea, project or proposal would still be dependent on a plurality in order to become reality, to become action (even if this plurality can be considerably smaller than the majority usually requested by formal democracies). The intrinsic requirement of financial and community support to execute projects creates a kind of gatekeeper for individual moral and judgements. However political theory also suggests a dark possibility. For instance Weber's (1986) late writings argue that his disavowal of the bureaucratic government could be overcome by a more charismatic leader, a concept used opposed to tradition and legal forms of authority; arguably a strong trace of individuality and subjectivity would be at the basis of this political leader. Weber passed away in 1920 and between his oeuvre and Arendt's one what Germany hosted was one of the worst genocides of all times. A leader with charismatic characteristics emerged from the National Socialism took the power and the disaster that followed is one of the main the motivation for Arendt's main writings.
 
 == References
 
@@ -141,15 +149,23 @@ Arendt, H. (1973). _On Revolution_. Bungay: Penguin.
 
 Arendt, H. (1998). _The Human Condition_. 2 ed. Chicago and London: University of Chicago Press.
 
+Bellah, R., Madsen, R., Sulliva, W., Swidler, A. and Tipton, S. (2008). _Habits of the heart_. Berkeley: University of California Press.
+
 Benkler, Y. (2010). The Idea of Access to Knowledge and the Information Commons: Long-Term Trends and Basic Elements. In Krikorian, G. and Kapczynski, A. (eds.). _Access to Knowledge: In the Age of Intellectual Property_. New York: Zone Books.
 
+Bennett, E. A., Cordner, A., Klein, P. T. and Baiocchi, G. (2013). Disavowing Politics: Civic Engagement in an Era of Political Skepticism. _American Journal of Sociology_, 119(2). Pp. 518-548.
+
 Berlin, I (1999[1958]). Two Concepts of Liberty. In Warburton, N. (ed.) _Arguments for Freedom_. Milton Keynes: Open University. Pp. 155-165.
+
+Borch, C. (2012). _The Politics of Crowds: An Alternative History of Sociology_. Cambridge: Cambridge University Press.
 
 Coleman, E. G. (2013). _Coding Freedom: The Ethics and Aesthetics of Hacking_ [digital book]. Princeton: Princeton University Press.
 
 Habermas, J. (2005)._The Theory of Communicative Action: Lifeworld and System_. Boston: Beacon.
 
 Jaffe, E. (1997). Our Own Invisible Hand: Antipolitics as an American Given. In Schedler, A. (ed.) _The end of Politics? Explorations into Modern Antipolitics_. New York: Macmillan. Pp. 57-90.
+
+Joas, H. and Knöbl W. (2009). _Social Theory: Twenty Introductory Lectures_. Cambridge: Cambridge University Press.
 
 Kapczynski, A. (2010). Access to Knowledge. A Conceptual Genealogy. In Krikorian, G. and Kapczynski, A. (eds.). _Access to Knowledge. In the Age of Intellectual Property_. New York: Zone Books.
 
@@ -170,5 +186,7 @@ Tocqueville, A. (1986[1835]). _De la démocratie en Amérique, I_. Paris: Gallim
 Weber, M. (1976[1900]). _The Protestant Ethic and the Spirit of Capitalism_. London and New York: Routledge.
 
 Weber, M. (1978[1922]). _Economy & Society: An Outline of Interpretive Sociology_. Berkeley: University of California Press.
+
+Weber, M. (1986[1918]). The Reich President. _Social Research_, 53(1). Pp. 125-132.
 
 Wolin, S. (2004). _Politics and Vision: Continuity and Innovation in Western Political Thought_. Princeton and Oxford: Princeton University Press.
