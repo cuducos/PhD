@@ -1,0 +1,51 @@
+= Thesis Outline
+Eduardo Cuducos
+:homepage: http://cuducos.me
+:numbered:
+:toc:
+:sectanchors:
+:icons: font
+
+*Eduardo Gonçalves* +
+_2^nd^ year PhD student in sociology, University of Essex_
+
+== Introduction
+
+. Start with June 2013, protests going on in Brazil and a friend, pretty much engage in “disruptive innovation” lifestyle and entrepreneurship decided not to take part: if he cared so much about making a better world (at least for him), why he was ignoring the manifestation?
+. Hypothesis: new form of politics, outside the mainstream parties, social movements, elections etc.
+. Why crowdfunding?
+.. Social entrepreneurship, freelancing, and other alternatives were too _isolated_
+.. Crowdfunding (as well as these other options) had a strong reliance on people around them, on the weak and strong ties (a relationship that seemed more important than the already important networks play in the standard job market)
+.. Dewey and the role of technology when it comes to democracy
+.. Utopian and dystopian approaches connecting technological revolution to social change (maybe consider Pinch and Bijker's study on bikes, 1984)
+.. Reinforce that the point is mostly political (more than technological).
+.. If there is something social besides that, it is the indicators of a revised version of the _spirit of capitalism_ incarnated by a new lifestyle that considers money more as a process than as a thing.
+
+== Methodological discussion and literature review
+
+. Introduction
+.. Original research questions
+.. Original theoretical background 
+. Data collection
+.. Interviews: bias of people involved (grasp a specific world views instead of a quantitative assessment of immediate impact)
+.. Similarities to Weber's, but not able to focus on historical analysis
+.. The focus is not to describe them, but their world view (as in Weber, the psychological sanctions differ from the theology of the religion)
+.. Secondary data (blog posts, news, social network): external validity and also context (institutional relationship: is they are an isolation bubble, this secondary data represents, at least, the margins of that bubble, how it relates to an external world)
+. Analysis
+.. World view when it comes to action (self-interest and politics, the focus is the realization of projects, not necessarily money)
+.. How they position they self in the world (resignifying money as a process, not a thing)
+.. Possibility of politics
+. Literature review on money
+.. Spirits of capitalism and their cores (Weber, Boltanski and Chiapello, Taylor and Land)
+.. Money as a process vs Money as a thing (Zelizer, Graeber and Dodd)
+. Literature review on politics
+.. Modern institutions and its discontents (Arendt)
+.. Action and politics (Arendt, Bellah)
+.. Post-politics, post-representativeness, post-engagement (Tocqueville, Bellah, Mouffe)
+. Overarching theoretical questions
+.. What is the nature of the political participation of crowdfunding?
+.. What to expect from it, dark and bright side (Weber, Arendt)
+
+****
+Should STS be part of the literature review?
+****
