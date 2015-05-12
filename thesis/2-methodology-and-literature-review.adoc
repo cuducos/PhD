@@ -1,4 +1,4 @@
-= Thesis Outline
+= 2. Methodology and Literature Review
 Eduardo Cuducos
 :homepage: http://cuducos.me
 :numbered:
@@ -9,19 +9,10 @@ Eduardo Cuducos
 *Eduardo Gonçalves* +
 _2^nd^ year PhD student in sociology, University of Essex_
 
-== Introduction
+****
 
-. Start with June 2013, protests going on in Brazil and a friend, pretty much engage in “disruptive innovation” lifestyle and entrepreneurship decided not to take part: if he cared so much about making a better world (at least for him), why he was ignoring the manifestation?
-. Hypothesis: new form of politics, outside the mainstream parties, social movements, elections etc.
-. Why crowdfunding?
-.. Social entrepreneurship, freelancing, and other alternatives were too _isolated_
-.. Crowdfunding (as well as these other options) had a strong reliance on people around them, on the weak and strong ties (a relationship that seemed more important than the already important networks play in the standard job market)
-.. Dewey and the role of technology when it comes to democracy
-.. Utopian and dystopian approaches connecting technological revolution to social change (maybe consider Pinch and Bijker's study on bikes, 1984)
-.. Reinforce that the point is mostly political (more than technological).
-.. If there is something social besides that, it is the indicators of a revised version of the _spirit of capitalism_ incarnated by a new lifestyle that considers money more as a process than as a thing.
+*Outline* (~8000-900 words)
 
-== Methodological discussion and literature review (8-9k words)
 
 . Introduction
 .. Original research questions
@@ -44,3 +35,5 @@ _2^nd^ year PhD student in sociology, University of Essex_
 . Overarching theoretical questions
 .. What is the nature of the political participation of crowdfunding?
 .. What to expect from it, dark and bright side (Weber, Arendt)
+
+****
