@@ -10,7 +10,6 @@ Eduardo Cuducos
 _2^nd^ year PhD student in sociology, University of Essex_
 
 ****
-
 *Outline*
 
 . Start with June 2013, protests going on in Brazil and a friend, pretty much engage in “disruptive innovation” lifestyle and entrepreneurship decided not to take part: if he cared so much about making a better world (at least for him), why he was ignoring the manifestation?
@@ -23,3 +22,20 @@ _2^nd^ year PhD student in sociology, University of Essex_
 .. Reinforce that the point is mostly political (more than technological).
 .. If there is something social besides that, it is the indicators of a revised version of the _spirit of capitalism_ incarnated by a new lifestyle that considers money more as a process than as a thing.
 ****
+
+In June 2013 Brazil was going through a very intense political moment. In the middle of a  “lavish spending on World Cup soccer stadiums” (New York Times 2013) all over the country, the major of São Paulo announced a 0.20 Brazilian Reais (less than 0.10 US dollars) raise in public-transit fare. In response a social movement called _The Free Fare Movement_ went to the streets in protest but the initiative was severely punished with police brutality. These apparently local issues triggered a national reaction: in the next days protests took place all over the country mobilizing millions of Brazilians. These events have not passed unnoticed. At their apex, for instance, they were at the front page and at an editorial of the June 21st edition of _The New York Times_. One week later, by June 28th, the protests got another front page in the same newspaper.footnote:[See New York Times 2013, Romero and Neuman 2013, and Romero 2013, respectively.]
+
+One of the catchphrase heard everywhere was “It’s not just about 20 cents.” In other words people were not pulled to the streets by the public-transit fare cause, neither by the excessive use of police force alone: “marches and demonstrations have revealed public anger at skewed spending priorities and failures in education and other social services as well as a broad constituency for change” (New York Times 2013). There was a lot of unvoiced public dissatisfaction and the events in São Paulo were not relevant _per se_, but the subsequent outrage was used to finally express this political climate:
+
+[quote]
+Across the nation, protesters keep taking to the streets by the thousands, venting their anger at a broad range of politicians and problems, including high taxes and deplorable public services. But a special ire has been reserved for Congress and its penchant for sheltering dozens of generously paid legislators who have been charged — and sometimes even convicted — of crimes like money laundering, bribery, drug trafficking, kidnapping and murder (Romero 2013).
+
+The popular uprising was supported by massive participation in the street, by wide coverage and discussion in the formal media as well as in social networks, and by generalized popular sympathy. The political pressure set was being build by a plural, non-partisan, and spontaneous movement. The hope to democratically build a strong and democratic republic was getting a boost in Brazil. 
+
+== References
+
+New York Times, The Editorial Board (2013). Social Awakening in Brazil. _The New York Times_, 21 Jun. 2013. Pp. A22. Available at: http://www.nytimes.com/2013/06/21/opinion/social-awakening-in-brazil.html [Accessed: 21 Jun. 2013].
+
+Romero, S. (2013).  Public Rage Catching Up With Brazilian’s Congress. _The New York Times_, 28 Jun. 2013. Pp. A1. Available at: http://www.nytimes.com/2013/06/28/world/americas/public-rage-catching-up-with-brazils-congress.html [Accessed: 28 Jun. 2013].
+
+Romero, S. and Neuman, W. (2013). Level of Unrest In Brazil Stuns Even Protesters. _The New York Times_, 21 Jun. 2013. Pp. A1. Available at: http://www.nytimes.com/2013/06/21/world/americas/brazil-protests.html [Accessed: 21 Jun. 2013].
