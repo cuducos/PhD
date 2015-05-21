@@ -1,12 +1,6 @@
 # Rendred documents
 *.html
 *.docx
-
-# PyCharm IDE
-.idea
-
-# Zed code editor
-.zedstate
 *.pdf
 
 # vim
@@ -16,11 +10,9 @@
 Session.vim
 .netrwhist
 
-# KDE directory preferences
-.directory
-
 # Linux System
 *~
+.directory
 
 # Windows
 Thumbs.db
@@ -45,5 +37,3 @@ Network Trash Folder
 Temporary Items
 .apdisk
 Icon
-
-
