@@ -150,7 +150,7 @@ h2, h3, h4, h5, h6 {
     display: none;
 }
 
-#preamble {
+#preamble div:first-child div:first-child {
     text-align: right;
     line-height: 1.2;
 }
