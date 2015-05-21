@@ -46,6 +46,10 @@ To generate print friendly HTML use link:http://asciidoctor.org/docs/install-too
  $ cd literature-review
  $ asciidoctor -a stylesheet=print.css -a stylesdir=../ -o politics.html politics.adoc
 
+There is a custom script to remove the square brackets from the in-text footnote numbering:
+
+ $ python3 bracketless.py politics.html
+
 *PDF*
 
 To generate a PDF, use link:http://www.princexml.com/[Prince] to convert the HTML. For example:
