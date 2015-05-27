@@ -59,38 +59,50 @@ Next the semi-structured interviews may vary among different profiles of intervi
 
 Finally, after objectively introducing the topic of crowdfunding, the last block of the interview will address the opinions and views of the interviewee about crowdfunding in a broader sense. The investigation will inquiry about what interviewees expect from crowdfunding, how they position it with ‘traditional’ social sphere (such as business, politics or culture), and yet check a more aspirational approach, in order to grasp their collective and individual expectations related to crowdfunding mechanisms.
 
-The interviews, when possible, will be held in person (when financially possible) or remotely (using telephone, VoIP or video conference). The context that will be lacking in the remote interviews is not considered to represent a relevant loss of data in this particular case as (among other reasons) most of our participants are expected to be well articulated and used to express themselves in public (they will be entrepreneurs who found and manage online platforms, or they put their own projects online to public, or yet they voluntarily engage with these projects, spreading the word about it).
-
-The content of the interviews will be recorded (according to the consent of the interviewee), transcribed and analyzed. It will be up to the interviewee to be anonymized or not. Next the focus will be on the coding and condensation of meaning. The idea is to condensate the most relevant units, and use the coding to categorize the bits of information. This qualitative analysis technique will lead to a grounded theory approach (Kvale and Brinkmann 2009). The next step will be to triangulate this content with other sources, with data collected from the platforms themselves and from the interviewees’ online profiles. This process allows a contextual interpretation of the meaning of these units of information, as well as validation of the content of the interviews – another basis for a grounded theory approach (Kvale and Brinkmann 2009).
+The interviews, when possible, will be held in person (when financially possible) or remotely (using telephone, VoIP or video conference). The context that will be lacking in the remote interviews is not considered to represent a relevant loss of data in this particular case as (among other reasons) most of our participants are expected to be well articulated and used to express themselves in public (they will be entrepreneurs who found and manage online platforms, or they put their own projects online to public, or yet they voluntarily engage with these projects, spreading the word about it). The content of the interviews will be recorded (according to the consent of the interviewee), transcribed and analyzed. It will be up to the interviewee to be anonymized or not. Next the focus will be on the coding and condensation of meaning. The idea is to condensate the most relevant units, and use the coding to categorize the bits of information. This qualitative analysis technique will lead to a grounded theory approach (Kvale and Brinkmann 2009). The next step will be to triangulate this content with other sources, with data collected from the platforms themselves and from the interviewees’ online profiles. This process allows a contextual interpretation of the meaning of these units of information, as well as validation of the content of the interviews – another basis for a grounded theory approach (Kvale and Brinkmann 2009).
 
 == Literature Review
 
+The focus of this research, identifying and describing possibilities of politics within crowdfunding communities, is based on critiques from political theory towards the possibility of political action and engagement in contemporary society. Most of this framework discusses the nineteenth and twentieth centuries modern world, specially when it comes to  sociological, political and philosophical implications. On the one hand, these oeuvres are reflecting upon the outcomes of the eighteenth century revolutions in the USA and in France (for example, Tocqueville 1986 or Arendt 1973); on the other, they are rethinking these results in the light of the terror spread during the two World Wars, and of the democratic states emerged thereafter (for example, Bellah _et al_ 2008 or Arendt 1998). A commonplace in such literature is to acknowledge the achievements of the Enlightenment, but to reinforce how it failed in completely putting forward some of the ideals that were at its core. For example Arendt (1973) did not deny the importance of modern political institutions such as parties and elections; they opened the political career for people from the lower classes, and the notion of forming an elite through the party replaced the old elites based on birth or wealth. However she also emphasized that the party framework is less meaningful in providing a government _by people_ than in recruiting, _from people_, an elite to govern them. In other words, the central question here is not the democratic (or republican) institutions _per se_, but the tangible possibility of political action for ordinary people.
+
+The first part of this section draws the framework of these critiques towards modern state, its democratic assumptions and failures. Next it discusses the contemporary debate built around this sort of flaws bringing in discussions around the arguably decline of political engagement in the turn of the twenty-first century. Finally it sets some challenges in thinking political action in contemporary society. The idea is to grasp the difficulties in studying politics today through the traditional approaches to political institutions, or, to put it differently, to take theory into account to understand how political action can be reinvented within nowadays tensions and conditions.
+
+=== Modern institutions and its discontents
+
 . Literature review on politics
 .. Modern institutions and its discontents (Arendt)
-.. Action and politics (Arendt, Bellah)
 .. Post-politics, post-representativeness, post-engagement (Tocqueville, Bellah, Mouffe)
-.. Intersection with economy, money and lifestyle (Graeber and Dodd)
+.. Action and politics (Arendt, Bellah)
+.. [Intersection with economy, money and lifestyle (Graeber and Dodd)]
 . Analysis & Overarching theoretical questions
 .. World view when it comes to action (self-interest and politics, the focus is the realization of projects, not necessarily money)
 .. How they position they self in the world (resignifying money as a process, not a thing)
 .. Possibility of politics
 .. What is the nature of the political participation of crowdfunding?
 .. What to expect from it, dark and bright side (Weber, Arendt)
+
 == TODO
 
 * Add Ritzer on Prosumption (2014 & 2015)
 * Consider hypothesis on what kind of morals are expected to be found within crowdfunding communities
 * Add a balance of the current sample
+* Include Tocqueville original publication date
+* Include Arendt (1873) original publication date
+* Include _De la démocratie en Amérique, II_
 
 == References
 
 Allen-Robertson, J. (2013). _Digital Culture Industry: A History of Digital Distribution_. Basingstoke and New York: Palgrave Macmilllan.
 
-Blaikie, N. (2010). _Designing Social Research: The Logic of Anticipation_. 2nd ed. Cambridge: Polity Press.
+Arendt, H. (1973). _On Revolution_. Bungay: Penguin. 
+
+Arendt, H. (1998[1958]). _The Human Condition_. 2 ed. Chicago and London: University of Chicago Press.
 
 Beer, D. and Burrows, R. (2007). Sociology And, Of and In Web 2.0: Some Initial Considerations. _Sociological Research Online_, 12(5).
 
 Bellah, R., Madsen, R., Sullivan, W. M., Swidler, A. and Tipton, S. M. (2008[1985]). _Habits of the Heat: Individualism and Commitment in American Life_. Berkeley: University of California Press.
+
+Blaikie, N. (2010). _Designing Social Research: The Logic of Anticipation_. 2nd ed. Cambridge: Polity Press.
 
 Canadian Press, The (2013). Kickstarter Crowdfunding Site Officially Launches in Canada: Canadian Entry Held Up by Red Tape, Financial Regulations, Co-Founder Says. Available at: http://www.cbc.ca/news/business/kickstarter-crowdfunding-site-officially-launches-in-canada-1.1703774 [Accessed: 20 Jan. 2014].
 
@@ -100,13 +112,13 @@ Catarse (2015b). Sites Using Catarse. Available at: http://github.com/catarse/ca
 
 Collins, R. (1986). _Weberian Sociological Theory_. Cambridge: Cambridge University Press.
 
-Hutchby, I. (2001). Technologies, Texts and Affordances. _Sociology_, 35. Pp. 441-56.
-
 Boltanski, L. and Chiapello, E. (2011[1999]). _Le Nouvel Esprit du Capitalisme_. Paris: Gallimard.
 
 Graeber, D. (2011). _Debt: The First 5,000 Years_. New York: Melville House.
 
 Indiegogo (2012). International Campaigns. Available at: http://support.indiegogo.com/entries/20882543-international-campaigns [Accessed: 20 Jan. 2014].
+
+Hutchby, I. (2001). Technologies, Texts and Affordances. _Sociology_, 35. Pp. 441-56.
 
 Kvale, S. and Brinkmann, S. (2009)._ Interviews. Learning the Craft of Qualitative Research Interviewing_. London: Sage.
 
@@ -123,6 +135,8 @@ Ritzer, G. and N. Jurgenson (2010). Production, Consumption, Prosumption: The Na
 Schedler, A. (1997). Introduction: Antipolitics -- Closing and colonizing the public sphere. In Schedler, A. (ed.) _The end of Politics? Explorations into modern antipolitics_. New York: Macmillan. Pp. 1-20.
 
 Taylor, S. and Land, C. (2014). The Good Old Days Yet to Come: Postalgic times for the new spirit of capitalism. _Management & Organizational History_, 9(2). Pp 202-219.
+
+Tocqueville, A. (1986). _De la démocratie en Amérique, I_. Paris: Gallimard.
 
 Weber, M. (1976[1900]). _The Protestant Ethic and the Spirit of Capitalism_. London and New York: Routledge.
 
