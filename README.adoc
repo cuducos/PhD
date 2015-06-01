@@ -33,7 +33,11 @@ There is a custom script to remove the square brackets from the in-text footnote
 
 *PDF*
 
-To generate a PDF, use link:http://www.princexml.com/[Prince] to convert the HTML generated above. For example:
+To generate a PDF, use link:http://weasyprint.org/[WeasyPrint] to convert the HTML generated above. For example:
+
+  $ weasyprint politics.html politics.pdf
+
+Alternatively you can try link:http://www.princexml.com/[Prince]:
 
   $ prince politics.html
 
