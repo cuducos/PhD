@@ -146,7 +146,7 @@ h2, h3, h4, h5, h6 {
     text-align: justify !important;
 }
 
-.hide, div.details, div#toc {
+.hide, div.details, div#toc, #author {
     display: none;
 }
 
