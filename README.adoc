@@ -19,9 +19,9 @@ If this introduction is not enough, you can start to http://cuducos.me[stalk me]
 
 *Conferences*
 
-_Mini-conference on Digital Sociology (2015 ESS Annual Meeting)_
+_ECREA Communication and Democracy Section Conference “Political Agency in the Digital Age” (Copenhagen Business School)_
 
-* link:conferences/ess2015.adoc[Crowdfunding and the reconfiguration of public and private space] (paper)
+* link:conferences/cd2015.adoc[Crowdfunding and the reconfiguration of public and private space] (paper)
 
 _2014 Manchester International Summer School on Emerging (University of Manchester)_
 
