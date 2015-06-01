@@ -121,34 +121,58 @@ Habermas’s diagnosis describes a scenario similar to the one addressed in the 
 [quote]
 Instead of trying to design the institution which, through supposedly ‘impartial’ procedures, would reconcile all conflicting interests and values, the task for democratic theorist and politicians should be to envisage the creation of a vibrant ‘agonistic’ public sphere of contestation where different hegemonic political projects can be confronted (Mouffe 2005:3).
 
-Therefore, the lack of trust and interest in the political institutions an be described as antipolitical through at least two arguments: in the one hand, it contributes to the mitigation of the public realm, which is suppressed by a self-regulated private one, the market (Schedler 1997); or, alternatively, whatever remains of the public realm starts to operate according to a logic inherent to the private sphere -- what Schedler (1997) calls an inverted Habermasian colonization.[4] To be sure, Wolin (2004:588) highlights that both -- state and market -- are appropriating the methods of one another: “it is not that the state and the corporations have become partners; in the process, each has began to mimic functions historically identified with the other.” According to him, corporations’ move includes being in charge or funding health care, education and other welfare affairs; in parallel, governments’ move includes applying profits logic, notions of efficiency and management, to buoy its own actions.
+Therefore, the lack of trust and interest in the political institutions can be described as antipolitical by (at least) two different arguments: in the one hand, it contributes to the mitigation of the public realm, which is suppressed by a self-regulated private one, the market (Schedler 1997); or, alternatively, whatever remains of the public realm starts to operate according to a logic inherent to the private sphere -- what Schedler (1997) calls an inverted Habermasian colonization. To be sure, Wolin (2004:588) highlights that both -- state and market -- are appropriating the methods of one another: “it is not that the state and the corporations have become partners; in the process, each has began to mimic functions historically identified with the other.” According to him, corporations’ move includes being in charge or funding health care, education and other welfare affairs; in parallel, governments’ move includes applying profits logic, notions of efficiency and management, to buoy its own actions.
 
-=== Technology and crowds: some notes on culture and politics
+The point here is not to demonize corporations or governments, but to reinforce how this conjecture affects political life. Bellat _et al_ (2008:259) argued that starting by the end of the nineteenth-century a populist agenda “sought to expand government power over economic life for the common good” in an attempt to fight the power of well established private corporations -- this establishment was creating, managing and maintaining public institutions such as universities, museums, churches, orchestras and hospitals. The argument of this populist agenda was that ordinary people should be able to decide for themselves, and economic power was taking this political power from them: “If the Establishment vision rearticulated important aspects of the republican ideal of common good in the turn-of-the-century America, Populism was the great democratizer, insisting on the incompleteness of a republic that excluded any of its members from full citizenship.”
 
-Start with Dewey and technological optimism.
+In sum, neither the rational deliberation and consensus possibility, nor the agonistic one, are hosted in nowadays political institutions. Instead, there is a disavowal for politics as such, since it is generally perceived as inefficient, misguided and corrupt. However this scenario may not eliminate politics as such, and people might find alternative ways to engage in the public and civic life (Bennett _et al_ 2013).
 
 === Action and politics
 
-… (Arendt, Mouffe, Sennett?) … +
-… Intersection with economy, money and lifestyle (Graeber and Dodd)? …
+The last section described what can be understood as a crisis in the contemporary political arena. The idea that voting would grant a accountable authority for the rulers and, at the same time, the sense of participation and freedom to the ruled, is still an unfinished project (Sennett 1980). The notion of participation and civic engagement through a representative government and election is called into question if ordinary people do not trust politics. However according to (Bennett _et al_ 2013:537) in spite of the predictions that this skepticism would move people away from politics, what was found was a ‘skeptical engagement’ with two different possibilities: “a context of mistrust and cynicism might discourage or pervert political participation, on the one hand, or spur innovation, on the other.” Their ethnographic fieldwork showed how civic organizations in Providence (RI, USA) strategically deny the label of ‘politics’ in order to better engage with and to promote change within the local community. Interestingly, this former objective included activities that traditionally are considered very political, such as joining the city council, or lobbying with the local politicians and government.
 
-== Analysis & Overarching theoretical questions
+What the research done by Bennett _et al_ (2013) suggests is that if politics is disinteresting for people, there is still space for actions focusing on the public realm, on the common good. In other words, the political institutions might not the instance people with a civic mindset are looking for. Wellmer (2000) commenting on Arendt’s political theory suggests that possibilities created within a given political context might be the core of a public and active sphere:
 
-. World view when it comes to action (self-interest and politics, the focus is the realization of projects, not necessarily money)
-. How they position they self in the world (resignifying money as a process, not a thing)
-. Possibility of politics
-. What is the nature of the political participation of crowdfunding?
-. What to expect from it, dark and bright side (Weber, Arendt)
+[quote]
+Arendt’s concern is not with justice but with (political) freedom. Hence, her brand of universalism is neither the normative universalism of human rights nor the inherent universalism of the modern economy. Rather, it is the universalism of a human _possibility_: the possibility of creating, in the midst of contingent historical circumstances, a space of public freedom (Wellmer 200:229, emphasis in original).
+ive. 
+In order to comprehend this proposal it is needed to go back to Arendt’s (1998:7) framework. For her _action_ is the essence of the humankind, in opposition to labor (meeting the basic needs related “to the biological process of human body”) and work (“the unnaturalness of human existence,” including the manufacture of tools to make labor easier and more productive for example). Action in that sense is held between humans “without the intermediary of things or matter.” Yet the relation between action and politics is highlighted by the German philosopher:
+
+[quote]
+Action … corresponds to the human condition of plurality, to the fact that men … live on earth and inhabit the world. While all aspects of human condition are somehow related to politics, this plurality is specifically the condition – not only the _conditio sine qua non_, but the _conditio per quam_ – of all political life … Action would be an unnecessary luxury, a capricious interference with general laws of behavior, if men were endlessly reproducible repetitions of the same model, whose nature or essence was the same for all and as predictable as the nature or essence of any other thing. Plurality is the condition of human action because we are all the same, that is, human, in such a way that nobody is ever the same as anyone else who ever lived, lives or will live” (Arendt 1998:7-8).
+
+If work and labor are held out of necessity, action is held as a virtue. Arendt (1998:20) differentiated immortality (typically found in Gods) from eternity (something that can be achieved by humans). As merely mortals, human beings can attempt to last for ever, not as immortals, but through actions, through worldliness deeds -- “no matter how concerned a thinker may be with eternity, the moment he sits down to write down his thoughts he cease to be concerned primarily with eternity and shift his attention to leaving some trace of them. He has entered the _vita activa_ and chosen its way to performance and potential immortality.” Her concept of _vita activa_ is similar to Aristotelian _bios politikos_ and to Augustinian _vita negotiosa_ or _vita actuosa_, that is to say, “a life devoted to public-political matters” (Arendt 1998:12).
+
+Therefore Arendt subscribe to the stream that defends that pursuing private interests, pursuing basic requirements for survival should not be allowed in the public sphere. Alternatively, this realm should deals with the plurality, with different interests and opinions, and with the dispute about the means to maintain this arena active. In this approach, freedom assumes a distinguished importance: “action and politics, among all the capabilities of human life, are the only things of which we could not even conceive without at least assuming that freedom exists … Without [freedom] political life as such would be meaningless. The _raison d’être_ of politics is freedom, and its field of experience is action” (Arendt 1968:146).
+
+When it comes to this plurality and to the freedom to hold different passions in a public sphere, Mouffe (2005:9) criticized Arendt arguing that this image of the public sphere depends too much on a consensus seeking logic: “Some theorists such as Hannah Arendt envisage the political as a space of freedom and public deliberation, while others see it as a space of power, conflict and antagonism. My understanding of ‘the political’ clearly belongs to the second perspective.“ For Mouffe politics should not be focused on deliberations on the common good, but on people’s desires, emotions and fantasies, and that is why she argues for the agnonistic view: politics presupose plurality and difference, and this difference should not be flatten by any kind of political process or institution.
+
+However, in Arendt and in Mouffe there is a primordial call when in comes to the public life: the need to support the emergence and maintenance of plurality throughout democratic societies. Both scholars, therefore, tend to agree that when the political institutions are closed to the creation of anew (as Jefferson feared), when political institutions are leaded by extremely rational and instrumental logic (as Mouffe criticized, since it minimize the importance of more subjective and human impulses, and as Arendt also criticized, since it narrows the boundaries between action, work and labor), and when political institutions do not favor the emergence of a public sphere for ordinary people (as Arendt argued) the democratic spirit is mitigated. In opposition to this scenario, when there is a public sphere able to host different opinions, when this public sphere is not limited to a political economy materially nurturing the big family called nation, when this public sphere is putting foward people’s dreams, and, most important, when this public sphere is pushing forging political institutions that would fit the anew, then the democratic process can be regarded as successful. 
+
+Hence, when it comes to looking for the possibility of politics in crowdfunding this research the focus will be more on exploring the potential of crowdfunding as a public sphere: a multitude of communities proposing different projects and actions that are based on individual or group aspirations; a multitude that depends on a minimum public approval to happen (and here lies a presumption that this could be understood as a profit seeking activity some times, but also as a civic engaging activity from times to times); and a multitude that, through technology, is able to gather enough supporters as well as enough funds to empower ordinary people to hold political claims (in the sense that they operate outside the traditional political institutions that were supposed do offer this possibility to ordinary people, that is to say, governments and, in some cases, corporations).
+
+The importance of technology, even if important, is not the focus. The idea that technology is crucial in promoting democracy is not new: “‘Invent the printing press and democracy is inevitable.’ Add to this: Invent the railway, the telegraph, mass manufacture and concentration of population in urban centers, and some form of democratic government is, humanly speaking, inevitable” (Dewey 1954:110). This idea also appears in other scholars from the last century, such as in Tarde’s (1989) defense of the role of the printing and newspaper in civilizing the public in 1901, or the importance Blumer (1939) put in electronic broadcasting on setting the tone of a free society (even if he recognized the possibility of mass manipulation). Instead of subscribing to a more utopian perspective (such as Dewey’s quote above), or a dystopian one (such as the centralization inferred by the manipulation pointed out by Blumer), the idea is to be sensible to how technology contributes to the construction of reality, and, therefore, how important aspects of political institution might be assuming different semantics -- for example political leadership (Margetts _et al_ 2013) or money (Dodd 2014). 
+
+The hypothesis used to frame the research questions is based on an arguably libertarian hacker, typical in many of the novelties emerging from the digital world. This ethic, “represent[s] a liberal critique within liberalism,” since “hackers question one central pillar of liberal jurisprudence, intellectual property, by reformulating ideals from another one, free speech” -- consequently revealing “the fault line between two cherished sets of liberal principle” (Coleman 2013). Surely this hypothesis is closer to an utopian standpoint, what does not impede the research to call this assumption into question, specially when these more autonomous initiatives (normally from free and open source niches) start to collide with incumbent institutions, triggering a set of negotiations between the challengers, the establishment and the public (Allen-Robertson 2013). The idea is to investigate the possibility of crowdfunding to challenge incumbent institutions such as government and corporations, or, in other words, the possibility of identifying elements of a public sphere in the crowdfunding communities. The perspective of people engaged is the key to understand their motivations, and that justifies the epistemological approach on world views: it is more relevant to understand their political aspirations and expectations than tangible and measurable social changes at this early stage.
+
+The medium and long term scenario it is understood that, on the one hand, the focus on autonomy nurtured by the hacker ethics seems to foster an atomized private realm, relegating the decisions about what should and should not be done to the sphere of individuals' moral and judgements. On the other hand, the mechanisms embraced by crowdfunding (from the functioning of the online campaigns to the dependence built on ties with a close network) require these decisions to be held by a greater audience: without supporters, no project becomes reality, without collaboration within the network (open source included), no action is possible. Their idea is linked to the building of an alternative space in a very personal, subjective, individual, non-expansive and local way.
+
+Recurring once more to the extremes of an utopian and a dystopian perspective, the brightest possibility would be to understand that politics can be about empowering action — and not only about contemplation and deliberation, as in ancient Greece (Arendt 1998). Therefore opening more possibilities for ordinary people to act in public could be a form of (re)engagement in politics. In that scenario individualistic antipolitics would be declined in as so far as each idea, project or proposal would still be dependent on a plurality in order to become action (even if this plurality can be considerably smaller than the majority usually required by formal democracies). The intrinsic need of financial and community support to execute projects through crowdfunding creates a kind of gatekeeper for individual moral and judgements, and, at the same time, create free and open spaces for the most different sort of dreams and initiatives. However political theory also suggests a dark possibility. For instance Weber’s (1986) late writings argue that his disavowal of the bureaucratic administration could be overcome by a charismatic leader — a concept usually employed as opposed to tradition and legal forms of authority in Weberian theory. He argued that a leader was necessary to revitalize the arguably inefficient German government. The problem was the “completely outmoded system of management by notables” (Weber 1986:130), that is to say, old professional and bureaucratic politicians, which was actually preventing the brightest intellectuals from engaging in politics. Charisma would be the basis of this new political leader, who should be strong enough to even dissolve the parliament if needed. Explicitly he argued for a strong president empowered through election as an alternative to challenge the power of the parliament, the outmoded system. Weber passed away in 1920 and between his and Arendt’s oeuvre Germany testified the emergence of the National Socialist dictatorship. A leader in fact was granted these powers in 1934 by almost 90% of the voters. A leader that would merge the role of president and chancellor, dissolve the parliament and opposing parties and interrupt all efforts to revive democracy in Germany after the Great War. Ironically a leader whose terror is of of the most important inspirations for Arendt’s first political writings. In sum, autonomous politics based on individual impulses, even if controlled by formal institutions, can destroy democracy and politics.
+
+This sort of theoretical questions are the background of this research: the more practical predisposition of people engaged with crowdfunding, as well as their justifications in terms of world views, are at the foreground of this research; at the same time the background is set by these overarching dilemmas of political theory, such as freedom, political action and what constitutes a democratic and active public sphere.
 
 == TODO
 
-* Add Ritzer on Prosumption (2014 & 2015)
+* Add Ritzer’s new papers on Prosumption (2014 & 2015)
 * Consider hypothesis on what kind of morals are expected to be found within crowdfunding communities
-* Add a balance of the current sample
+* Add a balance of the current sample/interviewees
+* Change the speculative tone of a work in progress research, to a more affirmative one as this is ti be published when the research is over
 
 == References
 
 Allen-Robertson, J. (2013). _Digital Culture Industry: A History of Digital Distribution_. Basingstoke and New York: Palgrave Macmilllan.
+
+Arendt, H. (1968). _Between Past and Future_. New York: Penguin. 
 
 Arendt, H. (1973[1963]). _On Revolution_. Bungay: Penguin. 
 
@@ -158,7 +182,11 @@ Beer, D. and Burrows, R. (2007). Sociology And, Of and In Web 2.0: Some Initial 
 
 Bellah, R., Madsen, R., Sullivan, W. M., Swidler, A. and Tipton, S. M. (2008[1985]). _Habits of the Heat: Individualism and Commitment in American Life_. Berkeley: University of California Press.
 
+Bennett, E. A., Cordner, A., Klein, P. T. and Baiocchi, G. (2013). Disavowing Politics: Civic Engagement in an Era of Political Skepticism. _American Journal of Sociology_, 119(2). Pp. 518-548.
+
 Blaikie, N. (2010). _Designing Social Research: The Logic of Anticipation_. 2nd ed. Cambridge: Polity Press.
+
+Blumer, H. (1939). Collective Behavior. In Park, R. E. (ed.). _An Outline of the Principles of Sociology_. New York: Barnes & Noble. Pp. 219-80.
 
 Boltanski, L. and Chiapello, E. (2011[1999]). _Le Nouvel Esprit du Capitalisme_. Paris: Gallimard.
 
@@ -168,9 +196,13 @@ Catarse (2015a). Catarse. Available at: http://github.com/catarse/catarse [Acces
 
 Catarse (2015b). Sites Using Catarse. Available at: http://github.com/catarse/catarse/wiki/Sites-using-Catarse [Accessed: 17 May 2015].
 
+Coleman, E. G. (2013). _Coding Freedom: The Ethics and Aesthetics of Hacking_ [digital book]. Princeton: Princeton University Press.
+
 Collins, R. (1986). _Weberian Sociological Theory_. Cambridge: Cambridge University Press.
 
 Dewey, J. (1954[1927]). _The Public and its Problems_. Athens: Swallow Press.
+
+Dodd, N (2014). _The Social Life of Money. Princeton: Princeton University Press.
 
 Graeber, D. (2011). _Debt: The First 5,000 Years_. New York: Melville House.
 
@@ -188,6 +220,8 @@ Kvale, S. and Brinkmann, S. (2009). _Interviews. Learning the Craft of Qualitati
 
 Kickstarter (2014). Kickstarter Stats. Available at: https://www.kickstarter.com/help/stats [Accessed: 20 Jan. 2014].
 
+Margetts, H., John, P., Hale, S. and Reissfelder, S. (2013). Leadership without Leaders? Starters and Followers in Online Collective Action. _Political Studies_, 63(2). Pp. 278-99.
+
 Mouffe, C. (2005). _On the Political_. London and New York: Routledge.
 
 Purewal, S. (2011). Kickstarter Faces Patent Suit Over Funding Idea. _PCWorld_. Available at: http://www.pcworld.com/article/241160/kickstarter_faces_patent_suit_over_funding_idea.html [Accessed: 20 Jan. 2014].
@@ -202,13 +236,19 @@ Sennett, R. (1980). _Authority_. New York: Alfred A, Knopf.
 
 Sniderman, P. M. and Bullock, J. (2004). A Consistency Theory of Public Opinion and Political Choice: The Hypothesis of Men Dependence. In Saris, W. E. and Sniderman, P. M. (eds.). _Studies in Public Opinion: Attitudes, Nonattitudes, Measurement Error, and Change_. Princeton and Oxford: Princeton University Press. Pp. 337-357.
 
+Tarde, G. (1989[1901])._L'opinion et la Foule_. Paris: Presses Universitaires de France.
+
 Taylor, S. and Land, C. (2014). The Good Old Days Yet to Come: Postalgic times for the new spirit of capitalism. _Management & Organizational History_, 9(2). Pp 202-219.
 
 Tocqueville, A. (1961[1840]). _De la démocratie en Amérique, II_. Paris: Gallimard.
 
 Tocqueville, A. (1986[1835]). _De la démocratie en Amérique, I_. Paris: Gallimard.
 
-Weber, M. (1976[1900]). _The Protestant Ethic and the Spirit of Capitalism_. London and New York: Routledge.
+Weber, M. (1976[1900] ). _The Protestant Ethic and the Spirit of Capitalism_. London and New York: Routledge.
+
+Weber, M. (1986[1919]). The Reich President. _Social Research_, 53(1). Pp. 125-132.
+
+Wellmer, A. (2000). Arendt on revolution. In Villa, D. _The Cambridge Companion to Hannah Arendt_. Cambridge: Cambridge University Press. Pp. 220-241.
 
 Wikipedia (2015). Comparison of Crowdfunding Services. Available at: http://en.wikipedia.org/wiki/Comparison_of_crowdfunding_services [Accessed: 17 May 2015].
 
