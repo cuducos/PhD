@@ -12,11 +12,11 @@ If this introduction is not enough, you http://cuducos.me[stalk me].
 
 * link:conferences/cd2015.adoc[Crowdfunding and the reconfiguration of public and private space] +
 Paper submitted to the _ECREA Communication and Democracy Section Conference -- Political Agency in the Digital Ager_, Copenhagen Business School, 2015
-* link:literature-review/politics.adoc[Contemporary political theory and the possibilities within crowdfunding] +
+* link:research-design/politics.adoc[Contemporary political theory and the possibilities within crowdfunding] +
 Literature review on politics, 2014
 * link:http://www.slideshare.net/cuducos/s24b-goncalves-20140610[Crowdfunding and post-politics] +
 Presentation slides for the _Manchester International Summer School on Emerging Technologies_, University of Manchester, 2014
-* link:literature-review/research-design.adoc[Post-politics and crowdfunding] +
+* link:research-design/research-design.adoc[Post-politics and crowdfunding] +
 Initial research design, 2014
 
 == Print friendly versions
@@ -25,7 +25,7 @@ Initial research design, 2014
 
 To generate print friendly HTML use link:http://asciidoctor.org/docs/install-toolchain/[AsciiDoctor Toolchain] and the customized CSS included in this repository. For example:
 
- $ asciidoctor -a stylesheet=print.css literature-review/politics.adoc
+ $ asciidoctor -a stylesheet=print.css research-design/politics.adoc
 
 There is a custom script to remove the square brackets from the in-text footnote numbering:
 
