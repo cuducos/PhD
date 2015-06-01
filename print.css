@@ -150,7 +150,7 @@ h2, h3, h4, h5, h6 {
     display: none;
 }
 
-#preamble {
+#preamble div:first-child div:first-child {
     text-align: right;
     line-height: 1.2;
 }
@@ -158,6 +158,10 @@ h2, h3, h4, h5, h6 {
 .sidebarblock {
     margin: 4rem 1cm auto 1cm;
     text-align: justify;
+}
+
+#content > div:last-child p {
+    text-align: left;
 }
 
 span.footnote {
