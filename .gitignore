@@ -1,4 +1,4 @@
-# Rendred HTML and DOCX
+# Rendred documents
 *.html
 *.docx
 *.pdf
@@ -10,11 +10,9 @@
 Session.vim
 .netrwhist
 
-# KDE directory preferences
-.directory
-
 # Linux System
 *~
+.directory
 
 # Windows
 Thumbs.db
