@@ -146,13 +146,18 @@ h2, h3, h4, h5, h6 {
     text-align: justify !important;
 }
 
-.hide, div.details, div#toc {
+.hide, div.details, div#toc, #author {
     display: none;
 }
 
 #preamble div:first-child div:first-child {
     text-align: right;
     line-height: 1.2;
+}
+
+.sidebarblock {
+    margin: 4rem 1cm auto 1cm;
+    text-align: justify;
 }
 
 #content > div:last-child p {

@@ -2,40 +2,22 @@
 Eduardo Cuducos
 :homepage: http://cuducos.me
 
-I'm a PhD student in sociology at the http://www.essex.ac.uk[University of Essex], my research focus is on politics and crowdfunding. Here I share my writings, fell free to read, comment, criticize…
-
-And, yes, I'm geek enough to prefer a markdown language rather than a word processor, GitHub rather than word processors' comments and tracking tools.
+I'm a PhD student in sociology at the http://www.essex.ac.uk[University of Essex], my research focus is on politics and crowdfunding. Here I share my writings, feel free to read, comment, criticize… (If you’re wondering, yes, I'm geek enough to prefer a markdown language rather than a word processor, GitHub rather than word processors' comments and tracking tools.)
 
 As you probably have discovered by yourself, I'm not a native English speaker. I'm really sorry for all the small crimes I commit with your beloved language. I'd be really glad if you point them out.
 
-If this introduction is not enough, you can start to http://cuducos.me[stalk me]. 
+If this introduction is not enough, you http://cuducos.me[stalk me]. 
 
-== Provisional title and abstract
+== Resources
 
-*Crowdfunding and the possibilities within contemporary political theory: world views and post-politics*
-
-Platforms such as Kickstarter or Indiegogo make initiatives tangible through actions of ordinary people, dismissing institutional support from government or corporations.  Through a social and political analysis of these online gatherings, my ongoing PhD research calls into question the spaces where people pursue public and private interests. 
-
-The relationship between public and private spheres of action has been long debated in the literature. Arendt criticized the role of modern state as a guardian of individual freedom, highlighting that real possibilities of political action still restricted to political elites. Simultaneously private interests of corporations have compromised the political sphere, argues Wolin and Schedler. According to them states take decisions within the private realm, diminishing the spaces for public interests. Finally Bellah argued that this scenario and its emphasis in the private interests favored individualism. Yet, he adds, people are not comfortable with it: the lack of social ties makes them eager for connections.
-
-This research is based on interviews I conducted with people engaged with crowdfunding in Brazil, the UK and the USA. I start from the point that if the institutional conjuncture seems to seize the public sphere from people, citizens might be fighting back recreating the public realm within this purportedly private space. Instead of traditional political organizations (such as parties or social movements) crowdfunding benefits from practical disruptions emerged from new technologies. Yet at the same time crowdfunding might grasps what post-representativeness could be or what a post-political pragmatic approach could look like. The discussion considers political possibilities and limitations of this new setting for private and public spaces, Moreover it explores the foundations of this new behaviour through the consolidation of a world view that differs from the one forged by the Weberian protestant ethic, setting new possibilities in terms of social action and social institutions.
-
-== Resources available
-
-*Research design*
-
-* link:literature-review/research-design.adoc[Post-politics and crowdfunding] (initial research design)
-* link:literature-review/politics.adoc[Contemporary political theory and the possibilities within crowdfunding] (literature review on politics)
-
-*Conferences*
-
-_Mini-conference on Digital Sociology (2015 ESS Annual Meeting)_
-
-* link:conferences/ess2015/abstract.adoc[Crowdfunding and the reconfiguration of the public and private spaces] (abstract)
-
-_2014 Manchester International Summer School on Emerging (University of Manchester)_
-
-* link:http://www.slideshare.net/cuducos/s24b-goncalves-20140610[Crowdfunding and post-politics] (presentation slides)
+* link:conferences/cd2015.adoc[Crowdfunding and the reconfiguration of public and private space] +
+Paper submitted to the _ECREA Communication and Democracy Section Conference -- Political Agency in the Digital Ager_, Copenhagen Business School, 2015
+* link:research-design/politics.adoc[Contemporary political theory and the possibilities within crowdfunding] +
+Literature review on politics, 2014
+* link:http://www.slideshare.net/cuducos/s24b-goncalves-20140610[Crowdfunding and post-politics] +
+Presentation slides for the _Manchester International Summer School on Emerging Technologies_, University of Manchester, 2014
+* link:research-design/research-design.adoc[Post-politics and crowdfunding] +
+Initial research design, 2014
 
 == Print friendly versions
 
@@ -43,8 +25,7 @@ _2014 Manchester International Summer School on Emerging (University of Manchest
 
 To generate print friendly HTML use link:http://asciidoctor.org/docs/install-toolchain/[AsciiDoctor Toolchain] and the customized CSS included in this repository. For example:
 
- $ cd literature-review
- $ asciidoctor -a stylesheet=print.css -a stylesdir=../ -o politics.html politics.adoc
+ $ asciidoctor -a stylesheet=print.css research-design/politics.adoc
 
 There is a custom script to remove the square brackets from the in-text footnote numbering:
 
@@ -52,22 +33,25 @@ There is a custom script to remove the square brackets from the in-text footnote
 
 *PDF*
 
-To generate a PDF, use link:http://www.princexml.com/[Prince] to convert the HTML. For example:
+To generate a PDF, use link:http://weasyprint.org/[WeasyPrint] to convert the HTML generated above. For example:
+
+  $ weasyprint politics.html politics.pdf
+
+Alternatively you can try link:http://www.princexml.com/[Prince]:
 
   $ prince politics.html
 
 *Word*
 
-If you prefer a Word version, use link:http://johnmacfarlane.net/pandoc/[Pandoc] to convert the HTML. For example:
+If you prefer a Word version, use link:http://johnmacfarlane.net/pandoc/[Pandoc] to convert the HTML generated above. For example:
 
  $ pandoc -o politics.docx politics.html
 
-== Scholarship
+== Credits
 
 This research is possible due to the scholarship offered by link:http://capes.gov.br/[CAPES], a government agency linked to the Brazilian Ministry of Education.
 
 image::http://www.capes.gov.br/images/logo-capes.png[CAPES, link="http://www.capes.gov.br/"]
-== License
 
 These writings by http://about.me/cuducos[Eduardo Cuducos] are licensed under a http://creativecommons.org/licenses/by/4.0/[Creative Commons Attribution 4.0 International License].
 
