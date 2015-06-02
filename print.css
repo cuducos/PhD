@@ -89,8 +89,29 @@ hr {
     background-color: #000;
     height: 1px;
     width: 38.2%;
+    margin: 1em 0 1em 0; /*weasyprint hack */
     margin: 1rem 0 1rem 0;
 }
+
+
+div#content hr {
+    height: 0;
+    margin: 3rem 0;
+    width: 100%;
+}
+
+div#content hr:after {
+    color: #000;
+    content: ". . .";
+    display: block;
+    font-size: 2rem;
+    font-weight:bold;
+    position: relative; 
+    text-align: center;
+    top: -1em; /* weasyprint hack */
+    top: -2rem;  
+}
+
 
 /* Titles */
 
