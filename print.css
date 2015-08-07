@@ -17,11 +17,21 @@
         color: #000;
         font-size: 9pt;
         font-style: italic;
-        font-family: 'Cardo', serif;
+        font-family: Cardo, serif;
     }
 
 }
 
+/* Screen settings */
+
+@media screen {
+    html {
+        font-family: Cardo !important;
+    }
+    h1, h2, h3, h4, h5, h6 {
+        font-family: Lato !important;
+    }
+}
 
 /* Document settings */
 
@@ -30,7 +40,7 @@ html, body {
 }
 
 html {
-    font-family: 'Cardo', serif;
+    font-family: serif;
 }
 
 body {
@@ -51,7 +61,7 @@ a {
 
 blockquote {
     line-height: 1.2;
-    margin: 1rem 0 1rem 3rem;
+    margin: 11pt 0 11pt 33pt;
 }
 
 b, strong {
@@ -89,13 +99,13 @@ hr {
     background-color: #000;
     height: 1px;
     width: 38.2%;
-    margin: 1rem 0 1rem 0;
+    margin: 11pt 0 11pt 0;
 }
 
 
 div#content hr {
     height: 0;
-    margin: 3rem 0;
+    margin: 33pt 0;
     width: 100%;
 }
 
@@ -103,11 +113,11 @@ div#content hr:after {
     color: #000;
     content: ". . .";
     display: block;
-    font-size: 2rem;
+    font-size: 22pt;
     font-weight:bold;
     position: relative; 
     text-align: center;
-    top: -2rem;  
+    top: -22pt;  
 }
 
 
@@ -116,8 +126,8 @@ div#content hr:after {
 h1, h2, h3, h4, h5, h6 {
     line-height: normal;
     text-align: left;
-    margin: 1rem 0;
-    font-family: Lato, sans-serif;
+    margin: 11pt 0;
+    font-family: sans-serif;
     font-weight: 300;
 }
 
@@ -128,7 +138,7 @@ h1 {
 }
 
 h2, h3, h4, h5, h6 {
-    margin: 8rem 0 4rem 0;
+    margin: 88pt 0 44pt 0;
 }
 
 
@@ -169,13 +179,13 @@ h2, h3, h4, h5, h6 {
     display: none;
 }
 
-#preamble div:first-child div:first-child {
+#preamble > div:first-child > div:first-child {
     text-align: right;
     line-height: 1.2;
 }
 
 .sidebarblock {
-    margin: 4rem 1cm auto 1cm;
+    margin: 44pt 1cm auto 1cm;
     text-align: justify;
 }
 
@@ -210,3 +220,4 @@ div#footnotes div.footnote a[href*="#_footnoteref_"] {
 div#footer-text {
     display: none;
 }
+
