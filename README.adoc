@@ -10,7 +10,8 @@ If this introduction is not enough, you http://cuducos.me[stalk me].
 
 == Resources
 
-* link:conferences/cd2015.adoc[Crowdfunding and the reconfiguration of public and private space] +
+
+* link:conferences/cd2015.adoc[Crowdfunding and the reconfiguration of public and private space] | link:http://www.slideshare.net/cuducos/crowdfunding-and-the-reconfiguration-of-public-and-private-space[presentation slides] +
 Paper submitted to the _ECREA Communication and Democracy Section Conference -- Political Agency in the Digital Ager_, Copenhagen Business School, 2015
 * link:research-design/politics.adoc[Contemporary political theory and the possibilities within crowdfunding] +
 Literature review on politics, 2014
