@@ -6,8 +6,8 @@ import re
 def remove_footnote_sq_brackets(html):
 
     # basic settings
-    prefix = '<span class="footnote">'
-    suffix = '</span>'
+    prefix = '<sup class="footnote">'
+    suffix = '</sup>'
     regex = re.compile(r'({}\[)(.+?)(\]{})'.format(prefix, suffix))
 
     # load and rewrite html
