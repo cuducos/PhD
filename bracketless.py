@@ -1,27 +1,25 @@
 import argparse
-import os.path
+import os
 import re
+import sys
+
+# basic settings
+PREFIX = '<span class="footnote">'
+SUFFIX = '</span>'
+REGEX = re.compile(r'({}\[)(.+?)(\]{})'.format(PREFIX, SUFFIX))
 
 
-def remove_footnote_sq_brackets(html):
+def remove_footnote_sq_brackets(path_to_html_file):
 
-    # basic settings
-    prefix = '<span class="footnote">'
-    suffix = '</span>'
-    regex = re.compile(r'({}\[)(.+?)(\]{})'.format(prefix, suffix))
+    if not os.path.isfile(path_to_html_file):
+        print('  File `{}` not found.'.format(html), file=sys.stderr)
+        return False
 
-    # load and rewrite html
-    if os.path.isfile(html):
-        with open(html, 'r+') as fh:
-            contents = fh.read()
-            output = regex.sub(r'{}\2{}'.format(prefix, suffix), contents)
-            fh.seek(0)
-            fh.write(output)
-            fh.truncate()
-            return True
-
-    # error message
-    print('  File `{}` not found.'.format(html))
+    with open(path_to_html_file, 'r+') as fh:
+        contents = fh.read()
+        fh.seek(0)
+        fh.write(REGEX.sub(r'{}\2{}'.format(PREFIX, SUFFIX), contents))
+        fh.truncate()
 
 if __name__ == '__main__':
 
