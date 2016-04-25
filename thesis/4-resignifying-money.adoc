@@ -1,0 +1,75 @@
+= 4. Resignifying money
+Eduardo Cuducos
+:homepage: http://cuducos.me
+:numbered:
+:toc:
+:sectanchors:
+:icons: font
+
+*Eduardo Gonçalves* +
+_3^rd^ year PhD student in sociology, University of Essex_
+
+If the main argument in this research is mostly theoretical and political, the basis sustaining this argument is strongly sociological. Therefore this chapter starts to articulate the sociological analysis of the interviews by discussing the way they see money in their everyday life. It is no accident that money is a starting point for this research: first of all, the platforms at the core of this study are basically set up to collect money, to fund projects that arguably could be funded through other means. What is at sake here is that the choice for crowd funding must be understood sociologically. 
+
+Second, money is at the core of several sociological debates that aims at establishing not only the basis of modernity but of sociology itself – in two simplistic examples, money is an important topic in Marx's _Capital_ and in Weber's _Protestant Ethic_. Therefore it is crucial to debate the role of money not only from the microsociological perspective (the world view of the interviewees, people engaged in crowd funding communities), but also from a macrosociological standpoint, that is to say, understanding the role money plays in the constitution of incumbent institutions of our times, such as representative democracies and gigantic corporations.  
+
+Third, and most important, the micro and macrosociological take on money are not opposed or disconnected. Both interpretations contribute to the pillars of the theoretical and political critique put forwards by crowd funding communities: resignifying money is the first step of a complex mélange that ends up not only as a political critique, but as a new – if restricted – possibility for political action. This first step is crucial to build autonomy (discussed in the next chapter), and, next, to call into question institutions that are still based on a more traditional approach to money.
+
+In the beginning of _The Protestant Ethic and the Spirit of Capitalism_ Weber (1976) recurs to Benjamin Franklin to describe what was the _historical reality_  he was taking into account to forge the concept of _the spirit of capitalism_:footnote:[Weber employed the expression _historical reality_ in the very beginning of the _The Protestant Ethic and the Spirit of Capitalism_ in order to describe his methodological approach: "Such an historical concept [the spirit of capitalism\] … cannot be defined according to the formula _genus proximum, differentia specifica_, but it must be gradually put together out of the individual parts which are taken from historical reality to make it up" (Weber 1976:13).]
+
+[quote]
+Remember, that money is of the prolific, generating nature. Money can beget money, and its offspring can beget more, and so on. Five shillings turned is six, turned again it is seven and threepence, and so on, till it becomes a hundred pounds. The more there is of it, the more it produces every turning, so that the profits rise quicker and quicker. He that kills a breeding-sow, destroys all her offspring to the thousandth generation. He that murders a crown, destroys all that it might have produced, even scores of pounds (Franklin, cited by Weber 1976:15).
+
+At the same time this passage highlights two distinct characteristics attributed to money: on the one hand there is the property of self multiplication, the idea that money, if handled properly, can generate more money in the form of profit or as return of investments. On the other hand, it reflects an arguably universal will to accumulate money, as  this accumulation was a virtue _per se_. In these circumstances money is desired not because it holds any moral value, but because accumulation became an end in itself (Simmel 1978, Weber 1976, Hirschman 1977).
+
+In the last decades major works in the academia address the roots of this behavior. In heterodox economics, for instance, Hirschman (1977) described how Enlightenment  dehumanized _passions_ into economical and commercial terms such as _interest_. Within sociology, Weber (1976:116) argued that the asceticism of certain Protestant religions condemned the enjoyment of life in the form of consumption, what leaded to “accumulation of capital through ascetic compulsion to save”:
+
+[quote]
+The capitalistic system so needs this devotion to the calling of making money, it is an attitude toward material goods which is so well suited to that system, so intimately bound up with the conditions of survival in the economic struggle of existence, that there can to-day no longer be any question of necessary connection of that acquisitive manner of life with any single _Weltanschauung_. In fact, it no longer needs the support of any religious forces, and feels the attempts of religion to influence economic life, in so far as they can still be felt at all, to be as much as an unjustified interference as its regulation by the State (Weber 1976:33-4). 
+
+_Weltanschauung_ is a German term for world view. This chapter describes how people involved in crowd funding are departing from, and at the same time are forging, an alternative world view. By these means they are able to distance themselves from a more traditional approach to money, that is to say, from the logic of the institutions that share an understanding of money as something to be accumulated. Money, for them, is something that should circulate.
+
+Many of the interviewees do not hold a traditional job, and certainly cannot be described as entrepreneurs managing traditional companies or start-ups. Thus there is a question that is repeated over and over to them: how do you make a living? When I raised that question to Pedro he seemed pretty tired of address this topic, and then he was very straightforward with me:
+
+[quote]
+Well, this is one of the first thing people ask, always, everywhere. And I think that if the person makes this question, she or he either made the wrong question or has not understood a word I have said. […] People are like “ok, but how do you make a living?” I just told them about a lot of awesome stuff, projects and the first doubt is where does the money come from? The money comes. I can tell you exactly where the money came from in every project I do. But that is not the answer people are looking for. They ask me how do I make money because they want to find a way for them to make money. Thus I say I make money just like anybody else: working. I work, people pay me. They reward me for my services. […] And what do I do? Software development, consultancy, I have done publishing, video, events…
+
+This quote is representative of a lifestyle that was found widely among my interviewees. This is the topic debated in this chapter's first section, an arguably heterodox approach to career, job and making a living. Moreover it is clear that this is a kind of answer Pedro offer for those who do not get his point. A kind of answer that is strategic in the sense of calling the attention to what really matter for him: the awesome projects, in his own words. By saying that there is nothing special in the way he makes a living, he is turning the spotlights back to what he wants to value. This faith in the projects and in this lifestyle is at the core of the assumption that there will always be money for interesting projects. This is the topic of the second section of this chapter, how this confidence helps in resignifying money within crowd funding communities.
+
+== Joblessness by option
+
+Most of my interviewees have a great educational and professional background. Many went to the best schools in their countries and even abroad. However instead of holding a traditional career path, something like applying for internship in a multinational company, finding a job just after graduating, and celebrating a promotion to a management position before they are 30, they drop out. Despite their outstanding professional profiles, they decided to pursue a different path.
+
+[… WIP …]
+
+
+== Money should circulate
+
+If Pedro held that he makes money just like anybody else, by being paid for employing his skills, one might suggest that there is no difference the exchange going on there and the one in more traditional careers: someone does some service and is rewarded for it. However for other interviewees there are subtle differences, not in the exchange, but in its meaning: “Somehow you are playing the patron, you are allowing things to happen, things that nobody knew, nobody wanted, or nobody imagined would happen” – as Lisandro put.
+
+Pedro particularly does not seam to like describing things this way not because of several reasons. Maybe the most important one is that, according to him, “while one has money, money is not a problem; money only starts to be a problem when one starts to be short on money”. Definitively he is not rich, and he is not claiming that there is an abundance of money whenever he needs it. However he believes that if his skills and ideas are relevant to others, there will be money – and this is what really matters for him. It is not important if it is from public or private open calls and biddings, traditional contracts with the public and private sector, contracts with NGOs, informal economy or barter, among man other possible sources, including crowd funding.
+
+If the argument sounds like a kind of meritocratic, Lisandro's standpoint adds a layer of complexity to it: the criteria for this meritocracy is not based on the traditional and incumbent institutions such as government and corporations, but in a much more personal, subjective, passionate judgement: the one of the patron – or, to me more precise, of thousands (or millions) of patrons supporting projects in dozens of crowd funding platforms. This challenging tone is not the focus of this chapter and will be discussed later, but the way money operates here is relevant: it still perceived as human creation detached from any moral, useful as a general and universal value to be exchanged; but exactly because of this, because money can server any purpose, it can be used to play the patron. In the surface it could be just a minor detail: patrons have existed for centuries. But due to the vast world wide web, to be a patron nowadays is not restricted to the aristocracy. This brings two important unfolds. On the mathematical side, the need of a fortune in order to be a patron is supplanted by the possibility of raising small amounts from a multitude of individuals. The sociological side, and arguably the most meaningful unfold, is that the decision of what projects are funded is dispersed in the multitude of individuals, and not concentrated in the aristocracy anymore.
+
+In this scenario money is a mean to make decisions about a great variety of projects, to have a voice and to allow projects that probably would not be funded otherwise. Money grants social voice not because of one's disproportional wealth, but because crowd funding allowed a bigger part of society to have this voice. Money therefore is useful not as something to be accumulated, but as something circulating and funding a variety projects.
+
+Felipe Cabral is one of the founder of Softa. Softa was a software house from Brazil in which Catarse was born. And Catarse was the first crowd funding platform of the country, the first crowd funding platform to be made in an open-source code made and, since then, is the biggest crowd funding platform in Brazil. He highlights the role Catarse has been playing:
+
+[quote]
+Catarse is not billionaire. It does not generate billions. But for sure it helped to change the national scenario. To be clear, Catarse helped to change the national creative scenario. Music, drama, comic books, documentaries, you name it. When you have a direct connection with you fan base, even if someone with money stops investing in you, you still can raise hundred thousand dollars easily if people treasure what you have done.
+
+Therefore the focus put on money within crowd funding communities cannot be taken for granted. It would not make sense to label them as radicals trying to dismiss money at all. On the contrary: they assume money is an important mean to put ideas forward, to support projects they believe in, and to sustain communities and creations. However this is not due to money's inherent value, or due to the possibility to exchange it worldwide. Many have argued that money is not a thing by itself (Dodd 2014) and that money ultimately represent social relations of debt, marking a never ending, back and forth series of _I own you_ in close communities of trust (Graeber 2011). Crowd funding seems to embrace this social understanding of money, but in a pragmatic way that does not dismiss the utilitarian employment of money to sustain the most traditional market exchanges — and that is what they need in order to make projects tangible. Or, to put it in other words, even if money is a kind of entity detached from any moral assumption, its accumulation is not valued. Power derived from great concentration of money, the power to decide what projects are being funded, is exactly the problem crowd funding is trying to tackle at first place: the idea is to create opportunity for projects that could not find a place in a world dominated by governments and corporations. 
+
+[… WIP …]
+
+== Bibliography
+
+Dodd, N. (2014). _The Social Life of Money_. Princeton and Oxford: Princeton University Press.
+
+Graeber, D. (2011). _Debt: The First 5,000 Years_. New York: Melville House.
+
+Hirschman, A. (1977). _The Passions and the Interests. Political Arguments for Capitalism before Its Triumph_. Princeton: Princeton University Press.
+
+Simmel, G. (1978[1900]). _The Philosophy of Money_. London and New York: Routledge.
+
+Weber, M. (1976[1900]). _The Protestant Ethic and the Spirit of Capitalism_. London and New York: Routledge.
