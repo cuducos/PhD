@@ -1,4 +1,4 @@
-= 4. Resignifying money
+= 3. Resignifying money
 Eduardo Cuducos
 :homepage: http://cuducos.me
 :numbered:
