@@ -184,6 +184,14 @@ h2, h3, h4, h5, h6 {
     line-height: 1.2;
 }
 
+.opening {
+  display: block;
+  font-style: italic;
+  margin: 2rem 38%; 2rem 0;
+  text-align: right;
+  width: 62%;
+}
+
 .sidebarblock {
     margin: 44pt 1cm auto 1cm;
     text-align: justify;

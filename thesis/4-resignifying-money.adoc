@@ -9,12 +9,8 @@ Eduardo Cuducos
 *Eduardo Gonçalves* +
 _3^rd^ year PhD student in sociology, University of Essex_
 
-'''
-
-[quote]
-To begin to free ourselves, the first things we need to do is to see ourselves again as historical actors, as people who can make a difference in the course of world events (Graeber, 2011:383).
-
-'''
+[opening]#To begin to free ourselves, the first things we need to do is to see ourselves again as historical actors, as people who can make a difference in the course of world events+
+(Graeber, 2011:383).#
 
 If the main argument in this research is mostly theoretical and political, the basis sustaining this argument is strongly sociological. Therefore this chapter starts to articulate the sociological analysis of the interviews by discussing the way they see money in their everyday life. It is no accident that money is a starting point for this research: first of all, the platforms at the core of this study are basically set up to collect money, to fund projects that arguably could be funded through other means. What is at sake here is that the choice for crowd funding must be understood sociologically. 
 
