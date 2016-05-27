@@ -4,8 +4,8 @@ import re
 import sys
 
 # basic settings
-PREFIX = '<span class="footnote">'
-SUFFIX = '</span>'
+PREFIX = '<sup class="footnote">'
+SUFFIX = '</sup>'
 REGEX = re.compile(r'({}\[)(.+?)(\]{})'.format(PREFIX, SUFFIX))
 
 
