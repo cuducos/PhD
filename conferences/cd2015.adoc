@@ -4,6 +4,7 @@ Eduardo Cuducos
 :numbered:
 :sectanchors:
 :icons: font
+:stylesheet: ../contrib/print.css
 
 *Eduardo Gonçalves* +
 _University of Essex_

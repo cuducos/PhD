@@ -31,33 +31,32 @@ Initial [research design](research-design/research-design.adoc), 2014
 
 ### One command to rule them all
 
-I added a shell script that goes through the four steps needed to generate `.html`, `.pdf` and `.docx` versions.
-
-The basic usage is, being the CSS path relative to the AsciiDoctor file, and the Ascidoctor file **without** extention:
+I added a shell script that goes through the four steps needed to generate `.html`, `.pdf` and `.docx` versions:
 
 ```console
-$ ./contrib/gen.sh <CSS file> <AsciiDoctor file>
+$ ./contrib/gen.sh <AsciiDoctor file without extension>
 ```
 
 For example:
 
 ```console
-$ ./contrib/gen.sh ../print.css conferences/cd2015
+$ ./contrib/gen.sh conferences/cd2015
 ```
+This shell script depends on the following binaries available in yout path: `asciidoctor`, `python` (version 3.4+), `weasyprint` and `pandoc`.
 
-If you prefer to generate them step by step, this is what lies behind the shell script:
+If you prefer to generate them step by step, the follwoing sections describe what the shell scripts does for you.
 
 #### HTML
 
-To generate print friendly HTML use [AsciiDoctor Toolchain](http://asciidoctor.org/docs/install-toolchain/) and the [customized CSS](print.css) included in this repository.
+To generate print friendly HTML use [AsciiDoctor Toolchain](http://asciidoctor.org/docs/install-toolchain/).
 
 For example:
 
 ```console
-$ asciidoctor -a stylesheet=../print.css conferences/cd2015.adoc
+$ asciidoctor conferences/cd2015.adoc
 ```
 
-I added is a custom script to remove the square brackets from AsciiDoctor's in-text footnote numbering (it requires [Python](https://python.org/) 3.5+):
+I added is a custom script to remove the square brackets from AsciiDoctor's in-text footnote numbering (it requires [Python](https://python.org/) 3.4+):
 
 ```console
 $ python contrib/bracketless.py conferences/cd2015.html
