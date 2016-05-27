@@ -2,23 +2,23 @@
 Eduardo Cuducos
 :homepage: http://cuducos.me
 :numbered:
-:toc:
+// :toc:
 :sectanchors:
 :icons: font
+:stylesheet: ../contrib/print.css
 
 *Eduardo Gonçalves* +
 _3^rd^ year PhD student in sociology, University of Essex_
 
-[opening]#To begin to free ourselves, the first things we need to do is to see ourselves again as historical actors, as people who can make a difference in the course of world events+
-(Graeber, 2011:383).#
+[opening]#To begin to free ourselves, the first things we need to do is to see ourselves again as historical actors, as people who can make a difference in the course of world events (Graeber, 2011:383).#
 
-If the main argument in this research is mostly theoretical and political, the basis sustaining this argument is strongly sociological. Therefore this chapter starts to articulate the sociological analysis of the interviews by discussing the way they see money in their everyday life. It is no accident that money is a starting point for this research: first of all, the platforms at the core of this study are basically set up to collect money, to fund projects that arguably could be funded through other means. What is at sake here is that the choice for crowd funding must be understood sociologically. 
+If the main argument in this research is mostly theoretical and political, the basis sustaining this argument is strongly sociological. Therefore this chapter starts to articulate the sociological analysis of the interviews by discussing the way they approach money in their everyday life. It is no accident that money is a starting point for this research: first of all, the platforms at the core of this study are basically set up to collect money, to fund projects that arguably could be funded through other means. What is at sake here is that the choice for crowd funding must be understood sociologically. 
 
-Second, money is at the core of several sociological debates that aims at establishing not only the basis of modernity but of sociology itself – in two simplistic examples, money is an crucial topic in Marx's _Capital_ and in Weber's _Protestant Ethic_. Therefore it is important to debate the role of money not only from the microsociological perspective (the world view of the interviewees, people engaged in crowd funding communities), but also from a macrosociological standpoint (understanding the role money plays in the constitution of incumbent institutions of our times, such as representative democracies and gigantic corporations).  
+Second, money is at the core of several sociological debates that aims at establishing not only the basis of modernity but of sociology itself – in two simplistic examples, money is an crucial topic in Marx's _Capital_ and in Weber's _Protestant Ethic_. Therefore it is important to debate the role of money not only from the microsociological perspective (the world view of the interviewees, people engaged in crowd funding communities), but also from a macrosociological standpoint (understanding the role money plays in the constitution of incumbent institutions of our times, such as representative democracies and multinational corporations).  
 
-Third, and most important, the micro and macrosociological take on money are not opposed or disconnected. Both interpretations contribute to the pillars of the theoretical and political critique put forwards by crowd funding communities: resignifying money is the first step of a complex mélange that ends up not only as a political critique, but as a new – if restricted – possibility for political action. This first step is crucial to build autonomy (discussed in the next chapter), and, next, to call into question institutions that are still based on a more traditional approach to money.
+Third, and most important, the micro and macrosociological take on money are not opposed or disconnected. Both interpretations contribute to the pillars of the theoretical and political critique put forward by crowd funding communities: resignifying money is the first step of a complex mélange that ends up not only as a political critique, but as a new – if restricted – possibility for political action. This first step is crucial to build autonomy (discussed in the next chapter), and, next, to call into question institutions that are still based on a more traditional approach to money.
 
-This chapter starts describing how people who mostly contribute to crowd funded projects approach money and they engagement in such campaigns. As the analysis move on to people with higher engagement with crowd funding, the process of resignification of money becomes clearer and more rooted in a world view. Although this process is not so explicit in the first group, it cannot go unnoticed that at least a will to see ideas they believe in come through is empowered by money and by the power to choose which projects to fund.
+This chapter starts describing how people who mostly contribute to crowd funded projects engage in such campaigns and how they see money in their everyday lives. As the analysis move on to people with higher engagement with crowd funding, the process of resignification of money becomes clearer and more rooted in specifics aspects that compose a particular world view. Although this process is not so explicit in the first group, a will to see ideas they believe in coming through is already there. And money — together with the freedom and power to choose which projects to fund — is what is empowering this will, making this into something real.
 
 == Playing the patron
 
