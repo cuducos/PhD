@@ -42,7 +42,7 @@ $ ./contrib/gen.sh <CSS file> <AsciiDoctor file>
 For example:
 
 ```console
-./contrib/gen.sh ../print.css conferences/cd2015
+$ ./contrib/gen.sh ../print.css conferences/cd2015
 ```
 
 If you prefer to generate them step by step, this is what lies behind the shell script:
