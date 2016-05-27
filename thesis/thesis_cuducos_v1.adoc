@@ -1,0 +1,16 @@
+= Crowd fundind and Politics
+Eduardo Cuducos
+:homepage: http://cuducos.me
+:numbered:
+:toc:
+:sectanchors:
+:icons: font
+:stylesheet: ../contrib/print.css
+
+:leveloffset: +1
+
+include::2-methodology-and-literature-review.adoc[lines=6..-1]
+
+include::3-resignifying-money.adoc[lines=6..-1]
+
+:leveloffset: -1

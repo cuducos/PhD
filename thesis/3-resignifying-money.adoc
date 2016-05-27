@@ -2,7 +2,6 @@
 Eduardo Cuducos
 :homepage: http://cuducos.me
 :numbered:
-// :toc:
 :sectanchors:
 :icons: font
 :stylesheet: ../contrib/print.css
