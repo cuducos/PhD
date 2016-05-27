@@ -12,14 +12,20 @@ If this introduction is not enough [start stalking me](http://cuducos.me).
 
 ## Resources
 
-* [Crowdfunding and the reconfiguration of public and private space](conferences/cd2015.adoc) | [presentation slides](http://www.slideshare.net/cuducos/crowdfunding-and-the-reconfiguration-of-public-and-private-space)<br>
-Paper submitted to the _ECREA Communication and Democracy Section Conference — Political Agency in the Digital Age_, Copenhagen Business School, 2015
-* [Contemporary political theory and the possibilities within crowdfunding](research-design/politics.adoc)<br>
-Literature review on politics, 2014
-* [Crowdfunding and post-politics](http://www.slideshare.net/cuducos/s24b-goncalves-20140610)<br>
-Presentation slides for the _Manchester International Summer School on Emerging Technologies_, University of Manchester, 2014
-* [Post-politics and crowdfunding](research-design/research-design.adoc)<br>
-Initial research design, 2014
+* **Crowdfunding and the reconfiguration of public and private space**<br>
+Presented at the _ECREA Communication and Democracy Section Conference — Political Agency in the Digital Age_<br>
+Copenhagen, 2015<br>
+( [paper](conferences/cd2015.adoc) | [presentation slides](http://www.slideshare.net/cuducos/crowdfunding-and-the-reconfiguration-of-public-and-private-space) )<br>
+Also presented at the _2015 Centre for European Policy Studies Winter School “From Uber to Amazon Mechanical Turk”_<br>
+Brussels, 2015<br>
+( [paper](conferences/ceps2015.adoc) )
+* **Contemporary political theory and the possibilities within crowdfunding**<br>
+[Literature review](research-design/politics.adoc) on politics, 2014
+* **Crowdfunding and post-politics**<br>
+[Presentation slides](http://www.slideshare.net/cuducos/s24b-goncalves-20140610) for the _Manchester International Summer School on Emerging Technologies_<br>
+University of Manchester, 2014
+* **Post-politics and crowdfunding**<br>
+Initial [research design](research-design/research-design.adoc), 2014
 
 ## Printing friendly versions
 
