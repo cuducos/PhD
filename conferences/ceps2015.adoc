@@ -1,4 +1,4 @@
-= Crowdfunding and the reconfiguration of public and private space footnote:[Paper submitted to the _ECREA Communication and Democracy Section Conference “Political Agency in the Digital Age,”_ Copenhagen, 2015.]
+= Crowdfunding and the reconfiguration of public and private space footnote:[Paper submitted to the _2015 Centre for European Policy Studies Winter School “From Uber to Amazon Mechanical Turk,”_ Brussels, 2015.]
 Eduardo Cuducos
 :homepage: http://cuducos.me
 :numbered:
