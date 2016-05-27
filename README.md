@@ -27,26 +27,33 @@ University of Manchester, 2014
 * **Post-politics and crowdfunding**<br>
 Initial [research design](research-design/research-design.adoc), 2014
 
-## Printing friendly versions
+## Generating print friendly versions
 
-### One command to rule them all
-
-I added a shell script that goes through the four steps needed to generate `.html`, `.pdf` and `.docx` versions:
+A `Makefile` helps you generating nice HTML, PDF and Word versions of the files:
 
 ```console
-$ ./contrib/gen.sh <AsciiDoctor file without extension>
+$ make <format> ADOC=<AsciiDoctor file without extension>
 ```
 
-For example:
+Examples:
 
 ```console
-$ ./contrib/gen.sh conferences/cd2015
+$ make html ADOC=conferences/cd2015
+$ make docx ADOC=conferences/cd2015
+$ make pdf ADOC=conferences/cd2015
+
 ```
-This shell script depends on the following binaries available in yout path: `asciidoctor`, `python` (version 3.4+), `weasyprint` and `pandoc`.
+This depends on the following binaries available in yout path: `asciidoctor`, `python` (version 3.4+), `weasyprint` and `pandoc`.
+
+There is also a shorcut to clean all the auto-generated files:
+
+```console
+$ make clean
+```
 
 If you prefer to generate them step by step, the follwoing sections describe what the shell scripts does for you.
 
-#### HTML
+### HTML
 
 To generate print friendly HTML use [AsciiDoctor Toolchain](http://asciidoctor.org/docs/install-toolchain/).
 
@@ -62,7 +69,7 @@ I added is a custom script to remove the square brackets from AsciiDoctor's in-t
 $ python contrib/bracketless.py conferences/cd2015.html
 ```
 
-#### PDF
+### PDF
 
 To generate a PDF, use [WeasyPrint](http://weasyprint.org/) to convert the HTML generated above.
 
@@ -72,7 +79,7 @@ For example:
 $ weasyprint conferences/cd2015.html conferences/cd2015.pdf
 ```
 
-#### Word
+### Word
 
 If you prefer a Word version, use [Pandoc](http://johnmacfarlane.net/pandoc/) to convert the HTML generated above.
 
