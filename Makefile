@@ -1,26 +1,26 @@
 export ADOC
 
 html: 
-	@if [ -a $(ADOC).adoc ]; \
-    then \
-        echo "\n==> Generating HTML" ; \
-        asciidoctor $(ADOC).adoc ; \
-        echo "\n==> Removing footnote square brackets" ; \
-        python contrib/bracketless.py $(ADOC).html ; \
-        export HTML_EXPORTED=1 ; \
+	@if [ -a $(ADOC) ]; \
+	then \
+		echo "\n==> Generating HTML" ; \
+		asciidoctor $(ADOC) ; \
+		echo "\n==> Removing footnote square brackets" ; \
+		python contrib/bracketless.py $(subst .adoc$,.html,$(ADOC)) ; \
+		export HTML_EXPORTED=1 ; \
 	else \
-	    echo "$(ADOC).adoc does not exist" ; \
+		echo "$(ADOC) does not exist" ; \
 	fi;
 
 pdf:
 	@make html
 	@echo "\n==> Generating PDF"
-	@weasyprint $(ADOC).html $(ADOC).pdf
+	@weasyprint $(subst .adoc$,.html,$(ADOC)) $(subst .adoc$,.pdf,$(ADOC))
 
 docx:
 	@make html
 	@echo "\n==> Generating DOCX"
-	@pandoc -o $1.docx $1.html
+	@pandoc -o $(subst .adoc$,.docx,$(ADOC)) $(subst .adoc$,.html,$(ADOC))
 
 clean:
 	@echo "\n==> Deleting auto generated files"

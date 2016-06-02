@@ -32,15 +32,15 @@ Initial [research design](research-design/research-design.adoc), 2014
 A `Makefile` helps you generating nice HTML, PDF and Word versions of the files:
 
 ```console
-$ make <format> ADOC=<AsciiDoctor file without extension>
+$ make <format> ADOC=<AsciiDoctor file>
 ```
 
 Examples:
 
 ```console
-$ make html ADOC=conferences/cd2015
-$ make docx ADOC=conferences/cd2015
-$ make pdf ADOC=conferences/cd2015
+$ make html ADOC=conferences/cd2015.adoc
+$ make docx ADOC=conferences/cd2015.adoc
+$ make pdf ADOC=conferences/cd2015.adoc
 
 ```
 This depends on the following binaries available in yout path: `asciidoctor`, `python` (version 3.4+), `weasyprint` and `pandoc`.
