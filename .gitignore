@@ -3,6 +3,9 @@
 *.docx
 *.pdf
 
+# thesis should not go to master yet
+thesis/
+
 # vim
 [._]*.s[a-w][a-z]
 [._]s[a-w][a-z]
