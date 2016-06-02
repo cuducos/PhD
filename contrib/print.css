@@ -217,3 +217,13 @@ div#footnotes div.footnote {
 div#footnotes div.footnote a[href*="#_footnoteref_"] {
     font-weight: bold;
 }
+
+.admonitionblock {
+  background-color: #efefef;
+  border-left: 22pt solid #ccc;
+  padding: 11pt 0 11pt 11pt;
+}
+
+.admonitionblock td.icon {
+  padding: 0;
+}
