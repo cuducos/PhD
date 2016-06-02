@@ -151,20 +151,12 @@ h2, h3, h4, h5, h6 {
     }
 }
 
-.left {
+.left, .text-left {
     float: left !important;
 }
 
-.right {
+.right, .text-right {
     float: right !important;
-}
-
-.text-left {
-    text-align: left !important;
-}
-
-.text-right {
-    text-align: right !important;
 }
 
 .text-center {
@@ -175,7 +167,7 @@ h2, h3, h4, h5, h6 {
     text-align: justify !important;
 }
 
-.hide, div.details, div#toc, #author {
+.hide, div.details, div#toc, #author, div#footer-text {
     display: none;
 }
 
@@ -221,10 +213,7 @@ div#footnotes {
 div#footnotes div.footnote {
     margin: 0 0 1em 0;
 }
+
 div#footnotes div.footnote a[href*="#_footnoteref_"] {
     font-weight: bold;
-}
-
-div#footer-text {
-    display: none;
 }
