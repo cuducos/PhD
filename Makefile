@@ -1,10 +1,16 @@
 export ADOC
 
+init:
+	@gem install bundler
+	@bundle install
+	@bundle exec bourbon install --force --path ./contrib/
+	@bundle exec sass contrib/print.sass contrib/print.css --style=compressed --sourcemap=none 
+	@echo "\nRemember to install the following font families:\n- Cardo\n- Lato\n"
+
 html: 
-	@if [ -a $(ADOC) ]; \
-	then \
+	@if [ -a $(ADOC) ]; then \
 		echo "\n==> Generating HTML" ; \
-		asciidoctor $(ADOC) ; \
+		bundle exec asciidoctor $(ADOC) ; \
 		echo "\n==> Removing footnote square brackets" ; \
 		python contrib/bracketless.py $(subst .adoc$,.html,$(ADOC)) ; \
 		export HTML_EXPORTED=1 ; \
@@ -24,6 +30,8 @@ docx:
 
 clean:
 	@echo "\n==> Deleting auto generated files"
+	@rm -rfv contrib/print.css
+	@rm -rfv contrib/bourbon
 	@find . -iname '*.pdf' | xargs rm -v
 	@find . -iname '*.docx' | xargs rm -v
 	@find . -iname '*.html' | xargs rm -v

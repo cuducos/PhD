@@ -1,0 +1,30 @@
+#content
+
+  hr
+    height: 0
+    margin: ($base_font_size * 3) 0
+    width: 100%
+    &:after
+      color: $base_font_color
+      content: ". . ."
+      display: block
+      font-size: $base_font_size * 2
+      font-weight: $bold_font_weight
+      position: relative
+      text-align: center
+      top: $base_font_size * -2
+
+  p
+    margin: 0
+    text-indent: $tab_width
+
+  #preamble > div:first-child > div:first-child
+    line-height: $single_line_height
+    text-align: right
+    margin: ($base_font_size * 3) 0
+
+  #_bibliography + div
+    text-align: left
+    p
+      margin-top: $base_font_size
+      text-indent: 0
