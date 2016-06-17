@@ -1,7 +1,10 @@
 # Rendred documents
-*.html
+*.css
 *.docx
+*.html
 *.pdf
+.sass-cache/
+contrib/bourbon/
 
 # thesis should not go to master yet
 thesis/

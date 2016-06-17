@@ -27,6 +27,16 @@ University of Manchester, 2014
 * **Post-politics and crowdfunding**<br>
 Initial [research design](research-design/research-design.adoc), 2014
 
+## Installing dependencies
+
+The foloowing commands and scripts depend on the following binaries available in yout path: `gem`, `asciidoctor`, `python` (version 3.4+), `weasyprint` and `pandoc`.
+
+Once you have installed these packages, you can autmatically install the gems and generate the CSS stylesheet:
+
+```console
+make init
+```
+
 ## Generating print friendly versions
 
 A `Makefile` helps you generating nice HTML, PDF and Word versions of the files:
