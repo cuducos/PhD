@@ -3,8 +3,10 @@ a
   text-decoration: none
 
 blockquote
+  +prefixer(hyphens, auto, webkit moz ms spec)
   line-height: $single_line_height
   margin: $base_font_size $tab_width
+  text-align: justify
 
 b, strong
   font-weight: $bold_font_weight
@@ -42,9 +44,7 @@ h1, h2, h3, h4, h5, h6
 
 h1
   margin: $base_font_size 0
-  text-align: center
+  text-align: left
 
 h2, h3, h4, h5, h6
   margin: ($base_font_size * 3) 0 ($base_font_size * 2) 0
-
-
