@@ -15,16 +15,20 @@
       top: $base_font_size * -2
 
   p
+    +prefixer(hyphens, auto, webkit moz ms spec)
+    line-height: $normal_line_height
     margin: 0
+    text-align: justify
     text-indent: $tab_width
 
-  #preamble > div:first-child > div:first-child
+  #preamble > div:first-child > div:first-child p
     line-height: $single_line_height
-    text-align: right
     margin: ($base_font_size * 3) 0
+    text-align: right
+    text-indent: 0
 
-  #_bibliography + div
+  #_bibliography + div p
+    line-height: $single_line_height
+    margin-top: $base_font_size
     text-align: left
-    p
-      margin-top: $base_font_size
-      text-indent: 0
+    text-indent: 0
