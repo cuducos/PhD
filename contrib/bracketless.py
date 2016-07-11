@@ -9,13 +9,13 @@ SUFFIX = '</sup>'
 REGEX = re.compile(r'({}\[)(.+?)(\]{})'.format(PREFIX, SUFFIX))
 
 
-def remove_footnote_sq_brackets(path_to_html_file):
+def remove_footnote_sq_brackets(html_path):
 
-    if not os.path.isfile(path_to_html_file):
-        print('  File `{}` not found.'.format(html), file=sys.stderr)
+    if not os.path.isfile(html_path):
+        print('  File `{}` not found.'.format(html_path), file=sys.stderr)
         return False
 
-    with open(path_to_html_file, 'r+') as fh:
+    with open(html_path, 'r+') as fh:
         contents = fh.read()
         fh.seek(0)
         fh.write(REGEX.sub(r'{}\2{}'.format(PREFIX, SUFFIX), contents))
