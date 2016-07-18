@@ -2,7 +2,6 @@
 Eduardo Cuducos
 :homepage: http://cuducos.me
 :numbered:
-:toc:
 :sectanchors:
 :icons: font
 :stylesheet: ../contrib/print.css
@@ -10,10 +9,43 @@ Eduardo Cuducos
 *Eduardo Gonçalves* +
 _3^rd^ year PhD student in sociology, University of Essex_
 
-. *Introduction* _(~3k words)_
-. *Methodology and literature review*
-. *Money* _(~10-12k words)_: describe their approach to money, that is to say, they differ (even if slightly) from the accumulative behavior; highlight that money means at the same time autonomy and the possibility to make some projects tangible (in other words, making something meaningful real; for them, meaning beats accumulation as an end in itself; also reinforce how they are more difficult to be “captured” by corporations because money cannot buy them as professionals.
-. *Autonomy* _(~10-12k words)_: describe the way they define and pursue autonomy, as they dismiss external judgement in general (specially from incumbent institutions) they are not afraid to assume their own subjective judgements about the world and about their own choices; yet, by assuming this subjectivity, they usually dismiss the idea of _changing the world_ as they would like to make room for everybody to be autonomous (specially when it comes to being independent from any incumbent institutions).
-. *Challenge* _(~10-12k words)_: describe their arguments to distrust the way decisions are made by arguably instrumentalized institutions, and how they believe that bringing people together means bringing power to the people; yet this challenge should not be on the level of discourse (eg. academic/opinion in the media) or confront (eg. anti-G8, occupy), but of concrete and tangible action (that's why they value money and autonomy, and also that's why they challenge incumbent institutions).  
-. *Politics* _(~10-12k words)_: start to trace similarities between this pragmatic approach to action, this critique to corporations and governments to Arendt's concepts of action, work and labour; next discuss how they seem aligned to this differentiation.
-. *Discuss & conclusions* _(~3k words)_
+== Introduction
+_~3k words_
+
+== Methodology and literature review
+_1st draft: 11k words_
+
+== Resignifying money
+
+_1st draft: ~11.5 words_
+
+Describe their approach to money, that is to say, they differ (even if slightly) from the accumulative behavior; highlight that money means at the same time autonomy and the possibility to make some projects tangible (in other words, making something meaningful real; for them, meaning beats accumulation as an end in itself).
+
+=== TODO
+* Reinforce how they are more difficult to be “captured” by corporations because money cannot buy them as professionals.
+* Reinforce that they are looking for more “authenticity” within capitalism (in the sense of being less corporative)
+* Move literature review to the beginning of the chapter
+* Contrast data with theory
+
+== Autonomy
+_~10-12k words_
+
+Describe the way they define and pursue autonomy, as they dismiss external judgement in general (specially from incumbent institutions) they are not afraid to assume their own subjective judgements about the world and about their own choices; yet, by assuming this subjectivity, they usually dismiss the idea of _changing the world_ as they would like to make room for everybody to be autonomous (specially when it comes to being independent from any incumbent institutions).
+
+== Networks
+_~10-12k words_
+
+Discuss the important of community to have “circulating money” and autonomy, that is to say, how they seem to use their social networks to sustain this alternative or marginal lifestyle. Reinforce that people are seem more as assets than competitors.
+
+== Challenge
+_~10-12k words_
+
+Describe their arguments to distrust the way decisions are made by arguably instrumentalized institutions, and how they believe that bringing people together means bringing power to the people; yet this challenge should not be on the level of discourse (eg. academic/opinion in the media) or confront (eg. anti-G8, occupy), but of concrete and tangible action (that's why they value money and autonomy, and also that's why they challenge incumbent institutions).  
+
+== Politics
+_~10-12k words_
+
+Start to trace similarities between this pragmatic approach to action, this critique to corporations and governments to Arendt's concepts of action, work and labour; next discuss how they seem aligned to this differentiation. However reinforce that even if they are acting in public, building public goods, the public sphere itself still apolitical (no discussion/debate, little and scattered deliberation, and isolation in bubbles). One the one hand it is still impossible to pursue the classical public sphere, but on the other hand something anew is being confirmed in the sense of a chaotic pluralism.
+
+== Discuss & conclusions
+_~3k words_
