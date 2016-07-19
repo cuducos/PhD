@@ -1,0 +1,16 @@
+= Autonomy
+Eduardo Gonçalves
+:revremark: Draft of chapter to the thesis to be submitted to the Department of Sociology of the University of Essex for the degree of Doctor of Philosophy.
+:revdate: August 2016
+:numbered:
+:sectanchors:
+:icons: font
+:stylesheet: ../contrib/print.css
+
+[.lead]
+Describe the way they define and pursue autonomy, as they dismiss external judgement in general (specially from incumbent institutions) they are not afraid to assume their own subjective judgements about the world and about their own choices; yet, by assuming this subjectivity, they usually dismiss the idea of _changing the world_ as they would like to make room for everybody to be autonomous (specially when it comes to being independent from any incumbent institutions).
+
+== References
+
+[references]
+* …

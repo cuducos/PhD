@@ -29,6 +29,8 @@ include::2-methodology-and-literature-review.adoc[]
 
 include::3-resignifying-money.adoc[]
 
+include::4-autonomy.adoc[]
+
 :numbered!:
 :leveloffset: -1
 
