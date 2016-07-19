@@ -1,16 +1,41 @@
-= Crowd fundind and Politics
-Eduardo Cuducos
+= Crowd fundind and Politics: here comes the subtitle
+Eduardo Gonçalves
+:revremark: Draft of the thesis to be submitted to the Department of Sociology of the University of Essex for the degree of Doctor of Philosophy.
+:revdate: July 2016
 :homepage: http://cuducos.me
-:numbered:
+:numbered!:
 :toc:
 :sectanchors:
 :icons: font
 :stylesheet: ../contrib/print.css
+ 
+[abstract]
+== Abstract
+
+This ongoing PhD research consists of a social and political analysis of the crowd funding phenomenon. Platforms such as Kickstarter or Indiegogo make initiatives tangible through actions of ordinary people, dismissing institutional support from government or corporations. Through a social and political analysis of these online gatherings, my ongoing PhD research calls into question the spaces where people pursue public and private interests.
+
+The relationship between public and private spheres of action has been long debated in the literature. Arendt criticized the role of modern state as a guardian of individual freedom, highlighting that real possibilities of political action are still restricted to political elites. Simultaneously private interests of corporations have compromised the political sphere, argued Wolin and Schedler. According to them states take decisions within the private realm, diminishing the spaces for public interests. Finally Bellah argued that this scenario and its emphasis in the private interests favored individualism. Yet, he adds, people are not comfortable with it: the lack of social ties makes them eager for connections.
+
+This paper introduces some of my data and findings, focusing on interviews I conducted with people engaged with crowd funding in Brazil, the UK and the USA. I start from the point that if the institutional conjuncture seems to seize the public sphere from people, citizens might be fighting back recreating the public realm within this purportedly private space. Instead of traditional political organizations (such as parties or social movements) crowd funding benefits from practical disruptions emerged from new technologies. Yet at the same time crowd funding might grasp what post-representativeness could be or what a post-political pragmatic approach could look like. The discussion considers political possibilities and limitations of this new setting for private and public spaces.
+
+[.keywords]
+**Keywords**: crowd funding, internet, politics, public space, private space.
+
 
 :leveloffset: +1
+:numbered:
 
-include::2-methodology-and-literature-review.adoc[lines=6..-1]
+include::2-methodology-and-literature-review.adoc[]
 
-include::3-resignifying-money.adoc[lines=6..-1]
+include::3-resignifying-money.adoc[]
 
+:numbered!:
 :leveloffset: -1
+
+
+== References
+
+[references]
+* …
+
+== Footnotes
