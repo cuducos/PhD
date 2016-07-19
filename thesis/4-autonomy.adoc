@@ -7,10 +7,46 @@ Eduardo Gonçalves
 :icons: font
 :stylesheet: ../contrib/print.css
 
+// Describe the way they define and pursue autonomy, as they dismiss external judgement in general (specially from incumbent institutions) they are not afraid to assume their own subjective judgements about the world and about their own choices; yet, by assuming this subjectivity, they usually dismiss the idea of _changing the world_ as they would like to make room for everybody to be autonomous (specially when it comes to being independent from any incumbent institutions).
+
 [.lead]
-Describe the way they define and pursue autonomy, as they dismiss external judgement in general (specially from incumbent institutions) they are not afraid to assume their own subjective judgements about the world and about their own choices; yet, by assuming this subjectivity, they usually dismiss the idea of _changing the world_ as they would like to make room for everybody to be autonomous (specially when it comes to being independent from any incumbent institutions).
+Action would be an unnecessary luxury, a capricious interference with general laws of behavior, if men (sic) were endlessly reproducible repetitions of the same model, whose nature or essence was the same for all and as predictable as the nature or essence of any other thing. Plurality is the condition of human action because we are all the same, that is, human, in such a way that nobody is ever the same as anyone else who ever lived, lives or will live (Arendt 1973:8).
+
+The last chapter's discussion on money is the first piece of a complex mélange that defines a specific world view forged within the crowd funding community. The second piece is what is at stake when they purportedly attempt adopt an alternative and marginal lifestyle — especially when it comes to the notion of making a living out of a career. Maybe a first impression about people who are trying to resignify money would point towards an utopian desire to change the world. Actually, that was what Felipe told me:
+
+[quote]
+[The degree in] geography gave me incredible tools to work with sustainability. And then, when I was 20, 22 years old, I was totally addicted in working and changing the world. And I'd work as hard as possible, for free, out of passion.
+
+Before going to his partially crowd funded master degree, he had been an undergraduate student in two different fields: economics and geography. He got there because he felt the world was sick and needed to be saved: he would claim that natural resources were disappearing, pollution was dominating the environment and people were at the same time obsessed with working and making a living and deeply deluded and exhausted. The result, yet according to him, was a toxic world with serious personal and social issues. That was unbearable for him, and something had to be done. When he was starting his higher education Felipe had opted for economics because “it would provide me with knowledge about the system, about social life, and later I could get into ecology, ecological economics, green economy.” The _system_ is a way many interviewees would address the overarching values fostered by the incumbent institutions such as corporative market and the arguably neoliberal states. After a couple of years Felipe changed his mind: “I had taken a huge diversion to actually get to the point where I could study sustainability, study labor, cultural and social alternatives.” He started to look for alternatives and geography looked great: “according to the programme you would study natural sciences, social science, humanities and the correlation between them.” He left economics and joined geography trying to do something to save the world — or, at least, trying to prepare himself to do so. With this background it is comprehensible he graduated pursuing overarching objectives: changing the world, changing the system. Objectives that he himself would label as naïve at the time of the interview:
+
+[quote]
+I have worked for NGOs, it is a little bit of my trajectory. And there are other things. I have worked in the marketplace for big companies, such as Petrobras which is a semi-public corporation. And I have worked for small initiatives. And I started to see that I do not think it is within this system that we will change anything. […] Actually I do not think it is about changing the system. I think it is all about bringing an alternative, from outside — that is why my blog is called _On the Edge_, it is a culture in the margins, it faces the real and the anew, what is not there yet.
+
+His master degree focus on the collaborative economy. According to him this route seems promising because “it moves away from the default of changing the system”. In specific, he claims that this route does not take a combative position against the monetary system, for instance — “let's leave the monetary system there, let it go. It will change if it has to.” Yet he thinks it is a wast of time to fight the monetary system, it is like “throwing stones against a wall.”
+
+Felipe's background raises three important topics for discussion, topics that clearly takes the process of resignification of money to another level: first there is a lack of interest in incumbent institutions not only as a source of income, but as a possibility of promoting change from inside out. Sociologically speaking they are acknowledging the power struggle between individuals and institutions, and claiming that building new institutions is more viable than changing the ones already established. Second the reason for this strategy involves finding alternatives to the core world views propagated by these institutions, being money and the notion of a career core instances here. In other words, the strategy is to make the values in which these incumbent institutions find support less relevant overtime. Third this marginal strategy, as Felipe put, has an inherent value in being marginal, small, discrete — that is to say, it can start small, without a great rupture or effort.
+ 
+The next section goes through the three points listed above. The following section draws on these findings to grasp how they are put together in a concept of autonomy — a concept that is an important driver for the crowd funding community. Surely this is an approach to autonomy emerged from the fieldwork, that is to say, there is no statement to defend that they are or are not autonomous; what is relevant is to understand why they see as autonomy, how they pursue it and why they do it.
+
+'''
+
+[quote]
+[The degree in] geography gave me incredible tools to work with sustainability. And then, when I was 20, 22 years old, I was totally addicted in working and changing the world. And I'd work as hard as possible, for free, out of passion. +
+— Maria
+
+[quote]
+I got really into dancing and embodiment and just discovered a new world and language that really suited the way I was interacting with the world and understanding myself and others and my interaction between, erm the interactions between one another.  So I actually stayed to dance contact improvisation which is erm like more modern form of dance really free of rules and all inclusive erm
+
+[quote]
+Se for ver o que eu recebi até agora da Little Big Money, a maioria deve ter sido consultoria, ainda... porque eles tavam aprendendo a fazer negócio online... eles são da fundação... Fundación Capital, que é uma fundação financiada pela Fundação Ford. E eles são muito durangos na coisa de internet, então eu e o Tomás passamos um bom tempo ali plantando sementinhas de... desde linha startup até filosofia de compartilhar as coisas e não criar barreiras, uma série de coisas nesse sentido que têm a ver com uma visão de mundo diferente da que eles tão acostumados, né... +
+— DW
+
+[quote]
+Então, enchi o saco dessa coisa... bababá mudar o mundo, mas... por exemplo, assim, ó: por que que o Unlock é tão importante pra mim - tirando as coisas que eu acho legal nele, em si? Porque eu sonho - e aí, palavra vem bem - em não precisar tem preço pras coisas... em não precisar criar serviços só por criar serviços... só pra resolver a questão financeira, né... então... isso reflete, em mim, uma vontade de que outras pessoas façam isso também... por: 1) mudar a vida dessas pessoas, assim como eu sinto que vai mudando a minha aos poucos... o fato de eu olhar e ver que eu tenho... eu e o Larusso temos 750 pila garantido aqui com o Unlock... do Unlock... já me dá uma segurança diferente do que a que me dava quando era... 200, sabe... quando não existia isso, né? Ou seja, cada lucrinho a mais que eu vou tendo por mês, porque eu tenho cinco unlocks, né, eu somo eles e vejo mais ou menos quanto eu já tenho garantido pro mês, assim... enquanto durar, né... porque as pessoas...
+Cara, a Engage foi construída em cima dessa ideia de mudar o mundo, né? Vamos combinar... e o meu processo na Engage - que a gente não falou quase nada da Engage hoje, né... mas o meu processo na Engage foi de encher minha paciência desse papinho... né... mas acho que, sim, a gente tá mudando o mundo, mas não... não sei... não me considero um sonhador, me considero muito pragmático... ao mesmo tempo, sonho bastante, né... porque senão não poderia ser pragmático.. […] +
+— DW
 
 == References
 
 [references]
-* …
+* Arendt, H. (1998[1958]). _The Human Condition_. 2 ed. Chicago and London: University of Chicago Press.
