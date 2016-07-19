@@ -1,14 +1,12 @@
 = Post-politics and crowdfunding | Draft series v5.0 footnote:[This a draft version of a research design and literature review to be discussed in a board meeting by June, 2014.]
-Eduardo Cuducos
+Eduardo Gonçalves
+:revremark: Research Design
+:revdate: February 2014
 :homepage: http://cuducos.me
 :numbered:
-:toc:
 :sectanchors:
 :icons: font
 :stylesheet: ../contrib/print.css
-
-*Eduardo Gonçalves* +
-_1^st^ year PhD student in sociology, University of Essex_
 
 == Introduction
 
@@ -281,86 +279,46 @@ The research starts with the literature review, followed by a preliminary set of
 
 == REFERENCES
 
-Allen-Robertson, J. (2013). _Digital Culture Industry: A History of Digital Distribution_. Basingstoke: Palgrave Macmilllan.
-
-Barlow, J. (1996). _A Declaration of the Independence of Cyberspace_. Available at: https://projects.eff.org/~barlow/Declaration-Final.html [Accessed: 24 May 2014].
-
-Barry, A. (2002). The Anti-political Economy. _Economy and Society_, 31(2). Pp. 268-284.
-
-Baudrillard, J. (1994). The Precession of Simulacra. In _Simulacra and Simulation_. Ann Arbor: University of Michigan Press. Pp. 1-42.
-
-Beer, D. and Burrows, R. (2007). Sociology And, Of and In Web 2.0: Some Initial Considerations. _Sociological Research Online_, 12(5). Available at: http://socresonline.org.uk/12/5/17.html [Accessed: 03 Dec. 2013].
-
-Belleflamme, P., Lambert, T., and Schwienbacher, A. (2013). Crowdfunding: Tapping the right crowd. _Journal of Business Venturing_, 29(1). Pp. 1-16.
-
-Bennett, E. A., Cordner, A., Klein, P. T. and Baiocchi, G. (2013). Disavowing Politics: Civic Engagement in an Era of Political Skepticism. _American Journal of Sociology_, 119(2). Pp. 518-548.
-
-Benkler, Y. (2010). The Idea of Access to Knowledge and the Information Commons: Long-Term Trends and Basic Elements. In Krikorian, G. and Kapczynski, A. (eds.). _Access to Knowledge: In the Age of Intellectual Property_. New York: Zone Books.
-
-Blaikie, N. (2010). _Designing Social Research: The logic of anticipation_. 2nd ed. Cambridge: Polity Press.
-
-Boltanski, L. and Chiapello, E. (2005). _The new spirit of capitalism_. London: Verso.
-
-Borch, C. (2012). _The Politics of Crowds: An Alternative History of Sociology_. Cambridge: Cambridge University Press.
-
-boyd, d. (2014). _It’s Complicated: The social lives of networked teens_. New Haven and London: Yale University Press.
-
-Callon, M. (1998). Introduction: The Embeddedness of the Economic Markets in Economics. In Callon, M. (ed.). _The Laws of the Markets_.Oxford: Blackwell.
-
-Canadian Press, The (2013). Kickstarter crowdfunding site officially launches in Canada: Canadian entry held up by red tape, financial regulations, co-founder says. Available at: http://www.cbc.ca/news/business/kickstarter-crowdfunding-site-officially-launches-in-canada-1.1703774 [Accessed: 20 Jan. 2014].
-
-Coleman, E. G. (2013). _Coding Freedom: The Ethics and Aesthetics of Hacking_ [digital book]. Princeton: Princeton University Press.
-
-English, R. (2013). Rent-a-crowd? Crowdfunding academic research. _First Monday_, 19(1). Available at: http://firstmonday.org/ojs/index.php/fm/article/view/4818/3804 [Accessed: 20 Apr. 2014].
-
-Indiegogo (2012). International Campaigns. Available at: http://support.indiegogo.com/entries/20882543-international-campaigns [Accessed: 20 Jan. 2014].
-
-Karanović, J. (2012). Free Software and the Politics of Sharing. In H. A. Horst & D. Miller (Eds.), _Digital Anthropology_. London: Bloomsbury. Pp. 185-202.
-
-Kelty, C. (2008). _Two Bits: The Cultural Significance of Free Software_. Durham: Duke University Press.
-
-Kelty, C. (2013). The Politics of Crowds: An Alternative History of Sociology. _Journal of Cultural Economy_ [online]. Available at: http://dx.doi.org/10.1080/17530350.2013.840667 [Accessed 30 Dec. 2013].
-
-Kickstarter (2014). Kickstarter Stats. Available at: https://www.kickstarter.com/help/stats [Accessed: 20 Jan. 2014].
-
-Kvale, S. and Brinkmann, S. (2009)._ Interviews. Learning the Craft of Qualitative Research Interviewing_. London: Sage.
-
-Laughey, D. (2010). User Authority Through Mediated Interaction: A case of eBay-in-use. _Journal of Consumer Culture_ (10)1. Pp. 105-128.
-
-Lessig, L. (2004). _Free Culture: How Big Media Uses Technology and the Law to Lock Down Culture and Control Creativity_. New York: Penguin Press.
-
-Lessig, L. (2006). _Code: Version 2.0_. New York: Basic.
-
-Maffesoli, M. (1996). _The Time of the Tribes: The Decline of Individualism in Mass Society_. London: Sage.
-
-Margetts, H., John, P., Hale, S. & Reissfelder, S. (2013). Leadership without Leaders? Starters and Followers in Online Collective Action. _Political Studies_, n-a(n-a). Pp. 1-22.
-
-Margolis, M. and Moreno-Riaño, G. (2009). _The Prospect of Internet Democracy_. Farnham and Burlington: Ashgate.
-
-McLuhan, M. (1994). _Understanding Media: The Extensions of Man_. Cambridge: Massachusetts Institute of Technology Press.
-
-Mouffe, C. (2005). _On the Political_. London: Routledge.
-
-Open Source Initiative (2014). The MIT License. Available at: http://opensource.org/licenses/MIT [Accessed: 20 Jan. 2014].
-
-Papacharissi, Z. (2009). The Virtual Sphere 2.0: The internet, the public sphere, and beyond. In A. Chadwick & P. N. Howard (eds.). _Routledge Handbook of Internet Politics_. London and New York: Routledge. Pp. 230-245.
-
-Purewal, S. (2011). Kickstarter Faces Patent Suit Over Funding Idea. _PCWorld_. Available at: http://www.pcworld.com/article/241160/kickstarter_faces_patent_suit_over_funding_idea.html [Accessed: 20 Jan. 2014].
-
-Ragin, C. (1994). _Constructing Social Research: The unity and diversity of method_. Thousands Oaks, London and New Delhi: Pine Forge Press.
-
-Ritzer, G. and N. Jurgenson (2010). Production, Consumption, Prosumption: The nature of Capitalism in the Age of the Digital `Prosumer.' _Journal of Consumer Culture_, 10(1). Pp 13-36.
-
-Schedler, A. (1997). Introduction: Antipolitics – Closing and colonizing the public sphere. In Schedler, A. (ed.) _The end of Politics? Explorations into modern antipolitics_. New York: Macmillan. Pp. 1-20.
-
-Sniderman, P. M. and Bullock, J. (2004). A Consistency Theory of Public Opinion and Political Choice: The hypothesis of men dependence. In Saris, W. E. and Sniderman, P. M. (eds.). _Studies in Public Opinion: Attitudes, nonattitudes, measurement error, and change_. Princeton and Oxford: Princeton University Press. Pp. 337-357.
-
-Taylor, S. and Land, C. (2014). The Good Old Days Yet to Come: Postalgic times for the new spirit of capitalism. _Management & Organizational History_, 9(2). Pp 202-219.
-
-Weber, M. (1976). _The Protestant Ethic and the Spirit of Capitalism_. London and New York: Routledge.
-
-Weber, M., Gerth, H. H., and Mills, C. W. (1991). _From Max Weber: Essays in Sociology_. London: Routledge.
-
-Wikipedia (2014). Comparison of crowd funding services. Available at: https://en.wikipedia.org/wiki/Comparison_of_crowd_funding_services [Accessed: 20 Jan. 2014].
-
-Žižek, S. (2024). _Organs without Bodies: Deleuze and Consequences_. New York and London: Routledge.
+[references]
+* Allen-Robertson, J. (2013). _Digital Culture Industry: A History of Digital Distribution_. Basingstoke: Palgrave Macmilllan.
+* Barlow, J. (1996). _A Declaration of the Independence of Cyberspace_. Available at: https://projects.eff.org/~barlow/Declaration-Final.html [Accessed: 24 May 2014].
+* Barry, A. (2002). The Anti-political Economy. _Economy and Society_, 31(2). Pp. 268-284.
+* Baudrillard, J. (1994). The Precession of Simulacra. In _Simulacra and Simulation_. Ann Arbor: University of Michigan Press. Pp. 1-42.
+* Beer, D. and Burrows, R. (2007). Sociology And, Of and In Web 2.0: Some Initial Considerations. _Sociological Research Online_, 12(5). Available at: http://socresonline.org.uk/12/5/17.html [Accessed: 03 Dec. 2013].
+* Belleflamme, P., Lambert, T., and Schwienbacher, A. (2013). Crowdfunding: Tapping the right crowd. _Journal of Business Venturing_, 29(1). Pp. 1-16.
+* Bennett, E. A., Cordner, A., Klein, P. T. and Baiocchi, G. (2013). Disavowing Politics: Civic Engagement in an Era of Political Skepticism. _American Journal of Sociology_, 119(2). Pp. 518-548.
+* Benkler, Y. (2010). The Idea of Access to Knowledge and the Information Commons: Long-Term Trends and Basic Elements. In Krikorian, G. and Kapczynski, A. (eds.). _Access to Knowledge: In the Age of Intellectual Property_. New York: Zone Books.
+* Blaikie, N. (2010). _Designing Social Research: The logic of anticipation_. 2nd ed. Cambridge: Polity Press.
+* Boltanski, L. and Chiapello, E. (2005). _The new spirit of capitalism_. London: Verso.
+* Borch, C. (2012). _The Politics of Crowds: An Alternative History of Sociology_. Cambridge: Cambridge University Press.
+* boyd, d. (2014). _It’s Complicated: The social lives of networked teens_. New Haven and London: Yale University Press.
+* Callon, M. (1998). Introduction: The Embeddedness of the Economic Markets in Economics. In Callon, M. (ed.). _The Laws of the Markets_.Oxford: Blackwell.
+* Canadian Press, The (2013). Kickstarter crowdfunding site officially launches in Canada: Canadian entry held up by red tape, financial regulations, co-founder says. Available at: http://www.cbc.ca/news/business/kickstarter-crowdfunding-site-officially-launches-in-canada-1.1703774 [Accessed: 20 Jan. 2014].
+* Coleman, E. G. (2013). _Coding Freedom: The Ethics and Aesthetics of Hacking_ [digital book]. Princeton: Princeton University Press.
+* English, R. (2013). Rent-a-crowd? Crowdfunding academic research. _First Monday_, 19(1). Available at: http://firstmonday.org/ojs/index.php/fm/article/view/4818/3804 [Accessed: 20 Apr. 2014].
+* Indiegogo (2012). International Campaigns. Available at: http://support.indiegogo.com/entries/20882543-international-campaigns [Accessed: 20 Jan. 2014].
+* Karanović, J. (2012). Free Software and the Politics of Sharing. In H. A. Horst & D. Miller (Eds.), _Digital Anthropology_. London: Bloomsbury. Pp. 185-202.
+* Kelty, C. (2008). _Two Bits: The Cultural Significance of Free Software_. Durham: Duke University Press.
+* Kelty, C. (2013). The Politics of Crowds: An Alternative History of Sociology. _Journal of Cultural Economy_ [online]. Available at: http://dx.doi.org/10.1080/17530350.2013.840667 [Accessed 30 Dec. 2013].
+* Kickstarter (2014). Kickstarter Stats. Available at: https://www.kickstarter.com/help/stats [Accessed: 20 Jan. 2014].
+* Kvale, S. and Brinkmann, S. (2009)._ Interviews. Learning the Craft of Qualitative Research Interviewing_. London: Sage.
+* Laughey, D. (2010). User Authority Through Mediated Interaction: A case of eBay-in-use. _Journal of Consumer Culture_ (10)1. Pp. 105-128.
+* Lessig, L. (2004). _Free Culture: How Big Media Uses Technology and the Law to Lock Down Culture and Control Creativity_. New York: Penguin Press.
+* Lessig, L. (2006). _Code: Version 2.0_. New York: Basic.
+* Maffesoli, M. (1996). _The Time of the Tribes: The Decline of Individualism in Mass Society_. London: Sage.
+* Margetts, H., John, P., Hale, S. & Reissfelder, S. (2013). Leadership without Leaders? Starters and Followers in Online Collective Action. _Political Studies_, n-a(n-a). Pp. 1-22.
+* Margolis, M. and Moreno-Riaño, G. (2009). _The Prospect of Internet Democracy_. Farnham and Burlington: Ashgate.
+* McLuhan, M. (1994). _Understanding Media: The Extensions of Man_. Cambridge: Massachusetts Institute of Technology Press.
+* Mouffe, C. (2005). _On the Political_. London: Routledge.
+* Open Source Initiative (2014). The MIT License. Available at: http://opensource.org/licenses/MIT [Accessed: 20 Jan. 2014].
+* Papacharissi, Z. (2009). The Virtual Sphere 2.0: The internet, the public sphere, and beyond. In A. Chadwick & P. N. Howard (eds.). _Routledge Handbook of Internet Politics_. London and New York: Routledge. Pp. 230-245.
+* Purewal, S. (2011). Kickstarter Faces Patent Suit Over Funding Idea. _PCWorld_. Available at: http://www.pcworld.com/article/241160/kickstarter_faces_patent_suit_over_funding_idea.html [Accessed: 20 Jan. 2014].
+* Ragin, C. (1994). _Constructing Social Research: The unity and diversity of method_. Thousands Oaks, London and New Delhi: Pine Forge Press.
+* Ritzer, G. and N. Jurgenson (2010). Production, Consumption, Prosumption: The nature of Capitalism in the Age of the Digital `Prosumer.' _Journal of Consumer Culture_, 10(1). Pp 13-36.
+* Schedler, A. (1997). Introduction: Antipolitics – Closing and colonizing the public sphere. In Schedler, A. (ed.) _The end of Politics? Explorations into modern antipolitics_. New York: Macmillan. Pp. 1-20.
+* Sniderman, P. M. and Bullock, J. (2004). A Consistency Theory of Public Opinion and Political Choice: The hypothesis of men dependence. In Saris, W. E. and Sniderman, P. M. (eds.). _Studies in Public Opinion: Attitudes, nonattitudes, measurement error, and change_. Princeton and Oxford: Princeton University Press. Pp. 337-357.
+* Taylor, S. and Land, C. (2014). The Good Old Days Yet to Come: Postalgic times for the new spirit of capitalism. _Management & Organizational History_, 9(2). Pp 202-219.
+* Weber, M. (1976). _The Protestant Ethic and the Spirit of Capitalism_. London and New York: Routledge.
+* Weber, M., Gerth, H. H., and Mills, C. W. (1991). _From Max Weber: Essays in Sociology_. London: Routledge.
+* Wikipedia (2014). Comparison of crowd funding services. Available at: https://en.wikipedia.org/wiki/Comparison_of_crowd_funding_services [Accessed: 20 Jan. 2014].
+* Žižek, S. (2024). _Organs without Bodies: Deleuze and Consequences_. New York and London: Routledge.

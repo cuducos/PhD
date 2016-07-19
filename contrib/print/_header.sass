@@ -1,3 +1,14 @@
-#header
-  .details
-    display: none
+#author, #revdate, #revremark
+  display: block
+  font:
+    family: $heading_font_family
+    weight: $heading_font_weight
+  margin-top: ($base_font_size * 1)
+
+#author
+  margin-top: 0
+
+@media print
+  #revdate
+    position: absolute
+    bottom: 0

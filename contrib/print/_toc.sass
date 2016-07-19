@@ -1,0 +1,29 @@
+#toc
+  font:
+    family: $heading_font_family
+    weight: $heading_font_weight
+  ul
+    margin: 0
+    padding: 0
+  li
+    list-style-type: none
+    font-weight: $title_font_weight
+    margin: 0 0 $base_font_size 0
+    padding: 0
+    ul
+      border-top: .25pt solid black
+      padding-top: $base_font_size
+    li 
+      border: 0
+      font-weight: $heading_font_weight
+      margin: 0 0 0 ($tab_width / 2)
+    @media print
+      a:after
+        content: target-counter(attr(href), page)
+        float: right
+
+#toctitle
+  font-size: $base_font_size * 1.8
+  line-height: $single_line_height
+  margin: ($base_font_size * 3) 0 ($base_font_size * 2) 0
+  page-break-before: always

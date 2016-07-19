@@ -4,12 +4,36 @@
   orphans: 3
   widows: 3
   counter-increment: page
+
   @bottom-center
-    content: counter(page)
     color: $base_font_color
-    font-size: $small_font_size
-    font-family: 'Cardo'  // weasyprint seams to refuse font list inside @page @…
+    content: counter(page)
+    font:
+      family: 'Lato'  // weasyprint seams to refuse font list inside @page @…
+      size: $small_font_size
+      weight: $heading_font_weight
+
+  @top-center
+    color: $base_font_color
+    content: 'Eduardo Gonçalves • PhD student at the University of Essex'
+    font:
+      family: 'Lato'  // weasyprint seams to refuse font list inside @page @…
+      size: $tiny_font_size
+      weight: $heading_font_weight
+
+@page :first
+  @bottom-center
+    content: ''
+  @top-center
+    content: ''
 
 html, body
   margin: 0
   padding: 0
+
+body
+  counter-reset: page 0
+
+@media print
+  h2
+    page-break-before: always
