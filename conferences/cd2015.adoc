@@ -1,25 +1,26 @@
-= Crowdfunding and the reconfiguration of public and private space footnote:[Paper submitted to the _ECREA Communication and Democracy Section Conference “Political Agency in the Digital Age,”_ Copenhagen, 2015.]
-Eduardo Cuducos
+= Crowdfunding and the reconfiguration of public and private space footnote:[Paper submitted to the _ECREA Communication and Democracy Section Conference “Political Agency in the Digital Age,”_ Copenhagen, 2015, and also presented at the _2015 Centre for European Policy Studies Winter School “From Uber to Amazon Mechanical Turk,”_ Brussels, 2015.]
+Eduardo Gonçalves (University of Essex)
+:revremark: Conference paper/work in progress
+:revdate: February 2015
 :homepage: http://cuducos.me
-:numbered:
+:numbered!:
 :sectanchors:
 :icons: font
 :stylesheet: ../contrib/print.css
 
-*Eduardo Gonçalves* +
-_University of Essex_
+[abstract]
+== Abstract
 
-****
-*Abstract* +
 This ongoing PhD research consists of a social and political analysis of the crowdfunding phenomenon. Platforms such as Kickstarter or Indiegogo make initiatives tangible through actions of ordinary people, dismissing institutional support from government or corporations. Through a social and political analysis of these online gatherings, my ongoing PhD research calls into question the spaces where people pursue public and private interests.
 
 The relationship between public and private spheres of action has been long debated in the literature. Arendt criticized the role of modern state as a guardian of individual freedom, highlighting that real possibilities of political action are still restricted to political elites. Simultaneously private interests of corporations have compromised the political sphere, argued Wolin and Schedler. According to them states take decisions within the private realm, diminishing the spaces for public interests. Finally Bellah argued that this scenario and its emphasis in the private interests favored individualism. Yet, he adds, people are not comfortable with it: the lack of social ties makes them eager for connections.
 
 This paper introduces some of my data and findings, focusing on interviews I conducted with people engaged with crowdfunding in Brazil, the UK and the USA. I start from the point that if the institutional conjuncture seems to seize the public sphere from people, citizens might be fighting back recreating the public realm within this purportedly private space. Instead of traditional political organizations (such as parties or social movements) crowdfunding benefits from practical disruptions emerged from new technologies. Yet at the same time crowdfunding might grasp what post-representativeness could be or what a post-political pragmatic approach could look like. The discussion considers political possibilities and limitations of this new setting for private and public spaces.
 
-*Keywords* +
-crowdfunding, internet, politics, public space, private space.
-****
+[.keywords]
+*Keywords*: crowdfunding, internet, politics, public space, private space.
+
+:numbered:
 
 == Introduction
 
@@ -143,50 +144,28 @@ What this research has accomplished so far is restricted to the relevance and te
 
 == References
 
-Allen-Robertson, J. (2013). _Digital Culture Industry: A History of Digital Distribution_. Basingstoke: Palgrave Macmilllan.
-
-Arendt, H. (1973[1963]). _On Revolution_. Bungay: Penguin.
-
-Arendt, H. (1998[1958]). _The Human Condition_. 2 ed. Chicago and London: University of Chicago Press.
-
-Bellah, R., Madsen, R., Sulliva, W., Swidler, A. and Tipton, S. (2008[1985]). _Habits of the heart_. Berkeley: University of California Press.
-
-Benkler, Y. (2010). The Idea of Access to Knowledge and the Information Commons: Long-Term Trends and Basic Elements. In Krikorian, G. and Kapczynski, A. (eds.). _Access to Knowledge: In the Age of Intellectual Property_. New York: Zone Books.
-
-Bennett, E. A., Cordner, A., Klein, P. T. and Baiocchi, G. (2013). Disavowing Politics: Civic Engagement in an Era of Political Skepticism. _American Journal of Sociology_, 119(2). Pp. 518-548.
-
-Berlin, I (1999[1958]). Two Concepts of Liberty. In Warburton, N. (ed.) _Arguments for Freedom_. Milton Keynes: Open University. Pp. 155-165.
-
-Borch, C. (2012). _The Politics of Crowds: An Alternative History of Sociology_. Cambridge: Cambridge University Press.
-
-Coleman, E. G. (2013). _Coding Freedom: The Ethics and Aesthetics of Hacking_ [digital book]. Princeton: Princeton University Press.
-
-Habermas, J. (2005[1981])._The Theory of Communicative Action: Lifeworld and System_. Boston: Beacon.
-
-Jaffe, E. (1997). Our Own Invisible Hand: Antipolitics as an American Given. In Schedler, A. (ed.) _The end of Politics? Explorations into Modern Antipolitics_. New York: Macmillan. Pp. 57-90.
-
-Joas, H. and Knöbl W. (2009[2004]). _Social Theory: Twenty Introductory Lectures_. Cambridge: Cambridge University Press.
-
-Kapczynski, A. (2010). Access to Knowledge. A Conceptual Genealogy. In Krikorian, G. and Kapczynski, A. (eds.). _Access to Knowledge. In the Age of Intellectual Property_. New York: Zone Books.
-
-Kelty, C. (2008). _Two Bits: The Cultural Significance of Free Software_. Durham: Duke University Press.
-
-Lessig, L. (2006). _Code: Version 2.0_. New York: Basic.
-
-Mouffe, C. (2005). _On the Political_. London: Routledge.
-
-Pramuk, J. (2015) Student Debt Crushes Innovation: College President. In _CNBC_. Available at http://cnbc.com/id/102377355. Accessed 28 Jan. 2015.
-
-Schedler, A. (1997). Introduction: Antipolitics — Closing and colonizing the public sphere. In Schedler, A. (ed.) _The end of Politics? Explorations into Modern Antipolitics_. New York: Macmillan. Pp. 1-20.
-
-Sniderman, P. M. and Bullock, J. (2004). A Consistency Theory of Public Opinion and Political Choice: The hypothesis of men dependence. In Saris, W. E. and Sniderman, P. M. (eds.). _Studies in Public Opinion: Attitudes, nonattitudes, measurement error, and change_. Princeton and Oxford: Princeton University Press. Pp. 337-357.
-
-Tocqueville, A. (1986[1835]). _De la démocratie en Amérique, I_. Paris: Gallimard.
-
-Weber, M. (1976[1900]). _The Protestant Ethic and the Spirit of Capitalism_. London and New York: Routledge.
-
-Weber, M. (1978[1922]). _Economy & Society: An Outline of Interpretive Sociology_. Berkeley: University of California Press.
-
-Weber, M. (1986[1919]). The Reich President. _Social Research_, 53(1). Pp. 125-132.
-
-Wolin, S. (2004). _Politics and Vision: Continuity and Innovation in Western Political Thought_. Princeton and Oxford: Princeton University Press.
+[references]
+* Allen-Robertson, J. (2013). _Digital Culture Industry: A History of Digital Distribution_. Basingstoke: Palgrave Macmilllan.
+* Arendt, H. (1973[1963]). _On Revolution_. Bungay: Penguin.
+* Arendt, H. (1998[1958]). _The Human Condition_. 2 ed. Chicago and London: University of Chicago Press.
+* Bellah, R., Madsen, R., Sulliva, W., Swidler, A. and Tipton, S. (2008[1985]). _Habits of the heart_. Berkeley: University of California Press.
+* Benkler, Y. (2010). The Idea of Access to Knowledge and the Information Commons: Long-Term Trends and Basic Elements. In Krikorian, G. and Kapczynski, A. (eds.). _Access to Knowledge: In the Age of Intellectual Property_. New York: Zone Books.
+* Bennett, E. A., Cordner, A., Klein, P. T. and Baiocchi, G. (2013). Disavowing Politics: Civic Engagement in an Era of Political Skepticism. _American Journal of Sociology_, 119(2). Pp. 518-548.
+* Berlin, I (1999[1958]). Two Concepts of Liberty. In Warburton, N. (ed.) _Arguments for Freedom_. Milton Keynes: Open University. Pp. 155-165.
+* Borch, C. (2012). _The Politics of Crowds: An Alternative History of Sociology_. Cambridge: Cambridge University Press.
+* Coleman, E. G. (2013). _Coding Freedom: The Ethics and Aesthetics of Hacking_ [digital book]. Princeton: Princeton University Press.
+* Habermas, J. (2005[1981])._The Theory of Communicative Action: Lifeworld and System_. Boston: Beacon.
+* Jaffe, E. (1997). Our Own Invisible Hand: Antipolitics as an American Given. In Schedler, A. (ed.) _The end of Politics? Explorations into Modern Antipolitics_. New York: Macmillan. Pp. 57-90.
+* Joas, H. and Knöbl W. (2009[2004]). _Social Theory: Twenty Introductory Lectures_. Cambridge: Cambridge University Press.
+* Kapczynski, A. (2010). Access to Knowledge. A Conceptual Genealogy. In Krikorian, G. and Kapczynski, A. (eds.). _Access to Knowledge. In the Age of Intellectual Property_. New York: Zone Books.
+* Kelty, C. (2008). _Two Bits: The Cultural Significance of Free Software_. Durham: Duke University Press.
+* Lessig, L. (2006). _Code: Version 2.0_. New York: Basic.
+* Mouffe, C. (2005). _On the Political_. London: Routledge.
+* Pramuk, J. (2015) Student Debt Crushes Innovation: College President. In _CNBC_. Available at http://cnbc.com/id/102377355. Accessed 28 Jan. 2015.
+* Schedler, A. (1997). Introduction: Antipolitics — Closing and colonizing the public sphere. In Schedler, A. (ed.) _The end of Politics? Explorations into Modern Antipolitics_. New York: Macmillan. Pp. 1-20.
+* Sniderman, P. M. and Bullock, J. (2004). A Consistency Theory of Public Opinion and Political Choice: The hypothesis of men dependence. In Saris, W. E. and Sniderman, P. M. (eds.). _Studies in Public Opinion: Attitudes, nonattitudes, measurement error, and change_. Princeton and Oxford: Princeton University Press. Pp. 337-357.
+* Tocqueville, A. (1986[1835]). _De la démocratie en Amérique, I_. Paris: Gallimard.
+* Weber, M. (1976[1900]). _The Protestant Ethic and the Spirit of Capitalism_. London and New York: Routledge.
+* Weber, M. (1978[1922]). _Economy & Society: An Outline of Interpretive Sociology_. Berkeley: University of California Press.
+* Weber, M. (1986[1919]). The Reich President. _Social Research_, 53(1). Pp. 125-132.
+* Wolin, S. (2004). _Politics and Vision: Continuity and Innovation in Western Political Thought_. Princeton and Oxford: Princeton University Press.

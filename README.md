@@ -33,12 +33,13 @@ Initial [research design](research-design/research-design.adoc), 2014
 
 ## Installing dependencies
 
-The foloowing commands and scripts depend on the following binaries available in yout path: `gem`, `asciidoctor`, `python` (version 3.4+), `weasyprint` and `pandoc`.
+The following commands and scripts depend on the following binaries available in yout path: `gem`, `asciidoctor`, `python` (version 3.4+), `prince` and `pandoc`.
 
 Once you have installed these packages, you can autmatically install the gems and generate the CSS stylesheet:
 
 ```console
-make init
+$ make init
+$ make css
 ```
 
 ## Generating print friendly versions
@@ -57,7 +58,6 @@ $ make docx ADOC=conferences/cd2015.adoc
 $ make pdf ADOC=conferences/cd2015.adoc
 
 ```
-This depends on the following binaries available in yout path: `asciidoctor`, `python` (version 3.4+), `weasyprint` and `pandoc`.
 
 There is also a shorcut to clean all the auto-generated files:
 
@@ -69,7 +69,7 @@ If you prefer to generate them step by step, the follwoing sections describe wha
 
 ### HTML
 
-To generate print friendly HTML use [AsciiDoctor Toolchain](http://asciidoctor.org/docs/install-toolchain/).
+To generate print friendly HTML use [AsciiDoctor Toolchain](http://asciidoctor.org/docs/install-toolchain/). You'll have to compile the CSS first.
 
 For example:
 
@@ -85,12 +85,12 @@ $ python contrib/bracketless.py conferences/cd2015.html
 
 ### PDF
 
-To generate a PDF, use [WeasyPrint](http://weasyprint.org/) to convert the HTML generated above.
+To generate a PDF, use [Prince](http://www.princexml.com/) to convert the HTML generated above.
 
 For example:
 
 ```console
-$ weasyprint conferences/cd2015.html conferences/cd2015.pdf
+$ prince conferences/cd2015.html
 ```
 
 ### Word
