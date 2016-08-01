@@ -39,7 +39,8 @@ docx:
 
 clean:
 	@echo "==> Deleting auto generated files"
-	@find . -iname '*.css' | xargs rm -v
+	@find . -iname '.sass-cache' | xargs rm -rfv
+	@find . -iname 'print.css' | xargs rm -v
 	@find . -iname '*.pdf' | xargs rm -v
 	@find . -iname '*.docx' | xargs rm -v
 	@find . -iname '*.html' | xargs rm -v
