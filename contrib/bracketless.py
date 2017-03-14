@@ -1,7 +1,6 @@
 import argparse
 import os
 import re
-import sys
 
 # basic settings
 PREFIX = '<sup class="footnote">'
@@ -11,8 +10,7 @@ REGEX = re.compile(r'({}\[)(.+?)(\]{})'.format(PREFIX, SUFFIX))
 
 def remove_footnote_sq_brackets(html_path):
     if not os.path.isfile(html_path):
-        print('  File `{}` not found.'.format(html_path), file=sys.stderr)
-        return False
+        raise RuntimeError(f'  File {html_path} not found.')
 
     with open(html_path, 'r+') as fh:
         contents = fh.read()
