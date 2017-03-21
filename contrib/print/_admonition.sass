@@ -1,0 +1,32 @@
+.admonitionblock 
+  background-color: #efefef
+  padding: 11pt
+  border-radius: 5.5pt
+  margin: 22pt 0
+
+  td.icon 
+    display: none
+
+  table
+    width: 100%
+
+    &:before
+      border-bottom: 1pt solid #000
+      display: block
+      width: 100%
+      font-family: $heading_font_family
+      font-weight: bold
+      margin-bottom: 11pt
+      text-transform: uppercase
+
+  &.caution table:before
+    content: 'Caution'
+
+  &.important table:before
+    content: 'Important'
+
+  &.note table:before
+    content: 'Note'
+
+  &.warning table:before
+    content: 'Warning'
