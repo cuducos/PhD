@@ -25,28 +25,23 @@ Describe their approach to money, that is to say, they differ (even if slightly)
 * Contrast data with theory
 
 == Autonomy
-_~10-12k words (about 60-70% done)_
+_10k words (1st version done)_
 
 Describe the way they define and pursue autonomy, as they dismiss external judgement in general (specially from incumbent institutions) they are not afraid to assume their own subjective judgements about the world and about their own choices; yet, by assuming this subjectivity, they usually dismiss the idea of _changing the world_ as they would like to make room for everybody to be autonomous (specially when it comes to being independent from any incumbent institutions).
 
-== Networks
-_~10-12k words_
+== Politics: the bright side
+_~12k words (pending)_
 
-Discuss the important of community to have “circulating money” and autonomy, that is to say, how they seem to use their social networks to sustain this alternative or marginal lifestyle. Reinforce that people are seem more as assets than competitors.
+* Describe their arguments to distrust the way decisions are made by arguably instrumentalized institutions, and how they believe that bringing people together means bringing power to the people; yet this challenge should not be on the level of discourse (eg. academic/opinion in the media) or confront (eg. anti-G8, occupy), but of concrete and tangible action (that's why they value money and autonomy, and also that's why they challenge incumbent institutions).  
+* Arendt's ideal of the political as a space for action and crowd funding community efforts to distance themselves from labor.
+* Reinforce that even if they are acting in public, building public goods, the public sphere itself still apolitical (no discussion/debate, little and scattered deliberation, and isolation in bubbles)
+* One the one hand it is still impossible to pursue the classical public sphere, but on the other hand something anew is being confirmed in the sense of a chaotic pluralism.
 
-=== TODO
+== Politics: the dark side
+_10k words (pending)_
 
-* Theory is missing:  no literature review done on that topic
-
-== Challenge
-_~10-12k words (pending)_
-
-Describe their arguments to distrust the way decisions are made by arguably instrumentalized institutions, and how they believe that bringing people together means bringing power to the people; yet this challenge should not be on the level of discourse (eg. academic/opinion in the media) or confront (eg. anti-G8, occupy), but of concrete and tangible action (that's why they value money and autonomy, and also that's why they challenge incumbent institutions).  
-
-== Politics
-_~10-12k words (pending)_
-
-Start to trace similarities between this pragmatic approach to action, this critique to corporations and governments to Arendt's concepts of action, work and labour; next discuss how they seem aligned to this differentiation. However reinforce that even if they are acting in public, building public goods, the public sphere itself still apolitical (no discussion/debate, little and scattered deliberation, and isolation in bubbles). One the one hand it is still impossible to pursue the classical public sphere, but on the other hand something anew is being confirmed in the sense of a chaotic pluralism.
+* Discuss Arendt ideal of democracy (and mainly its problems) based on Wolin (1983).
+* Compare Chantal Mouffe and Arendt's ideals of agonist democracy
 
 == Discuss & conclusions
 _~3k words (pending)_
