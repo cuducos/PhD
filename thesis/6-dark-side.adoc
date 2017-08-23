@@ -1,0 +1,21 @@
+
+= Politics within crowd funding communities: the dark side
+Eduardo Gonçalves
+:revremark: Draft of chapter to the thesis to be submitted to the Department of Sociology of the University of Essex for the degree of Doctor of Philosophy.
+:revdate: July 2017
+:numbered:
+:sectanchors:
+:icons: font
+:stylesheet: ../contrib/print.css
+
+
+[.lead]
+The state is a modern phenomenon and its _raison d'être_ was to develop, or better, to capitalize the power of society — the power resident in the human activities, and transactions that sustain life relationships, and its changing needs. The state became a coercive agency, declaring and enforcing law, punishing miscreants of all descriptions, systematizing taxation, encouraging commerce and manufacture in the direction of national economies, conducting diplomacy, waging war, and seeking empire. Its characteristic form of action is the decision which it “makes” with relentless its is the regularity; typical expression announcement of a “policy,” and its mode of governance ranges from inducements to force (Wolin 1983:17).
+
+…
+
+== References
+
+[references]
+* Wolin, S. (1983). Hannah Arendt: Democracy and The Political. _Salmagundi_, 60. Pp. 3-19.
+
