@@ -12,10 +12,31 @@ Eduardo Gonçalves
 [.lead]
 The state is a modern phenomenon and its _raison d'être_ was to develop, or better, to capitalize the power of society — the power resident in the human activities, and transactions that sustain life relationships, and its changing needs. The state became a coercive agency, declaring and enforcing law, punishing miscreants of all descriptions, systematizing taxation, encouraging commerce and manufacture in the direction of national economies, conducting diplomacy, waging war, and seeking empire. Its characteristic form of action is the decision which it “makes” with relentless its is the regularity; typical expression announcement of a “policy,” and its mode of governance ranges from inducements to force (Wolin 1983:17).
 
-…
+## Anti-political and Mouffe
+
+“The concept of rule, as we find it in Plato and as it became authoritative for the tradition of political thought, has two distinct sources in private experience, One is the experience which Plato shared with other Greeks, according // to which rule was primarily rule over slaves and expressed itself in the master-servant relationship of command and obedience. The other was the ‘utopian’ need of the philosopher to become the city’s ruler, that is, to enforce in the city those ‘ideas’ which can be perceived only in solitude” (Arendt 2005:52-53).
+
+“That men do not know what they are doing with respect to others, that they may intend good and achieve evil, and vice versa, and that nevertheless they aspire in action to the same fulfillment of intention that is the sign of mastership in their intercourse with natural, material things, has been the one great topic of tragedy since Greek antiquity. The tradition never lost sight of this tragic element in all action, nor failed to understand, though usually in a nonpolitical context, that forgiving is among the greatest of human virtues. It was only with the sudden and disconcerting onrush of the gigantic technical developments after the industrial revolution that the experience of fabrication achieved such an overwhelming predominance that the uncertainties of action could be forgotten altogether; talk could then begin about “making the future” and “building and improving society” as though one were talking about making chairs and building and improving houses” (Arendt 2005:58).
+
+NOTE: Maybe this could be a possible link between the bright and the dark side, i.e. as politics shifted from 
+
+---
+Adam: filter bubble
+
+Lisandro about people/project he supports:
+
+[quote]
+Mesmo quando não são pessoas que eu conheço pessoalmente, são pessoas ou que você está seguindo no Twitter, são autores que você gosta e você tem uma aproximação por conta de Twitter, de seguir determinadas coisas que eles fazem, e você se sente um pouco muito próximo desse grupo … tem algumas iniciativas de ensaístas de vídeo do YouTube que eu apoio, porque eu assisto os vídeos, poderia pagar US$ 1.00 por mês para apoiar os caras, para mim não é nada. desde que eles continuem produzindo. Então, eu vejo isso como uma troca muito clara. Para mim, eu não sou um cara, assim, eu não vou... Todo mundo aqui já baixou filme de porte, essas coisas todas e tal, mas eu procuro pagar pelo conteúdo. E quando você está num... Você conhece a pessoa, mesmo que seja não fisicamente, mas você conhece a pessoa pela interação que você está tendo com ela via Twitter, ou via pelas redes sociais, isso facilita muito que você esteja apoiando os projetos delas.
+
+## Ignorance
+
+Lisandro and Sam on anti crowd sourcing
+Heather and Potter again
+
 
 == References
 
 [references]
+* Arendt, H. (2005). _The promise of politics_. New York: Schocken.
 * Wolin, S. (1983). Hannah Arendt: Democracy and The Political. _Salmagundi_, 60. Pp. 3-19.
 
