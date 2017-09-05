@@ -1,7 +1,7 @@
 = Crowd fundind and Politics: here comes the subtitle
 Eduardo Gonçalves
 :revremark: Draft of the thesis to be submitted to the Department of Sociology of the University of Essex for the degree of Doctor of Philosophy.
-:revdate: July 2016
+:revdate: September 2017
 :homepage: http://cuducos.me
 :numbered!:
 :toc:
@@ -25,11 +25,17 @@ This paper introduces some of my data and findings, focusing on interviews I con
 :leveloffset: +1
 :numbered:
 
+include::1-introduction.adoc[]
+
 include::2-methodology-and-literature-review.adoc[]
 
 include::3-resignifying-money.adoc[]
 
 include::4-autonomy.adoc[]
+
+include::5-bright-side.adoc[]
+
+include::6-dark-side.adoc[]
 
 :numbered!:
 :leveloffset: -1

@@ -1,7 +1,7 @@
-= Politics within crowd funding communities: the bright side
+= Politics within crowd funding communities: the bright side (provisional title)
 Eduardo Gonçalves
 :revremark: Draft of chapter to the thesis to be submitted to the Department of Sociology of the University of Essex for the degree of Doctor of Philosophy.
-:revdate: July 2017
+:revdate: September 2017
 :numbered:
 :sectanchors:
 :icons: font
