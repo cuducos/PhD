@@ -4,3 +4,4 @@
 :icons: font
 :stylesheet: ../contrib/print.css
 
+NOTE:  _Authority vs. Anything goes_ (Schedler 1997). Politics “must be able to impose internal constrains on its members” (8). Horizontal and positive idea of power (Arendt 1973) vs.  Weberian negative and vertical, based on the use of violence exclusively by the state.  “Antipolitical individualism celebrates unrestricted subjectivity, anti political tribalism unrestricted collectivity (or on a sub communal level). Both versions of anti-authoritarian revolt follow the same anarchical impulse: anything goes” (9).
