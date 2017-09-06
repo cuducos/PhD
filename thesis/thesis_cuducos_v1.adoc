@@ -1,4 +1,4 @@
-= Crowd fundind and Politics: here comes the subtitle
+= Crowd fundind and politics
 Eduardo Gonçalves
 :revremark: Draft of the thesis to be submitted to the Department of Sociology of the University of Essex for the degree of Doctor of Philosophy.
 :revdate: September 2017
@@ -37,13 +37,11 @@ include::5-bright-side.adoc[]
 
 include::6-dark-side.adoc[]
 
+include::7-conclusions-and-discussion.adoc[]
+
+include::8-references.adoc[]
+
 :numbered!:
 :leveloffset: -1
 
-
-== References
-
-[references]
-* …
-
-== Footnotes
+== Notes

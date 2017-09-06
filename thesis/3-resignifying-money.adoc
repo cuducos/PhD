@@ -1,7 +1,4 @@
 = Resignifying money
-Eduardo Gonçalves
-:revremark: Draft of chapter to the thesis to be submitted to the Department of Sociology of the University of Essex for the degree of Doctor of Philosophy.
-:revdate: June 2016
 :numbered:
 :sectanchors:
 :icons: font
@@ -10,7 +7,7 @@ Eduardo Gonçalves
 [.lead]
 To begin to free ourselves, the first things we need to do is to see ourselves again as historical actors, as people who can make a difference in the course of world events (Graeber, 2011:383).
 
-Crowd funding usually finds in Kickstarter its most emblematic example: “millions of dollars pledged, tens of thousands of successfully produced projects, Oscar and Grammy wins, trips to outer space, and beyond” (Kickstarter 2015). Kickstarter if often taken as the example to discuss what crowd funding is about and about what crowd funding is capable of. And surely that with all this buzz there are also critiques. Discussing if people can (or should) trust in such platforms is a common issue in the media. In an article to Fast Company, Ian Bogost (2012) highlighted that what Kickstarter considers as a successful project can be a misleading notion: “‘success’ in this case refers to reaching their funding goals, not completing the proposed work or thriving in the marketplace.” In fact 9% of the projects that succeeded in Kickstarter fails to deliver the rewards they were suppose to deliver (Kickstarter 2015). This means that many times people are charged for their pledges but end up without the reward they probably were expecting. And even though 73% of these users affirm they would back another project when time comes (Kickstarter 2015).
+Crowd funding usually finds in Kickstarter its most emblematic example: “millions of dollars pledged, tens of thousands of successfully produced projects, Oscar and Grammy wins, trips to outer space, and beyond” (Kickstarter 2015b). Kickstarter if often taken as the example to discuss what crowd funding is about and about what crowd funding is capable of. And surely that with all this buzz there are also critiques. Discussing if people can (or should) trust in such platforms is a common issue in the media. In an article to Fast Company, Ian Bogost (2012) highlighted that what Kickstarter considers as a successful project can be a misleading notion: “‘success’ in this case refers to reaching their funding goals, not completing the proposed work or thriving in the marketplace.” In fact 9% of the projects that succeeded in Kickstarter fails to deliver the rewards they were suppose to deliver (Kickstarter 2015b). This means that many times people are charged for their pledges but end up without the reward they probably were expecting. And even though 73% of these users affirm they would back another project when time comes (Kickstarter 2015b).
 
 Taking crowd fundings merely as an exchange of money and rewards is an strategy that would blind the reader to the sociological aspects surrounding this trade. This chapter starts to articulate the sociological analysis of the interviews by discussing the way they approach money in their everyday life, the role money plays in this series of exchanges that are meaningful parts of their daily routines. Comprehending the nuances of their own standpoint regarding their engagement in crowd funding is the first step to understand their world views. 
 
@@ -189,25 +186,3 @@ The only thing that's clear is that new ideas won't emerge without the jettisoni
 Crowd funding communities seems to be in the stream of this argument. By resignifying money in their everyday live they contribute to a new world view that corroborates the false opposition between market and state. Ironically this is achieved through one pillar of the neoliberal capitalism and another one from the democratic nations: the idea of the middlemen and the idea that the state should look after minorities. Those paradoxes are not denied, but the strategy they adopt is clearly pushing them in the direction of the positive interpretation of what they could represent. In other words, they fine tune their strategy to focus on politics, and they distance themselves from the matters of business or management. And in fact there is some consistency in that claim: the next chapter explores how this resignified and flowing money empowers autonomy, an important aspect to _action_ (as in Arendt 1998).
 
 NOTE: Maybe link this discussion: “Those who back these organizations financially focus on investment, not charity. They are results oriented and bring business thinking to social value creation” (2008:16). This dichotomy in which it is only possible to think about money as charity or as financial capital: either way money is not building any kind of social tie, it is an impersonal exchange as Smith’s imagined barter. Following Graeber it is possible to say that maybe crowdfunding communities look to escape this dichotomy using money to represent another kind of social relationship: a relation of support that is not charity (the supporter usually expect something in return, that is to say, to see the project happen), but is not an financial investment (it does not fall in the trap of seeing money as a way to make more money). Of course there is value being created, but there is also social ties. — Elkington, J. & Hartigan, P. (2008). _The Power of Unreasonable People. How Social Entrepreneurs Create Markets that Change the World_. Harvard Business Press: Boston.
-
-== References
-
-[references]
-* Arendt, H. (1998[1958]). _The Human Condition_. 2 ed. Chicago and London: University of Chicago Press.
-* Bogost, I. (2012). Kickstarter: Crowdfunding Platform Or Reality Show?, Fast Company. Available at: http://www.fastcompany.com/1843007/kickstarter-crowdfunding-platform-or-reality-show [Accessed: 23 Jun. 2015].
-* Bogost, I. (2015). The Internet of Things You Don’t Really Need, _The Atlantic_. Available at: http://www.theatlantic.com/technology/archive/2015/06/the-internet-of-things-you-dont-really-need/396485/ [Accessed: 23 Jun. 2015].
-* Catarse (2013). Nossa taxa de serviço – Parte 1: de onde vem e pra onde vai o dinheiro do Catarse. _Catarse_. Available at http://blog.catarse.me/nossa-taxa-de-servico-parte-1-de-onde-vem-e-pra-onde-vai-o-dinheiro-do-catarse/ [Accessed 8 Feb. 2014].
-* DenBleyker, R. _Explosm_. Available at: http://explosm.net/comics/3869 [Accessed in 18 Mar. 2015].
-* Dodd, N. (2014). _The Social Life of Money_. Princeton and Oxford: Princeton University Press.
-* Graeber, D. (2011). _Debt: The First 5,000 Years_. New York: Melville House.
-* Hirschman, A. (1977). _The Passions and the Interests. Political Arguments for Capitalism before Its Triumph_. Princeton: Princeton University Press.
-* Hoffmann, S. & Feddersen, O. (2013). Karma Chakhs 2. _Startnext_. Available at: https://www.startnext.com/karma-chakhs2 [Accessed: 15 May 2016].
-* Kickstarter (2015). The Kickstarter Fulfillment Report, Kickstarter. Available at: https://www.kickstarter.com/fulfillment [Accessed: 2 Jan. 2016].
-* Le-Mentzel, V. B. (2012). Karma Chakhs. _Startnext_. Available at: https://www.startnext.com/en/karma-chakhs [Accessed: 15 May 2016].
-* Patreon (2016). Patreon: About. _Patreon_. Available at: https://www.patreon.com/about [Accessed: 22 May 2016].
-* Pramuk, J. (2015) Student Debt Crushes Innovation: College President. In CNBC. Available at http://cnbc.com/id/102377355. Accessed 28 Jan. 2015.
-* Simmel, G. (1978[1900]). _The Philosophy of Money_. London and New York: Routledge.
-* Wang, N. (1999) Transaction Costs and the Structure of the Market, _American Journal of Economics and Sociology_, 58(4). Pp. 784-805.
-* Weber, M. (1976[1900]). _The Protestant Ethic and the Spirit of Capitalism_. London and New York: Routledge.
-* Zelizer, V. (1994). _The Social Meaning of Money_. New York: BasicBooks.
-* Zelizer, V. (2007). Pasts and Futures of Economic Sociology, _American Behavioral Scientist_, 50. Pp. 1056-69.

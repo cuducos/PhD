@@ -1,7 +1,4 @@
 = Politics within crowd funding communities: the bright side (provisional title)
-Eduardo Gonçalves
-:revremark: Draft of chapter to the thesis to be submitted to the Department of Sociology of the University of Essex for the degree of Doctor of Philosophy.
-:revdate: September 2017
 :numbered:
 :sectanchors:
 :icons: font
@@ -195,31 +192,3 @@ The title of this chapter was already a disclaimer for the reader: if there were
 Yet the title of this chapter also announces a certain optimism that the reader might align with an utopian view of the internet and, generally speaking, of technology as a whole. First I must clarify that this optimism is sound and clear in most of my interviews – even people that see crowd funding as a kind of intermediary step to a uncertain future believe that by now crowd funding is powerful in putting forward ideas that would probably be left aside by mainstream economic and political thought.
 
 In sum my interviewees are pretty excited about becoming protagonists through crowd funding. For instance Lisandro even joked that if until the 1990s people would struggle for their “15 minutes of fame” nowadays people will de “famous dos 15 people” instead. In spite of that surely there are also critiques and boundaries on crowd funding pointed out by my interviewees. Next chapter departs from them to debate possible downsides of this sort of politics put forward by crowd funding communities. 
-
-== References
-
-[references]
-* Arendt, H. (1973[1963]). _On Revolution_. Bungay: Penguin.
-* Arendt, H. (1985[1951]). _The origins of Totalitarianism_. San Diego, New York and London: Harcourt Brace.
-* Arendt, H. (1998[1958]). _The Human Condition_. 2 ed. Chicago and London: University of Chicago Press.
-* Arendt, H. (2005). _The Promise of Politics_. New York: Schocken.
-* Berlin, Isaiah (1999[1958]). Two Concepts of Liberty. In Warburton, N. (ed.) _Arguments for Freedom_. Milton Keynes: Open University. Pp. 155-165.
-* Boltanski, L. and Chiapello, È. (2005). _The New Spirit of Capitalism_. London and New York: Verso.
-* Caillé, A. (2009). Anti-utilitarisme et sociologie économique. In Steiner, P. and Vatin, F. (2009). _Traité de Sociologie Économique. Paris: PUF. Pp. 89-130.
-* CrowdCube (2015). Get @CaterhamF1 to Abu Dhabi. _CrowdCube_. Available at: https://www.crowdcube.com/caterham/ [Accessed 13 Jul. 2015]. 
-* Fine, J. (1983). _The Ancient Greeks: A Critical History_. Cambridge and London: Belknap.
-* Gazeta do Povo (2014). A vaquinha dos mensaleiros, _Gazeta do Povo_, 23 Feb. 2014. Available at: http://www.gazetadopovo.com.br/opiniao/editoriais/a-vaquinha-dos-mensaleiros-ewkabsho4l4m5rtof2m3u1t1q [Accessed: 24 Feb. 2014].
-* Giddens, A. (1991). _Modernity and Self-Identity: Self and Society in the Late Modern Age_. Cambridge: Polity.
-* Heath, J. and Potter, A. (2005). _The Rebel Sell: Why the Culture Can't Be Jammed_. Chichester: Wiley.
- 3.2 out of 5 stars
-* Sennett, R (2006). _The Culture of the New Capitalism_. New Haven, CT.: Yale University Press.
-* Micheletti, M. (2003). _Political Virtue and Shopping: Individuals, Consumerism, and Collective Action_. New York and Basingstoke: Palgrave Macmillan.
-Political virtue and shopping: individuals, consumerism, and collective action/by Michele Micheletti.
-* Mouffe, C. (2005). _On the Political_. London and New York: Routledge.
-* NBC Sports (2013). What’s it cost to compete in Formula One? An IndyCar comparison, _NBC Sports_. Available at: http://motorsports.nbcsports.com/2013/05/22/whats-it-cost-to-compete-in-formula-one-an-indycar-comparison/ [Accessed 21 Mar. 2015].
-* Palmås, K. (2006). After Counterculture. In von Busch, O. and Palmås, K. (ed.). _Abstract Hacktivism: The Making of a Hacker Culture_. London and Istanbul: OpenMute Press. Pp. 62-103.
-* Sniderman, P. M. and Bullock, J. (2004). A Consistency Theory of Public Opinion and Political Choice: The Hypothesis of Men Dependence. In Saris, W. E. and Sniderman, P. M. (eds.). _Studies in Public Opinion: Attitudes, Nonattitudes, Measurement Error, and Change_. Princeton and Oxford: Princeton University Press. Pp. 337-357.
-* Shafqat, W., Lee, S., Malik, S. and Kim, H.-C. (2016). The Language of Deceivers, 25th International World Wide Web Conference, Montreal, Canada. [Conference Proceedings]. Available at: http://dx.doi.org/10.1145/2872518.2889356 [Accessed 25 Jul. 2017]. Pp. 99-100.
-* Wellmer, A. (2000). Arendt on Revolution. In Villa, D. (ed.) _The Cambridge Companion to Hannah Arendt_. Cambridge: Cambridge University Press. Pp. 220-241.
-* Wolin, S. (1983). Hannah Arendt: Democracy and The Political. _Salmagundi_, 60. Pp. 3-19.
-* Wolin, S. (2004). _Politics and Vision: Continuity and Innovation in Western Political Thought_. Princeton and Oxford: Princeton University Press.

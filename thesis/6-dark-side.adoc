@@ -1,7 +1,4 @@
 = Politics within crowd funding communities: the dark side (provisional title)
-Eduardo Gonçalves
-:revremark: Draft of chapter to the thesis to be submitted to the Department of Sociology of the University of Essex for the degree of Doctor of Philosophy.
-:revdate: September 2017
 :numbered:
 :sectanchors:
 :icons: font
@@ -49,12 +46,3 @@ Heather and Potter again
 [quote]
 Social scientists, in writing about ignorance, must better acknowledge their own ignorance of the unarticulated or simply unconscious rationales of the individuals they suggest may be deliberately harnessing ignorance (McGoey 2012:11).
 
-
-== References
-
-[references]
-* Arendt, H. (2005). _The promise of politics_. New York: Schocken.
-* McGoey, L. (2012). Strategic Unknowns: Towards a Sociology of Ignorance, _Economy and Society_ 41(1). Pp. 1-16.
-* Mouffe, C. (2005). _On the Political_. London and New York: Routledge.
-* Schedler, A. (1997). Introduction: Antipolitics — Closing and colonizing the public sphere. In Schedler, A. (ed.) _The end of Politics? Explorations into Modern Antipolitics_. New York: Macmillan. Pp. 1-20.
-* Wolin, S. (1983). Hannah Arendt: Democracy and The Political. _Salmagundi_, 60. Pp. 3-19.

@@ -1,7 +1,4 @@
 = Methodology and Literature Review
-Eduardo Gonçalves
-:revremark: Draft of chapter to the thesis to be submitted to the Department of Sociology of the University of Essex for the degree of Doctor of Philosophy.
-:revdate: August 2015
 :numbered:
 :sectanchors:
 :icons: font
@@ -46,7 +43,7 @@ There are a vast number of crowd funding platforms. Although Wikipedia (2015) li
 
 First, the interviews were held with three different profiles: platforms founders and staff, people submitting projects to these platforms (project creators), and people backing these projects (project supporters). For each founder or staff interviewed, the idea was to interview two project creators and three project supporters -- therefore, targeting the point of views from different roles within the crowd funding community. Surely these numbers are rough guidelines, not clearcut objectives, specially because every founder is also a project supporter (and, most of the times, a project creator), and yet most project creators usually have backed some project before. But having in mind these three profiles allowed the analysis to move from an arguably idealistic point of view of founders (whether it is business or common good based, just to mention two opposing examples), to more pragmatic standpoints for project supporters.
 
-Second, there are three main characteristics of crowd funding platforms taken into account. This characteristics are related to how platforms design the business model for the projects they host, to the way the they deal with their own intellectual property, and to the curatorial layer defined by their terms of service. Details about four platforms are helpful in clarifying and illustrating these characteristics, they are Indiegogo, the first crowd funding platform, and one of the most widely known; Kickstarter, the so called largest crowd funding platform in the world;footnote:[The “largest” is read over the news without an objective measure or comparison with other platforms (e.g. Canadian Press, 2013). Anyhow Kickstarter’s numbers are eye-catching: more than 1.75 billion dollars pledged, more than 86 thousand projects funded, more than 8.75 million backers, i.e. people who supported at least one project (Kickstarter 2015).] Catarse, the first one launched open source; and Patreon, the first one to offer what is called a recurring funding scheme.footnote:[In terms of the kind of projects hosted by these platforms, all of them are very open. Even if they were created with some kind of public or projects in mind (for example, Indiegogo and Kickstarter primarily focus was on creative projects, while Patreon and Catarse focuses are on artistic and cultural projects), they are open enough to host projects that vary considerably: from movies and music, to software and hardware technology development, including sports, civic actions, political organization, and education. Hence the three characteristics taken into account are more internal to the organization of the platforms than to the contents visible online for the ordinary user.]
+Second, there are three main characteristics of crowd funding platforms taken into account. This characteristics are related to how platforms design the business model for the projects they host, to the way the they deal with their own intellectual property, and to the curatorial layer defined by their terms of service. Details about four platforms are helpful in clarifying and illustrating these characteristics, they are Indiegogo, the first crowd funding platform, and one of the most widely known; Kickstarter, the so called largest crowd funding platform in the world;footnote:[The “largest” is read over the news without an objective measure or comparison with other platforms (e.g. Canadian Press, 2013). Anyhow Kickstarter’s numbers are eye-catching: more than 1.75 billion dollars pledged, more than 86 thousand projects funded, more than 8.75 million backers, i.e. people who supported at least one project (Kickstarter 2015a).] Catarse, the first one launched open source; and Patreon, the first one to offer what is called a recurring funding scheme.footnote:[In terms of the kind of projects hosted by these platforms, all of them are very open. Even if they were created with some kind of public or projects in mind (for example, Indiegogo and Kickstarter primarily focus was on creative projects, while Patreon and Catarse focuses are on artistic and cultural projects), they are open enough to host projects that vary considerably: from movies and music, to software and hardware technology development, including sports, civic actions, political organization, and education. Hence the three characteristics taken into account are more internal to the organization of the platforms than to the contents visible online for the ordinary user.]
 
 When it comes to their business models, the basic difference between Indiegogo, Kickstarter and Catarse is that the first one charges a higher fee (a percentage over the total value pledged), but the project creator can collect the money pledged even if the target is not reached — this model is known as ‘keep-it-all.’ On the other hand, the other two charge a smaller fee (also a percentage over the total value pledged), but if the project target is not reached, all the money returns to the backers and no fees are collected (nor any funds is passed to the project creator) — this model is known as ‘all-or-nothing.’ crowd funding campaigns under this model arguably engage not only the project creator, but also its supporters, whose role of spreading the word about the campaign is crucial to make the funds be collected. Finally, Patreon inaugurated the idea of a ‘recurring’ contribution: instead of backing a specific project, usually with a higher amount (for example, 20 dollars for the recording of a music album), the idea is to contribute with smaller amounts to an ongoing project (for example, 1 dollar per month for a certain musician, or 1 dollar each time this musician uploads a new song). If the ‘all-or-nothing’ scheme is said to foster engagement, this engagement tends to fade away once the project is finished (in the example, when the recorded album is delivered). Alternatively, the ‘recurrent’ method would extend the engagement between project creators and its supporters for an undefined period of time, but arguably it would be a less intense engagement as it lacks a specific deadline and target.
 
@@ -202,52 +199,3 @@ However political theory also suggests a dark possibility. For instance Weber’
 Weber passed away in 1920 and between his and Arendt’s oeuvre Germany testified the emergence of the National Socialist dictatorship. A leader in fact was granted these powers in 1934 by almost 90% of the voters. A leader that would merge the role of president and chancellor, dissolve the parliament and opposing parties and interrupt all efforts to revive democracy in Germany after the Great War. Ironically a leader whose terror is one of the most important inspirations for Arendt’s first writings on politics and philosophy. In sum, politics based on individual impulses, even if controlled by formal institutions, can destroy democracy and politics.
 
 This sort of theoretical questions are the background of this research: the more practical predisposition of people engaged with crowd funding, as well as their justifications in terms of world views, are at the foreground of this research; at the same time the background is set by these overarching dilemmas of political theory, such as freedom, political action and what constitutes a democratic and active public sphere.
-
-== References
-
-[references]
-* Allen-Robertson, J. (2013). _Digital Culture Industry: A History of Digital Distribution_. Basingstoke and New York: Palgrave Macmilllan.
-* Arendt, H. (1968). _Between Past and Future_. New York: Penguin. 
-* Arendt, H. (1973[1963]). _On Revolution_. Bungay: Penguin. 
-* Arendt, H. (1998[1958]). _The Human Condition_. 2 ed. Chicago and London: University of Chicago Press.
-* Beer, D. and Burrows, R. (2007). Sociology And, Of and In Web 2.0: Some Initial Considerations. _Sociological Research Online_, 12(5).
-* Bellah, R., Madsen, R., Sullivan, W. M., Swidler, A. andTipton, S. M. (2008[1985]). _Habits of the Heat: Individualism and Commitment in American Life_. Berkeley: University of California Press.
-* Bennett, E. A., Cordner, A., Klein, P. T. and Baiocchi, G. (2013). Disavowing Politics: Civic Engagement in an Era of Political Skepticism. _American Journal of Sociology_, 119(2). Pp. 518-548.
-* Blaikie, N. (2010). _Designing Social Research: The Logic of Anticipation_. 2nd ed. Cambridge: Polity Press.
-* Blumer, H. (1939). Collective Behavior. In Park, R. E. (ed.). _An Outline of the Principles of Sociology_. New York: Barnes & Noble. Pp. 219-80.
-* Boltanski, L. and Chiapello, E. (2011[1999]). _Le Nouvel Esprit du Capitalisme_. Paris: Gallimard.
-* Canadian Press, The (2013). Kickstarter crowd funding Site Officially Launches in Canada: Canadian Entry Held Up by Red Tape, Financial Regulations, Co-Founder Says. Available at: http://www.cbc.ca/news/business/kickstarter-crowd funding-site-officially-launches-in-canada-1.1703774 [Accessed: 20 Jan. 2014].
-* Catarse (2015a). Catarse. Available at: http://github.com/catarse/catarse [Accessed: 17 May 2015].
-* Catarse (2015b). Sites Using Catarse. Available at: http://github.com/catarse/catarse/wiki/Sites-using-Catarse [Accessed: 17 May 2015].
-* Coleman, E. G. (2013). _Coding Freedom: The Ethics and Aesthetics of Hacking_ [digital book]. Princeton: Princeton University Press.
-* Collins, R. (1986). _Weberian Sociological Theory_. Cambridge: Cambridge University Press.
-* Dewey, J. (1954[1927]). _The Public and its Problems_. Athens: Swallow Press.
-* Dodd, N (2014). _The Social Life of Money. Princeton: Princeton University Press.
-* Graeber, D. (2011). _Debt: The First 5,000 Years_. New York: Melville House.
-* Habermas, J. (1992[1985]). _The Theory of Communicative Action: Reason and the Rationalization of Society, Vol. I_. Boston: Beacon.
-* Habermas, J. (2005[1985]). _The Theory of Communicative Action: Lifeworld and System — A Critique of Functionalist Reason, Vol. II_. Boston: Beacon.
-* Hutchby, I. (2001). Technologies, Texts and Affordances. _Sociology_, 35. Pp. 441-56.
-* Indiegogo (2012). International Campaigns. Available at: http://support.indiegogo.com/entries/20882543-international-campaigns [Accessed: 20 Jan. 2014].
-* Jaffe, E. (1997). Our Own Invisible Hand: Antipolitics as an American Given. In Schedler, A. (ed.) _The end of Politics? Explorations into modern antipolitics_. New York: Macmillan. Pp. 57-90.
-* Kvale, S. and Brinkmann, S. (2009). _Interviews. Learning the Craft of Qualitative Research Interviewing_. London: Sage.
-* Kickstarter (2015). Kickstarter Stats. Available at: https://www.kickstarter.com/help/stats [Accessed: 30 May. 2015].
-* Margetts, H., John, P., Hale, S. and Reissfelder, S. (2013). Leadership without Leaders? Starters and Followers in Online Collective Action. _Political Studies_, 63(2). Pp. 278-99.
-* Mouffe, C. (2005). _On the Political_. London and New York: Routledge.
-* Purewal, S. (2011). Kickstarter Faces Patent Suit Over Funding Idea. _PCWorld_. Available at: http://www.pcworld.com/article/241160/kickstarter_faces_patent_suit_over_funding_idea.html [Accessed: 20 Jan. 2014].
-* Ragin, C. (1994). _Constructing Social Research: The Unity and Diversity of Method_. Thousands Oaks, London and New Delhi: Pine Forge Press.
-* Ritzer, G. (2015). The “New” World of Prosumption: Evolution, “Return of the Same,” or Revolution? _Sociological Forum_, 30(1). Pp. 1-17.
-* Ritzer, G. (2014). Prosumption: Evolution, Revolution, or Eternal Return of the Same? _Journal of Consumer Culture_, 14(1). Pp. 3-24.
-* Ritzer, G. and N. Jurgenson (2010). Production, Consumption, Prosumption: The Nature of Capitalism in the Age of the Digital ‘Prosumer.’ _Journal of Consumer Culture_, 10(1). Pp 13-36.
-* Schedler, A. (1997). Introduction: Antipolitics — Closing and colonizing the public sphere. In Schedler, A. (ed.) _The end of Politics? Explorations into modern antipolitics_. New York: Macmillan. Pp. 1-20.
-* Sennett, R. (1980). _Authority_. New York: Alfred A, Knopf.
-* Sniderman, P. M. and Bullock, J. (2004). A Consistency Theory of Public Opinion and Political Choice: The Hypothesis of Men Dependence. In Saris, W. E. and Sniderman, P. M. (eds.). _Studies in Public Opinion: Attitudes, Nonattitudes, Measurement Error, and Change_. Princeton and Oxford: Princeton University Press. Pp. 337-357.
-* Tarde, G. (1989[1901])._L'opinion et la Foule_. Paris: Presses Universitaires de France.
-* Taylor, S. and Land, C. (2014). The Good Old Days Yet to Come: Postalgic times for the new spirit of capitalism. _Management & Organizational History_, 9(2). Pp 202-219.
-* Tocqueville, A. (1961[1840]). _De la démocratie en Amérique, II_. Paris: Gallimard.
-* Tocqueville, A. (1986[1835]). _De la démocratie en Amérique, I_. Paris: Gallimard.
-* Toffler, A. (1980). _The Third Wave_. New York: Morrow.
-* Weber, M. (1976[1900] ). _The Protestant Ethic and the Spirit of Capitalism_. London and New York: Routledge.
-* Weber, M. (1986[1919]). The Reich President. _Social Research_, 53(1). Pp. 125-132.
-* Wellmer, A. (2000). Arendt on revolution. In Villa, D. _The Cambridge Companion to Hannah Arendt_. Cambridge: Cambridge University Press. Pp. 220-241.
-* Wikipedia (2015). Comparison of crowd funding Services. Available at: http://en.wikipedia.org/wiki/Comparison_of_crowdfunding_services [Accessed: 17 May 2015].
-* Wolin, S. (2004). _Politics and Vision: Continuity and Innovation inWestern Political Thought_. Princeton and Oxford: Princeton University Press.

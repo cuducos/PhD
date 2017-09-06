@@ -1,6 +1,4 @@
 = Thesis outline
-Eduardo Cuducos
-:homepage: http://cuducos.me
 :numbered:
 :sectanchors:
 :icons: font

@@ -1,7 +1,4 @@
 = Introduction
-Eduardo Gonçalves
-:revremark: Draft of chapter to the thesis to be submitted to the Department of Sociology of the University of Essex for the degree of Doctor of Philosophy.
-:revdate: September 2017
 :numbered:
 :sectanchors:
 :icons: font

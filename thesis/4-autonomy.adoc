@@ -1,7 +1,4 @@
 = Autonomy
-Eduardo Gonçalves
-:revremark: Draft of chapter to the thesis to be submitted to the Department of Sociology of the University of Essex for the degree of Doctor of Philosophy.
-:revdate: March 2017
 :numbered:
 :sectanchors:
 :icons: font
@@ -218,17 +215,3 @@ Therefore in spite of all the political significance of the attitudes and life s
 The term “antipolitics”, however, should not be misconstructed as a synonym for mere opposition to particular regimes or confused with electoral opposition that arises in the normal course of contemporary democratic or quasidemocratic practices, as Andreas Schedler points out […]footnote:[Jaffe (1997) is refering to Schedler (1997) in this quote.] Antipolitics is present when politics itself is regarded with cynicism but also seen as a contaminant of society, indeed the enemy of all other societal activity. When antipolitics flourishes, politics itself becomes the central target of opposition and is perceived in extremis as unnecessary, the potential destroyer of all that is praiseworthy in human affairs. Antipolitics in this sense inverts Hobbes's analysis: whereas he argue that politics is the precondition for civil and humane conduct, the antipolitical actor or theoretician maintains that politics is a threat to morality, enterprise and all authentically human values (Jaffe 1997:62).
 
 The next chapter will go further in the way networks are not a merely side effect of their will for autonomy, but actually a structural requirement for their social existence. From that it renders unlikely that this networks assembled by similitude of ideas is actually a core political component in the analysis of crowd funding as a possibility of politics, inviting the discussion for the following chapter, a discussion that recapitulate this discussion about the antipolitical aspect of this community and frames it in a more analytical context of political theory — and not a mostly descriptive way as this brief chapter conclusion did.
-
-== References
-
-[references]
-* Arendt, H. (1973[1963]). _On Revolution_. Bungay: Penguin.
-* Arendt, H. (1998[1958]). _The Human Condition_. 2 ed. Chicago and London: University of Chicago Press.
-* Berlin, Isaiah (1999[1958]). Two Concepts of Liberty. In Warburton, N. (ed.) _Arguments for Freedom_. Milton Keynes: Open University. Pp. 155-165.
-* Bourdieu, P. and Passeron, J.-C. (1970). _La Reproduction. Éléments pour une Théorie du Système d'Enseignement_. Paris. Minuit.
-* Forbes (2016). Global 500: Petrobras, _Forbes_. Available at: http://beta.fortune.com/global500/petrobras-58. Accessed 7 Mar. 2017.
-* Jaffe, E. (1997). Our Own Invisible Hand: Antipolitics as an American Given. In Schedler, A. (ed.) _The end of Politics? Explorations into modern antipolitics_. New York: Macmillan. Pp. 57-90.
-* Marx, K. (2007[1961]). _Economic and Philosophic Manuscripts of 1844_. Mineola: Dover.
-* OECD (2013). ,OECD Factbook 2013: Economic, Environmental and Social Statistics_, OECD Publishing, Paris.
-* Schedler, A. (1997). Introduction: Antipolitics — Closing and colonizing the public sphere. In Schedler, A. (ed.) _The end of Politics? Explorations into Modern Antipolitics_. New York: Macmillan. Pp. 1-20.
-* Wolin, S. (2004). _Politics and Vision: Continuity and Innovation in Western Political Thought_. Princeton and Oxford: Princeton University Press.
