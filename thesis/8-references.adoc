@@ -42,7 +42,11 @@
 * Hirschman, A. (1977). _The Passions and the Interests. Political Arguments for Capitalism before Its Triumph_. Princeton: Princeton University Press.
 * Hoffmann, S. & Feddersen, O. (2013). Karma Chakhs 2. _Startnext_. Available at: https://www.startnext.com/karma-chakhs2 [Accessed: 15 May 2016].
 * Hutchby, I. (2001). Technologies, Texts and Affordances. _Sociology_, 35. Pp. 441-56.
+* Independent (2017). Charlottesville: Crowdfunding sites refuse to host campaigns raising money for neo-Nazi murder suspect. Available at: http://www.independent.co.uk/news/world/americas/charlottesville-latest-james-alex-field-crowdfunding-white-nationalists-kkk-neo-nazis-gofundme-a7893891.html [Accessed: 15 Aug. 2017].
 * Indiegogo (2012). International Campaigns. Available at: http://support.indiegogo.com/entries/20882543-international-campaigns [Accessed: 20 Jan. 2014].
+* Indiegogo (2014). Let's Build a Goddamn Tesla Museum. Available at: http://http://indiegogo.com/teslamuseum [Accessed: 17 Jun. 2014].
+* Indiegogo (2016). The Third Dimension: #BlackLivesMatter. Available at: https://www.indiegogo.com/projects/the-third-dimension-blacklivesmatter-freedom [Accessed: 13 Jan. 2017].
+* ICT (2017) ICT Facts and Figures 2017. Available at: http://www.itu.int/en/mediacentre/Pages/2017-PR37.aspx [Accessed 14 Out. 2017].
 * Jaffe, E. (1997). Our Own Invisible Hand: Antipolitics as an American Given. In Schedler, A. (ed.) _The end of Politics? Explorations into modern antipolitics_. New York: Macmillan. Pp. 57-90.
 * Kickstarter (2015a). Kickstarter Stats. Available at: https://www.kickstarter.com/help/stats [Accessed: 30 May. 2015].
 * Kickstarter (2015b). The Kickstarter Fulfillment Report, Kickstarter. Available at: https://www.kickstarter.com/fulfillment [Accessed: 2 Jan. 2016].
@@ -55,10 +59,11 @@
 * Mitleton-Kelly E. (2003). ‘en Principles of Complexity & Enabling Infrastructures. In _Complex Systems and Evolutionary Perspectives on Organisations: The Application of Complexity Theory to Organisations_. Bingley: Elsevier. Pp. 23-50.
 * Mouffe, C. (2005). _On the Political_. London and New York: Routledge.
 * NBC Sports (2013). What’s it cost to compete in Formula One? An IndyCar comparison, _NBC Sports_. Available at: http://motorsports.nbcsports.com/2013/05/22/whats-it-cost-to-compete-in-formula-one-an-indycar-comparison/ [Accessed 21 Mar. 2015].
-* OECD (2013). ,OECD Factbook 2013: Economic, Environmental and Social Statistics_, OECD Publishing, Paris.
+* OECD (2013). OECD Factbook 2013: Economic, Environmental and Social Statistics_, OECD Publishing, Paris.
 * Palmås, K. (2006). After Counterculture. In von Busch, O. and Palmås, K. (ed.). _Abstract Hacktivism: The Making of a Hacker Culture_. London and Istanbul: OpenMute Press. Pp. 62-103.
 * Pariser, E. (2012). _The Filter Bubble: How the New Personalized Web Is Changing What We Read and How We Think_. New York: Penguin.
 * Patreon (2016). Patreon: About. _Patreon_. Available at: https://www.patreon.com/about [Accessed: 22 May 2016].
+* Pew Research Center (2016). Online Shopping and E-Commerce. Available at: http://www.pewinternet.org/2016/12/19/online-shopping-and-e-commerce/ [Accessed: 22 Feb. 2017].
 * Pramuk, J. (2015) Student Debt Crushes Innovation: College President. In CNBC. Available at http://cnbc.com/id/102377355. Accessed 28 Jan. 2015.
 * Purewal, S. (2011). Kickstarter Faces Patent Suit Over Funding Idea. _PCWorld_. Available at: http://www.pcworld.com/article/241160/kickstarter_faces_patent_suit_over_funding_idea.html [Accessed: 20 Jan. 2014].
 * Ragin, C. (1994). _Constructing Social Research: The Unity and Diversity of Method_. Thousands Oaks, London and New Delhi: Pine Forge Press.
@@ -71,6 +76,7 @@
 * Shafqat, W., Lee, S., Malik, S. and Kim, H.-C. (2016). The Language of Deceivers, 25th International World Wide Web Conference, Montreal, Canada. [Conference Proceedings]. Available at: http://dx.doi.org/10.1145/2872518.2889356 [Accessed 25 Jul. 2017]. Pp. 99-100.
 * Simmel, G. (1978[1900]). _The Philosophy of Money_. London and New York: Routledge.
 * Sniderman, P. M. and Bullock, J. (2004). A Consistency Theory of Public Opinion and Political Choice: The Hypothesis of Men Dependence. In Saris, W. E. and Sniderman, P. M. (eds.). _Studies in Public Opinion: Attitudes, Nonattitudes, Measurement Error, and Change_. Princeton and Oxford: Princeton University Press. Pp. 337-357.
+* Swartz, D. (1997). _Culture & Power: The Sociology of Pierre Bourdieu_. Chicago: The University of Chicago Press.
 * Tarde, G. (1989[1901])._L'opinion et la Foule_. Paris: Presses Universitaires de France.
 * Taylor, S. and Land, C. (2014). The Good Old Days Yet to Come: Postalgic times for the new spirit of capitalism. _Management & Organizational History_, 9(2). Pp 202-219.
 * Tocqueville, A. (1961[1840]). _De la démocratie en Amérique, II_. Paris: Gallimard.
