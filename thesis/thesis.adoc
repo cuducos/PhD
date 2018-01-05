@@ -14,6 +14,8 @@ Eduardo Gonçalves
 
 This ongoing PhD research consists of a social and political analysis of the crowd funding phenomenon. Platforms such as Kickstarter or Indiegogo make initiatives tangible through actions of ordinary people, dismissing institutional support from government or corporations. Through a social and political analysis of these online gatherings, my ongoing PhD research calls into question the spaces where people pursue public and private interests.
 
+NOTE: [JAR] Be more specific in this paragraph.
+
 The relationship between public and private spheres of action has been long debated in the literature. Arendt criticized the role of modern state as a guardian of individual freedom, highlighting that real possibilities of political action are still restricted to political elites. Simultaneously private interests of corporations have compromised the political sphere, argued Wolin and Schedler. According to them states take decisions within the private realm, diminishing the spaces for public interests. Finally Bellah argued that this scenario and its emphasis in the private interests favored individualism. Yet, he adds, people are not comfortable with it: the lack of social ties makes them eager for connections.
 
 This paper introduces some of my data and findings, focusing on interviews I conducted with people engaged with crowd funding in Brazil, the UK and the USA. I start from the point that if the institutional conjuncture seems to seize the public sphere from people, citizens might be fighting back recreating the public realm within this purportedly private space. Instead of traditional political organizations (such as parties or social movements) crowd funding benefits from practical disruptions emerged from new technologies. Yet at the same time crowd funding might grasp what post-representativeness could be or what a post-political pragmatic approach could look like. The discussion considers political possibilities and limitations of this new setting for private and public spaces.
@@ -21,6 +23,9 @@ This paper introduces some of my data and findings, focusing on interviews I con
 [.keywords]
 **Keywords**: crowd funding, internet, politics, public space, private space.
 
+NOTE: [LM] In your abstract, you write that new platforms dismiss institutional support from governments. I think you need to really precise and clear in your language, and write that they ‘claim’ to dismiss governmental support, because I suspect – though I don't know for certain – that some platforms might receive government subsidies or tax waivers. 
+
+NOTE: [LM] The abstract is a good start, but I’m think your phrasing around the purported dismissal of politics and corporations might need nuancing. My understanding is that your thesis critically examines the claim that crowdfunding does allow participants to bypass traditional channels, but whether they fully succeed or not is uncertain. I think that such tensions should be featured throughout your framing of the research problem, e.g. by wording it more like: ‘participants claim to dismiss institutional support…’ rather than simply ‘participants dismiss institutional support.’ 
 
 :leveloffset: +1
 :numbered:

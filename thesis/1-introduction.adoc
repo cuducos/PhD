@@ -5,3 +5,5 @@
 :stylesheet: ../contrib/print.css
 
 (Pending)
+
+NOTE: [LM] In chapter 5, this is a great line: ‘In other words it is about allowing people to have voice not against these institutions, but in spite of them.’ It could also be reiterated in your intro as a main argument….
