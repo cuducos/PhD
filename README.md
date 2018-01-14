@@ -34,72 +34,37 @@ Initial [research design](research-design/research-design.adoc), 2014
 
 The following commands and scripts depend on the following binaries available in yout path: `gem`, `asciidoctor`, `python` (version 3.4+), `prince` and `pandoc`.
 
-Once you have installed these packages, you can autmatically install the gems and generate the CSS stylesheet:
+Once you have installed these packages, you can autmatically install some dependencies:
 
 ```console
 $ make init
-$ make css
 ```
 
 ## Generating print friendly versions
 
-A `Makefile` helps you generating nice HTML, PDF and Word versions of the files:
+A script helps you generating nice HTML, PDF and Word versions of the files:
 
 ```console
-$ make <format> ADOC=<AsciiDoctor file>
+$ python render.py <path to AsciiDoctor file>
 ```
 
-Examples:
+Example:
 
 ```console
-$ make html ADOC=conferences/cd2015.adoc
-$ make docx ADOC=conferences/cd2015.adoc
-$ make pdf ADOC=conferences/cd2015.adoc
+$ python render.py conferences/cd2015.adoc
 
+```
+
+While you are woring you can watch for changes and the files will be generated automatically:
+
+```console
+$ python render.py watch
 ```
 
 There is also a shorcut to clean all the auto-generated files:
 
 ```console
 $ make clean
-```
-
-If you prefer to generate them step by step, the follwoing sections describe what the shell scripts does for you.
-
-### HTML
-
-To generate print friendly HTML use [AsciiDoctor Toolchain](http://asciidoctor.org/docs/install-toolchain/). You'll have to compile the CSS first.
-
-For example:
-
-```console
-$ asciidoctor conferences/cd2015.adoc
-```
-
-I added is a custom script to remove the square brackets from AsciiDoctor's in-text footnote numbering (it requires [Python](https://python.org/) 3.4+):
-
-```console
-$ python contrib/bracketless.py conferences/cd2015.html
-```
-
-### PDF
-
-To generate a PDF, use [Prince](http://www.princexml.com/) to convert the HTML generated above.
-
-For example:
-
-```console
-$ prince conferences/cd2015.html
-```
-
-### Word
-
-If you prefer a Word version, use [Pandoc](http://johnmacfarlane.net/pandoc/) to convert the HTML generated above.
-
-For example:
-
-```console
-$ pandoc -o conferences/cd2015.docx conferences/cd2015.html
 ```
 
 ## Credits

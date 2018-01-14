@@ -1,6 +1,7 @@
 """Cuducos PhD - tool to create PDF/DOCX from Asciidoctor files
 
 Usage:
+  render.py watch
   render.py <filename>
 
 Options:
@@ -11,8 +12,11 @@ import os
 import re
 import subprocess
 from contextlib import contextmanager
+from time import sleep
 
 from docopt import docopt
+from watchdog.events import FileSystemEventHandler
+from watchdog.observers import Observer
 
 
 def run(command):
@@ -54,10 +58,7 @@ def html_from(asciidoctor):
         return html
 
 
-if __name__ == '__main__':
-    arguments = docopt(__doc__, version='1.0')
-    asciidoctor = arguments.get('<filename>')
-
+def renderer(asciidoctor):
     if not os.path.isfile(asciidoctor):
         raise RuntimeError('  File {} not found.'.format(asciidoctor))
 
@@ -72,3 +73,45 @@ if __name__ == '__main__':
 
     with new_file(html, 'docx') as docx:
         run(['pandoc', '-o', docx, html])
+
+
+class AsciiDoctorEventHandler(FileSystemEventHandler):
+
+    @staticmethod
+    def call_renderer(filename):
+        if filename.lower().endswith('.adoc'):
+            renderer(filename)
+
+    def on_created(self, event):
+        self.call_renderer(event.src_path)
+
+    def on_modified(self, event):
+        self.call_renderer(event.src_path)
+
+    def on_moved(self, event):
+        self.call_renderer(event.src_path)
+
+
+def watcher():
+    observer = Observer()
+    observer.schedule(AsciiDoctorEventHandler(), os.getcwd(), recursive=True)
+    observer.start()
+
+    try:
+        while True:
+            sleep(1)
+
+    except KeyboardInterrupt:
+        observer.stop()
+
+    observer.join()
+
+
+if __name__ == '__main__':
+    arguments = docopt(__doc__, version='1.0')
+
+    if arguments['watch']:
+        watcher()
+
+    else:
+        renderer(arguments['<filename>'])
