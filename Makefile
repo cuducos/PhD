@@ -3,7 +3,7 @@ init:
 	@gem install bundler
 	@bundle install
 	@echo "==> Installing Python dependencies"
-	@pip install docopt
+	@pip install docopt watchdog
 	@echo "==> Downloading Bourbon"
 	@bundle exec bourbon install --force --path ./contrib/
 	@echo "==> Remember to install the following font families:\n    Cardo (https://fonts.google.com/specimen/Cardo)\n    Lato (https://fonts.google.com/specimen/Lato)"
@@ -18,6 +18,3 @@ clean:
 	@find . -iname '*.html' | xargs rm -v
 	@find . -iname '.DS_Store' | xargs rm -v
 	@echo "Done!"
-
-watch:
-	@ruby contrib/watcher.rb
