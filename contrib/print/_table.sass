@@ -1,18 +1,35 @@
 #content table
   border-collapse: collapse
   font-size: $small_font_size
-  margin: (2 * $base_font_size) $tab_width
+  margin: (2 * $base_font_size) 0
+  width: 100%
+
+  caption
+    margin-bottom: $base_font_size
 
   th
     border-bottom: 1pt solid $base_font_color
+    &.halign-center
+      text-align: center
+    &.halign-left
+      text-align: left
+    &.halign-right
+      text-align: right
 
   td
     border-bottom: .25pt solid $base_font_color
+    &.halign-center p
+      text-align: center
+    &.halign-left p
+      text-align: left
+    &.halign-right p
+      text-align: right
+
+  tr:last-child td
+    border-bottom: none
 
   th, td p
-    text-align: center
     text-indent: 0
 
   td:first-child,
     padding-right: $base_font_size
-    text-align: left
