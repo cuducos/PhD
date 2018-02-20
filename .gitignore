@@ -1,5 +1,6 @@
 # Rendred documents
 *.css
+*.doc
 *.docx
 *.html
 *.pdf
