@@ -148,6 +148,24 @@ Beyond that it is inevitable to ponder on the power concentrated in the platform
 
 '''
 
+=== Notes from No Such Thing as a Free Gift
+
+In order to assess what is political about crowdfunding one might start to frame it together with social entrepreneurship, social innovation and other expressions commonly used to describe social impact of crowd sourcing, crowdfunding and the share or gig economy, for example. Following this hunch, the next step would be to understand what actually these labels mean – and as McGoey (2015) argues, that is not a trivial task:
+
+[quote]
+What sets the ‘social’ entrepreneur apart from more traditional ones is an emphasis on _motivation_. According to Elkington and Hartigan, the new breed of socially aware entrepreneur is motivates by a deep sense of injustice at market imbalances that prevent disadvantaged from accessing market goods. ‘Time and again,’ they write, ‘these entrepreneurs have had a life-transforming experience, some sort of an epiphany that launched them on their current mission (McGoey 2015:67, emphasis in original).footnote:[In this passage, McGoey is citing Elkington and Hartigan (2008), “two well regarded proponents of the concept [of social entrepreneurship\]” as McGoey (2015:66) introduces them.]
+
+Following up with the discussion, she adds in the very next paragraph: “Unfortunately, specific definition of what that ‘mission’ may be and how it is accomplished are often quite vague” (McGoey 2015:6). In other words, recurring to social entrepreneurship and related areas might not offer a proper framework to discuss crowdfunding as it is a blurred field _per se_. Moreover, even if this social mission was a valid purpose, discussing how successful ventures actually are is another challenge:
+
+[quote]
+Corporate benchmarks such as increased revenue, more generous dividends, or higher share valuations simply don't translate as neatly into measuring social outcomes as social entrepreneurs often presume. Most social entrepreneurs want to prove that their business practices or their activism yield positive social results – something that's dubbed, in the TED Head world, ‘social return on investment’ (SROI). Like generations before them, they quickly confront one of the oldest challenges of social sciences: proving causality. […] Given this challenge, many philanthropic institutions and social enterprises turn to proxy measures in order to gauge their effectiveness (McGoey 2015:70).
+
+NOTE: As with micro credit, the claims seams to be greater than what we can actually measure (p. 77-78).
+
+NOTE: The idea is to sustain that in spite of the ideological and aspirational good vobes of the crowdfunding community, there is no way to clearly prove or deny their social impact. Next we must extend this argument to politics.
+
+'''
+
 The first part of this chapter discussed the antipolitical aspects of this arrangements while the last part speculates about the possibility of the employment of strategic ignorance. Whether the first part seems more assertive than the second both reflections are important in framing a critical analysis of the possibility of crowdfunding as politics. In fact the kind of argument proposed here might also be relevant for other online mediums and might be interesting for sociology and political theory of the web. When it comes specifically to crowdfunding it seams that the optimism discussed in the last chapter might be confronted with the antipolitcal aspect embedded in the very same online mechanisms and community.
 
 The last part of this research confront the political theories behind each one of the possible readings of crowdfunding as political action: one the one hand what kind of politics is expected when we depart from Arendt's introspective concept of action, and on the other hand what kind of politics is expected when we depart from Mouffe's agonistic political realm. Again it is not a matter of standing for one side or the other, but a matter of understanding the effects of these different standpoints when pondering on the potential liberating and potential risks of new online forms of doing politics.
