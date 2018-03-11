@@ -4,7 +4,9 @@
 *.docx
 *.html
 *.pdf
+*.pyc
 .sass-cache/
+__pycache__/
 contrib/bourbon/
 
 # vim

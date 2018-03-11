@@ -1,8 +1,7 @@
 """Cuducos PhD - tool to create PDF/DOCX from Asciidoctor files
 
 Usage:
-  render.py watch
-  render.py <filename>
+  render.py [<filename>]
 
 Options:
   -h --help     Show this screen.
@@ -12,6 +11,7 @@ import os
 import re
 import subprocess
 from contextlib import contextmanager
+from pathlib import Path
 from time import sleep
 
 from docopt import docopt
@@ -110,7 +110,12 @@ def watcher():
 if __name__ == '__main__':
     arguments = docopt(__doc__, version='1.0')
 
-    if arguments['watch']:
+    if not arguments['<filename>']:
+        print('==> Rendering all AsciiDoctor documents')
+        for asciidoctor in Path().glob('**/*.adoc'):
+            renderer(asciidoctor)
+
+        print('==> Waiting for changes in any AsciiDoctor file')
         watcher()
 
     else:
