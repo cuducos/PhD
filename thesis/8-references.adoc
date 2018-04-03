@@ -25,13 +25,16 @@
 * Catarse (2013). Nossa taxa de serviço – Parte 1: de onde vem e pra onde vai o dinheiro do Catarse. _Catarse_. Available at http://blog.catarse.me/nossa-taxa-de-servico-parte-1-de-onde-vem-e-pra-onde-vai-o-dinheiro-do-catarse/ [Accessed 8 Feb. 2014].
 * Catarse (2015a). Catarse. Available at: http://github.com/catarse/catarse [Accessed: 17 May 2015].
 * Catarse (2015b). Sites Using Catarse. Available at: http://github.com/catarse/catarse/wiki/Sites-using-Catarse [Accessed: 17 May 2015].
+* Catarse (2015c). #SomosMuitos - 200mil em Catarse. Available at: http://youtu.be/CRqXvKk5A1Q [Accessed: 16 Jun. 2015].
 * Coleman, E. G. (2013). _Coding Freedom: The Ethics and Aesthetics of Hacking_ [digital book]. Princeton: Princeton University Press.
 * Collins, R. (1986). _Weberian Sociological Theory_. Cambridge: Cambridge University Press.
+* Costa, C. (2015). 200 Mil Catárticos — E Se Fôssemos Um Milhão? Available at: http://blog.catarse.me/200-mil-catarticos-e-se-fossemos-um-milhao/ [Accessed: 16 Jun. 2015].
 * CrowdCube (2015). Get @CaterhamF1 to Abu Dhabi. _CrowdCube_. Available at: https://www.crowdcube.com/caterham/ [Accessed 13 Jul. 2015]. 
 * DenBleyker, R. _Explosm_. Available at: http://explosm.net/comics/3869 [Accessed in 18 Mar. 2015].
 * Dewey, J. (1954[1927]). _The Public and its Problems_. Athens: Swallow Press.
 * Dodd, N. (2014). _The Social Life of Money_. Princeton and Oxford: Princeton University Press.
 * Elkington, J. & Hartigan, P. (2008). _The Power of Unreasonable People. How Social Entrepreneurs Create Markets that Change the World_. Harvard Business Press: Boston.
+* Financial Times (2018). Why are so many Americans crowdfunding their healthcare? Online donation sites are booming as patients with little or no health insirance turn to strangers to help pay medical costs. Available at: https://www.ft.com/content/b99a81be-f591-11e7-88f7-5465a6ce1a00 [Accessed: 27 Feb. 2018].
 * Fine, J. (1983). _The Ancient Greeks: A Critical History_. Cambridge and London: Belknap.
 * Forbes (2016). Global 500: Petrobras, _Forbes_. Available at: http://beta.fortune.com/global500/petrobras-58. Accessed 7 Mar. 2017.
 * Gazeta do Povo (2014). A vaquinha dos mensaleiros, _Gazeta do Povo_, 23 Feb. 2014. Available at: http://www.gazetadopovo.com.br/opiniao/editoriais/a-vaquinha-dos-mensaleiros-ewkabsho4l4m5rtof2m3u1t1q [Accessed: 24 Feb. 2014].
@@ -51,8 +54,7 @@
 * Indiegogo (2018). Indiegogo’s 2015 Year In Review: Crowdfunding Statistics. Available at: https://go.indiegogo.com/blog/2015/12/2015-crowdfunding-infographic-statistics-tech-film-social.html [Accessed: 2 Jan. 2018].
 * ICT (2017) ICT Facts and Figures 2017. Available at: http://www.itu.int/en/mediacentre/Pages/2017-PR37.aspx [Accessed 14 Out. 2017].
 * Jaffe, E. (1997). Our Own Invisible Hand: Antipolitics as an American Given. In Schedler, A. (ed.) _The end of Politics? Explorations into modern antipolitics_. New York: Macmillan. Pp. 57-90.
-* Kickstarter (2015a). Kickstarter Stats. Available at: https://www.kickstarter.com/help/stats [Accessed: 30 May. 2015].
-* Kickstarter (2015b). The Kickstarter Fulfillment Report, Kickstarter. Available at: https://www.kickstarter.com/fulfillment [Accessed: 2 Jan. 2016].
+* Kickstarter (2015). Kickstarter Stats. Available at: https://www.kickstarter.com/help/stats [Accessed: 30 May. 2015].
 * Kickstarter (2018). The Kickstarter Fulfillment Report, Kickstarter. Available at: https://www.kickstarter.com/fulfillment [Accessed: 2 Jan. 2018].
 * Kvale, S. and Brinkmann, S. (2009). _Interviews. Learning the Craft of Qualitative Research Interviewing_. London: Sage.
 * Le-Mentzel, V. B. (2012). Karma Chakhs. _Startnext_. Available at: https://www.startnext.com/en/karma-chakhs [Accessed: 15 May 2016].
@@ -64,11 +66,13 @@
 * Mitleton-Kelly E. (2003). ‘en Principles of Complexity & Enabling Infrastructures. In _Complex Systems and Evolutionary Perspectives on Organisations: The Application of Complexity Theory to Organisations_. Bingley: Elsevier. Pp. 23-50.
 * Mouffe, C. (2005). _On the Political_. London and New York: Routledge.
 * NBC Sports (2013). What’s it cost to compete in Formula One? An IndyCar comparison, _NBC Sports_. Available at: http://motorsports.nbcsports.com/2013/05/22/whats-it-cost-to-compete-in-formula-one-an-indycar-comparison/ [Accessed 21 Mar. 2015].
+* New York Times, The Editorial Board (2013). Social Awakening in Brazil. _The New York Times_, 21 Jun. 2013. Pp. A22. Available at: http://www.nytimes.com/2013/06/21/opinion/social-awakening-in-brazil.html [Accessed: 21 Jun. 2013].
 * OECD (2013). OECD Factbook 2013: Economic, Environmental and Social Statistics_, OECD Publishing, Paris.
 * Palmås, K. (2006). After Counterculture. In von Busch, O. and Palmås, K. (ed.). _Abstract Hacktivism: The Making of a Hacker Culture_. London and Istanbul: OpenMute Press. Pp. 62-103.
 * Pariser, E. (2012). _The Filter Bubble: How the New Personalized Web Is Changing What We Read and How We Think_. New York: Penguin.
 * Pasquale, F. (2016). Two Narratives of Platform Capitalism. _Yale Law & Policy Review_, 35(1). Pp. 309-319.
 * Patreon (2016). Patreon: About. _Patreon_. Available at: https://www.patreon.com/about [Accessed: 22 May 2016].
+* Pew Research (2017). Public support for ‘single payer’ health coverage grows, driven by Democrats. Available at: http://www.pewresearch.org/fact-tank/2017/06/23/public-support-for-single-payer-health-coverage-grows-driven-by-democrats/ [Accessed on: 27 Feb. 2018].
 * Pew Research Center (2016). Online Shopping and E-Commerce. Available at: http://www.pewinternet.org/2016/12/19/online-shopping-and-e-commerce/ [Accessed: 22 Feb. 2017].
 * Pramuk, J. (2015) Student Debt Crushes Innovation: College President. In CNBC. Available at http://cnbc.com/id/102377355. Accessed 28 Jan. 2015.
 * Purewal, S. (2011). Kickstarter Faces Patent Suit Over Funding Idea. _PCWorld_. Available at: http://www.pcworld.com/article/241160/kickstarter_faces_patent_suit_over_funding_idea.html [Accessed: 20 Jan. 2014].
@@ -76,6 +80,8 @@
 * Ritzer, G. (2014). Prosumption: Evolution, Revolution, or Eternal Return of the Same? _Journal of Consumer Culture_, 14(1). Pp. 3-24.
 * Ritzer, G. (2015). The “New” World of Prosumption: Evolution, “Return of the Same,” or Revolution? _Sociological Forum_, 30(1). Pp. 1-17.
 * Ritzer, G. and N. Jurgenson (2010). Production, Consumption, Prosumption: The Nature of Capitalism in the Age of the Digital ‘Prosumer.’ _Journal of Consumer Culture_, 10(1). Pp 13-36.
+* Romero, S. (2013). Public Rage Catching Up With Brazilian’s Congress. _The New York Times_, 28 Jun. 2013. Pp. A1. Available at: http://www.nytimes.com/2013/06/28/world/americas/public-rage-catching-up-with-brazils-congress.html [Accessed: 28 Jun. 2013].
+* Romero, S. and Neuman, W. (2013). Level of Unrest In Brazil Stuns Even Protesters. _The New York Times_, 21 Jun. 2013. Pp. A1. Available at: http://www.nytimes.com/2013/06/21/world/americas/brazil-protests.html [Accessed: 21 Jun. 2013].
 * Schedler, A. (1997). Introduction: Antipolitics — Closing and colonizing the public sphere. In Schedler, A. (ed.) _The end of Politics? Explorations into Modern Antipolitics_. New York: Macmillan. Pp. 1-20.
 * Sennett, R. (1980). _Authority_. New York: Alfred A, Knopf.
 * Sennett, R. (2006). _The Culture of the New Capitalism_. New Haven, CT.: Yale University Press.
