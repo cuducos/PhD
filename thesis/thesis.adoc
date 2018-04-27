@@ -34,9 +34,9 @@ include::3-resignifying-money.adoc[]
 
 include::4-autonomy.adoc[]
 
-include::5-bright-side.adoc[]
+include::5-a-new-realm-to-empower-action.adoc[]
 
-include::6-dark-side.adoc[]
+include::6-isolation-silence-and-absence.adoc[]
 
 include::7-conclusions-and-discussion.adoc[]
 
