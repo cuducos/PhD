@@ -1,7 +1,7 @@
-= Crowdfundind and politics
+= Crowd funding in-between politics and anti-politics
 Eduardo Gonçalves
 :revremark: Draft of the thesis to be submitted to the Department of Sociology of the University of Essex for the degree of Doctor of Philosophy.
-:revdate: September 2017
+:revdate: April 2018
 :homepage: http://cuducos.me
 :numbered!:
 :toc:
