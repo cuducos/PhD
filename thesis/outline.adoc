@@ -4,14 +4,19 @@
 :icons: font
 :stylesheet: ../contrib/print.css
 
+_Total: 56k words_
+
 == Introduction
-_~3k words (pending)_
+_3k words_
 
 == Methodology and literature review
-_1st draft done: 11k words_
+_13k words_
+
+=== TODO
+* Arendt: early-adopter of _the social_ (Halewood 2014), but arguably she mostly referred to the _the social realm_ (which has a way ore precise definition)
 
 == Resignifying money
-_1st draft done: 12k words_
+_11k words_
 
 === TODO
 * Reinforce how they are more difficult to be “captured” by corporations because money cannot buy them as professionals.
@@ -20,20 +25,23 @@ _1st draft done: 12k words_
 * Contrast secondary research data with theory and with interviews
 
 == Autonomy
-_1st draft done: 10k words_
+_10k words_
 
 === TODO
-_Feedback pending._
+* I still have to work on the feedback given (Word document with comments & suggestions)
 
-== Politics within crowdfunding communities: the bright side (provisional title)
-_1st draft done: 10k words_
+== A new realm to empower action
+_9k words_
 
 === TODO
 * Reinforce their belief that bringing people together (instead of following corporation/government initiatives) means bringing power to the people;
 * Reinforce how this challenge should not be on the level of discourse (eg. academic/opinion in the media) or confront (eg. anti-G8, occupy), but of concrete and tangible action (that's why they value money and autonomy, and also that's why they challenge incumbent institutions).  
 
-== Politics within crowdfunding communities: the dark side (provisional title)_10k words (pending)_
-_~12k words (in progress, 3k done)_
+== Isolation, silence and absence
+_8k words_
+
+=== TODO
+* I still have to work on the feedback given (Word document with comments & suggestions)
 
 == Discuss & conclusions
-_~6k words (pending)_
+_2k words_
