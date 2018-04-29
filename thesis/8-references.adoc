@@ -15,7 +15,7 @@
 * Blaikie, N. (2010). _Designing Social Research: The Logic of Anticipation_. 2nd ed. Cambridge: Polity Press.
 * Blumer, H. (1939). Collective Behavior. In Park, R. E. (ed.). _An Outline of the Principles of Sociology_. New York: Barnes & Noble. Pp. 219-80.
 * Bogost, I. (2012). Kickstarter: Crowdfunding Platform Or Reality Show?, Fast Company. Available at: http://www.fastcompany.com/1843007/kickstarter-crowdfunding-platform-or-reality-show [Accessed: 23 Jun. 2015].
-* Bogost, I. (2015). The Internet of Things You Don’t Really Need, _The Atlantic_. Available at: http://www.theatlantic.com/technology/archive/2015/06/the-internet-of-things-you-dont-really-need/396485/ [Accessed: 23 Jun. 2015].
+* Bogost, I. (2015). The Internet of Things You Don't Really Need, _The Atlantic_. Available at: http://www.theatlantic.com/technology/archive/2015/06/the-internet-of-things-you-dont-really-need/396485/ [Accessed: 23 Jun. 2015].
 * Boltanski, L. and Chiapello, È. (2011[1999]). _Le Nouvel Esprit du Capitalisme_. Paris: Gallimard.
 * Boltanski, L. and Chiapello, È. (2005). _The New Spirit of Capitalism_. London and New York: Verso.
 * Bourdieu, P. and Passeron, J.-C. (1970). _La Reproduction. Éléments pour une Théorie du Système d'Enseignement_. Paris. Minuit.
@@ -51,7 +51,7 @@
 * Indiegogo (2012). International Campaigns. Available at: http://support.indiegogo.com/entries/20882543-international-campaigns [Accessed: 20 Jan. 2014].
 * Indiegogo (2014). Let's Build a Goddamn Tesla Museum. Available at: http://http://indiegogo.com/teslamuseum [Accessed: 17 Jun. 2014].
 * Indiegogo (2016). The Third Dimension: #BlackLivesMatter. Available at: https://www.indiegogo.com/projects/the-third-dimension-blacklivesmatter-freedom [Accessed: 13 Jan. 2017].
-* Indiegogo (2018). Indiegogo’s 2015 Year In Review: Crowdfunding Statistics. Available at: https://go.indiegogo.com/blog/2015/12/2015-crowdfunding-infographic-statistics-tech-film-social.html [Accessed: 2 Jan. 2018].
+* Indiegogo (2018). Indiegogo's 2015 Year In Review: Crowdfunding Statistics. Available at: https://go.indiegogo.com/blog/2015/12/2015-crowdfunding-infographic-statistics-tech-film-social.html [Accessed: 2 Jan. 2018].
 * ICT (2017) ICT Facts and Figures 2017. Available at: http://www.itu.int/en/mediacentre/Pages/2017-PR37.aspx [Accessed 14 Out. 2017].
 * Jaffe, E. (1997). Our Own Invisible Hand: Antipolitics as an American Given. In Schedler, A. (ed.) _The end of Politics? Explorations into modern antipolitics_. New York: Macmillan. Pp. 57-90.
 * Kickstarter (2015). Kickstarter Stats. Available at: https://www.kickstarter.com/help/stats [Accessed: 30 May. 2015].
@@ -63,24 +63,24 @@
 * McGoey, L. (2015). _No Such Thing as a Free Gift: The Gates Foundation and the Price of Philanthropy_. London and New York: Verso.
 * McGoey, L. (2012). Strategic Unknowns: Towards a Sociology of Ignorance, _Economy and Society_ 41(1). Pp. 1-16.
 * Micheletti, M. (2003). _Political Virtue and Shopping: Individuals, Consumerism, and Collective Action_. New York and Basingstoke: Palgrave Macmillan.
-* Mitleton-Kelly E. (2003). ‘en Principles of Complexity & Enabling Infrastructures. In _Complex Systems and Evolutionary Perspectives on Organisations: The Application of Complexity Theory to Organisations_. Bingley: Elsevier. Pp. 23-50.
+* Mitleton-Kelly E. (2003). 'en Principles of Complexity & Enabling Infrastructures. In _Complex Systems and Evolutionary Perspectives on Organisations: The Application of Complexity Theory to Organisations_. Bingley: Elsevier. Pp. 23-50.
 * Mouffe, C. (2005). _On the Political_. London and New York: Routledge.
-* NBC Sports (2013). What’s it cost to compete in Formula One? An IndyCar comparison, _NBC Sports_. Available at: http://motorsports.nbcsports.com/2013/05/22/whats-it-cost-to-compete-in-formula-one-an-indycar-comparison/ [Accessed 21 Mar. 2015].
+* NBC Sports (2013). What's it cost to compete in Formula One? An IndyCar comparison, _NBC Sports_. Available at: http://motorsports.nbcsports.com/2013/05/22/whats-it-cost-to-compete-in-formula-one-an-indycar-comparison/ [Accessed 21 Mar. 2015].
 * New York Times, The Editorial Board (2013). Social Awakening in Brazil. _The New York Times_, 21 Jun. 2013. Pp. A22. Available at: http://www.nytimes.com/2013/06/21/opinion/social-awakening-in-brazil.html [Accessed: 21 Jun. 2013].
 * OECD (2013). OECD Factbook 2013: Economic, Environmental and Social Statistics_, OECD Publishing, Paris.
 * Palmås, K. (2006). After Counterculture. In von Busch, O. and Palmås, K. (ed.). _Abstract Hacktivism: The Making of a Hacker Culture_. London and Istanbul: OpenMute Press. Pp. 62-103.
 * Pariser, E. (2012). _The Filter Bubble: How the New Personalized Web Is Changing What We Read and How We Think_. New York: Penguin.
 * Pasquale, F. (2016). Two Narratives of Platform Capitalism. _Yale Law & Policy Review_, 35(1). Pp. 309-319.
 * Patreon (2016). Patreon: About. _Patreon_. Available at: https://www.patreon.com/about [Accessed: 22 May 2016].
-* Pew Research (2017). Public support for ‘single payer’ health coverage grows, driven by Democrats. Available at: http://www.pewresearch.org/fact-tank/2017/06/23/public-support-for-single-payer-health-coverage-grows-driven-by-democrats/ [Accessed on: 27 Feb. 2018].
+* Pew Research (2017). Public support for 'single payer' health coverage grows, driven by Democrats. Available at: http://www.pewresearch.org/fact-tank/2017/06/23/public-support-for-single-payer-health-coverage-grows-driven-by-democrats/ [Accessed on: 27 Feb. 2018].
 * Pew Research Center (2016). Online Shopping and E-Commerce. Available at: http://www.pewinternet.org/2016/12/19/online-shopping-and-e-commerce/ [Accessed: 22 Feb. 2017].
 * Pramuk, J. (2015) Student Debt Crushes Innovation: College President. In CNBC. Available at http://cnbc.com/id/102377355. Accessed 28 Jan. 2015.
 * Purewal, S. (2011). Kickstarter Faces Patent Suit Over Funding Idea. _PCWorld_. Available at: http://www.pcworld.com/article/241160/kickstarter_faces_patent_suit_over_funding_idea.html [Accessed: 20 Jan. 2014].
 * Ragin, C. (1994). _Constructing Social Research: The Unity and Diversity of Method_. Thousands Oaks, London and New Delhi: Pine Forge Press.
 * Ritzer, G. (2014). Prosumption: Evolution, Revolution, or Eternal Return of the Same? _Journal of Consumer Culture_, 14(1). Pp. 3-24.
-* Ritzer, G. (2015). The “New” World of Prosumption: Evolution, “Return of the Same,” or Revolution? _Sociological Forum_, 30(1). Pp. 1-17.
-* Ritzer, G. and N. Jurgenson (2010). Production, Consumption, Prosumption: The Nature of Capitalism in the Age of the Digital ‘Prosumer.’ _Journal of Consumer Culture_, 10(1). Pp 13-36.
-* Romero, S. (2013). Public Rage Catching Up With Brazilian’s Congress. _The New York Times_, 28 Jun. 2013. Pp. A1. Available at: http://www.nytimes.com/2013/06/28/world/americas/public-rage-catching-up-with-brazils-congress.html [Accessed: 28 Jun. 2013].
+* Ritzer, G. (2015). The "New" World of Prosumption: Evolution, "Return of the Same," or Revolution? _Sociological Forum_, 30(1). Pp. 1-17.
+* Ritzer, G. and N. Jurgenson (2010). Production, Consumption, Prosumption: The Nature of Capitalism in the Age of the Digital 'Prosumer.' _Journal of Consumer Culture_, 10(1). Pp 13-36.
+* Romero, S. (2013). Public Rage Catching Up With Brazilian's Congress. _The New York Times_, 28 Jun. 2013. Pp. A1. Available at: http://www.nytimes.com/2013/06/28/world/americas/public-rage-catching-up-with-brazils-congress.html [Accessed: 28 Jun. 2013].
 * Romero, S. and Neuman, W. (2013). Level of Unrest In Brazil Stuns Even Protesters. _The New York Times_, 21 Jun. 2013. Pp. A1. Available at: http://www.nytimes.com/2013/06/21/world/americas/brazil-protests.html [Accessed: 21 Jun. 2013].
 * Schedler, A. (1997). Introduction: Antipolitics — Closing and colonizing the public sphere. In Schedler, A. (ed.) _The end of Politics? Explorations into Modern Antipolitics_. New York: Macmillan. Pp. 1-20.
 * Sennett, R. (1980). _Authority_. New York: Alfred A, Knopf.
