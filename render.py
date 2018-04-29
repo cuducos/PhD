@@ -52,7 +52,7 @@ def remove_footnote_square_brackets(html):
 
 def html_from(asciidoctor):
     with new_file(asciidoctor, 'html') as html:
-        run(['asciidoctor', asciidoctor])
+        run(['bundle', 'exec', 'asciidoctor', asciidoctor])
         remove_footnote_square_brackets(html)
 
         return html
@@ -64,7 +64,7 @@ def renderer(asciidoctor):
 
     sass = os.path.join('contrib', 'print.sass')
     with new_file(sass, 'css') as css:
-        run(['sass', sass, css, '--style=compressed', '--sourcemap=none'])
+        run(['bundle', 'exec', 'sass', sass, css, '--style=compressed', '--sourcemap=none'])
 
     html = html_from(asciidoctor)
 
