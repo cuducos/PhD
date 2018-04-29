@@ -2,7 +2,7 @@
 
 [references]
 * Allen-Robertson, J. (2013). _Digital Culture Industry: A History of Digital Distribution_. Basingstoke and New York: Palgrave Macmilllan.
-* Arendt, H. (1968). _Between Past and Future_. New York: Penguin. 
+* Arendt, H. (1968). _Between Past and Future_. New York: Penguin.
 * Arendt, H. (1973[1963]). _On Revolution_. Bungay: Penguin.
 * Arendt, H. (1985[1951]). _The origins of Totalitarianism_. San Diego, New York and London: Harcourt Brace.
 * Arendt, H. (1998[1958]). _The Human Condition_. 2 ed. Chicago and London: University of Chicago Press.
@@ -29,7 +29,7 @@
 * Coleman, E. G. (2013). _Coding Freedom: The Ethics and Aesthetics of Hacking_ [digital book]. Princeton: Princeton University Press.
 * Collins, R. (1986). _Weberian Sociological Theory_. Cambridge: Cambridge University Press.
 * Costa, C. (2015). 200 Mil Catárticos — E Se Fôssemos Um Milhão? Available at: http://blog.catarse.me/200-mil-catarticos-e-se-fossemos-um-milhao/ [Accessed: 16 Jun. 2015].
-* CrowdCube (2015). Get @CaterhamF1 to Abu Dhabi. _CrowdCube_. Available at: https://www.crowdcube.com/caterham/ [Accessed 13 Jul. 2015]. 
+* CrowdCube (2015). Get @CaterhamF1 to Abu Dhabi. _CrowdCube_. Available at: https://www.crowdcube.com/caterham/ [Accessed 13 Jul. 2015].
 * DenBleyker, R. _Explosm_. Available at: http://explosm.net/comics/3869 [Accessed in 18 Mar. 2015].
 * Dewey, J. (1954[1927]). _The Public and its Problems_. Athens: Swallow Press.
 * Dodd, N. (2014). _The Social Life of Money_. Princeton and Oxford: Princeton University Press.

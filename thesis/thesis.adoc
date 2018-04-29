@@ -1,4 +1,4 @@
-= Crowd funding in-between politics and anti-politics
+= Crowd funding in-between politics and antipolitics
 Eduardo Vicente Gonçalves
 :doctype: book
 :last-update-label!:
@@ -38,7 +38,7 @@ The relationship between public and private spheres of action has been long deba
 The analysis suggests that if the institutional conjuncture seems to seize the public sphere from people, citizens might be fighting back recreating the public realm within this purportedly private space. Instead of traditional political organizations (such as parties or social movements) crowd funding benefits from practical disruptions emerged from new technologies that allows people within their network to make a living and, meanwhile, to put their ideas forward. In spite of that the closeness and the cathartic self-perception this same community call into question the potential of crowd funding communities as an alternative political avenue. The analysis proposed here contributes to an overarching understanding of the impact of digital culture in the world, mainly debating how emerging technologies that takes prominent role in everyday life might challenge incumbent organization and push further social impacts in different areas, such as politics, civic engagement, professional careers, and our understanding of money.
 
 [.keywords]
-**Keywords**: crowd funding, politics, anti-politics, public space, private space.
+**Keywords**: crowd funding, politics, antipolitics, public space, private space.
 
 :leveloffset: +1
 :numbered:
