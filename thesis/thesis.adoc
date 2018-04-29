@@ -1,14 +1,31 @@
 = Crowd funding in-between politics and anti-politics
-Eduardo Gonçalves
-:revremark: Draft of the thesis to be submitted to the Department of Sociology of the University of Essex for the degree of Doctor of Philosophy.
-:revdate: April 2018
-:homepage: http://cuducos.me
+Eduardo Vicente Gonçalves
+:doctype: book
+:last-update-label!:
 :numbered!:
-:toc:
+:revdate: April 2018
+:revremark: Draft of the thesis.
 :sectanchors:
-:icons: font
 :stylesheet: ../contrib/print.css
- 
+:toc: macro
+:toclevels: 3
+
+[colophon]
+
+[.colophon]
+Draft of the thesis to be submitted to the Department of Sociology of the University of Essex for the degree of Doctor of Philosophy. +
+Supervisors: Dr. Linsey McGoey and Dr. James Allen-Robertson.
+
+<<<
+[dedication]
+
+[.dedication]
+For my grandma, who has taught me so much.
+
+<<<
+toc::[]
+
+<<<
 [abstract]
 == Abstract
 
@@ -18,7 +35,7 @@ This PhD thesis shows that the emphasis put on action by the crowd funding commu
 
 The relationship between public and private spheres of action has been long debated in the literature. Arendt criticized the role of modern state as a guardian of individual freedom, highlighting that real possibilities of political action are still restricted to political elites. Simultaneously private interests of corporations have compromised the political sphere, argued Wolin and Schedler. According to them states take decisions within the private realm, diminishing the spaces for public interests. Finally Bellah argued that this scenario and its emphasis in the private interests favored individualism. Yet, he adds, people are not comfortable with it: the lack of social ties makes them eager for connections. The theoretical background consists in combining these critiques together with a hacker culture that focus on action, as described by Palmås. Beyond that, this research draws on dozens of interviews I conducted with people engaged with crowd funding in 8 different countries.
 
-The analysis suggests that if the institutional conjuncture seems to seize the public sphere from people, citizens might be fighting back recreating the public realm within this purportedly private space. Instead of traditional political organizations (such as parties or social movements) crowdfunding benefits from practical disruptions emerged from new technologies that allows people within their network to make a living and, meanwhile, to put their ideas forward. In spite of that the closeness and the cathartic self-perception this same community call into question the potential of crowd funding communities as an alternative political avenue. The analysis proposed here contributes to an overarching understanding of the impact of digital culture in the world, mainly debating how emerging technologies that takes prominent role in everyday life might challenge incumbent organization and push further social impacts in different areas, such as politics, civic engagement, professional careers, and our understanding of money.
+The analysis suggests that if the institutional conjuncture seems to seize the public sphere from people, citizens might be fighting back recreating the public realm within this purportedly private space. Instead of traditional political organizations (such as parties or social movements) crowd funding benefits from practical disruptions emerged from new technologies that allows people within their network to make a living and, meanwhile, to put their ideas forward. In spite of that the closeness and the cathartic self-perception this same community call into question the potential of crowd funding communities as an alternative political avenue. The analysis proposed here contributes to an overarching understanding of the impact of digital culture in the world, mainly debating how emerging technologies that takes prominent role in everyday life might challenge incumbent organization and push further social impacts in different areas, such as politics, civic engagement, professional careers, and our understanding of money.
 
 [.keywords]
 **Keywords**: crowd funding, politics, anti-politics, public space, private space.
