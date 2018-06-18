@@ -1,7 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    asciidoctor (1.5.6.2)
+    asciidoctor (1.5.7.1)
     bourbon (4.3.4)
       sass (~> 3.4)
       thor (~> 0.19)
@@ -20,12 +20,12 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  asciidoctor (~> 1.5.6.2)
+  asciidoctor (~> 1.5.7.1)
   bourbon (~> 4.3.3)
   sass (~> 3.5.6)
 
 RUBY VERSION
-   ruby 2.3.1p112
+   ruby 2.5.1p57
 
 BUNDLED WITH
-   1.16.1
+   1.16.2
