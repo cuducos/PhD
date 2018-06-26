@@ -43,19 +43,21 @@ This research draws on interviews I conducted with people engaged with crowd fun
 
 include::1-introduction.adoc[]
 
-include::2-methodology-and-literature-review.adoc[]
+include::2-methodology.adoc[]
 
-include::3-resignifying-money.adoc[]
+include::3-literature-review.adoc[]
 
-include::4-autonomy.adoc[]
+include::4-resignifying-money.adoc[]
 
-include::5-a-new-realm-to-empower-action.adoc[]
+include::5-autonomy.adoc[]
 
-include::6-isolation-silence-and-absence.adoc[]
+include::6-a-new-realm-to-empower-action.adoc[]
 
-include::7-conclusions-and-discussion.adoc[]
+include::7-isolation-silence-and-absence.adoc[]
 
-include::8-references.adoc[]
+include::8-conclusions-and-discussion.adoc[]
+
+include::9-references.adoc[]
 
 :numbered!:
 :leveloffset: -1
