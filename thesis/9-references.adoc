@@ -18,6 +18,7 @@
 * Bogost, I. (2015). The Internet of Things You Don't Really Need, _The Atlantic_. Available at: http://www.theatlantic.com/technology/archive/2015/06/the-internet-of-things-you-dont-really-need/396485/ [Accessed: 23 Jun. 2015].
 * Boltanski, L. and Chiapello, È. (2011[1999]). _Le Nouvel Esprit du Capitalisme_. Paris: Gallimard.
 * Boltanski, L. and Chiapello, È. (2005). _The New Spirit of Capitalism_. London and New York: Verso.
+* Botsman, R. (2010). _What's Mine Is Yours: The Rise of Collaborative Consumption_. New York: HarperCollins.
 * Bourdieu, P. and Passeron, J.-C. (1970). _La Reproduction. Éléments pour une Théorie du Système d'Enseignement_. Paris. Minuit.
 * Edwards, J. (2014). Yes, you can make six figures as a YouTube star… and still end up poor. _Business Insider_. Available at: http://www.businessinsider.com/how-much-money-youtube-stars-actually-make-2014-2 [Accessed 5 Jun. 2017].
 * Caillé, A. (2009). Anti-utilitarisme et sociologie économique. In Steiner, P. and Vatin, F. (2009). _Traité de Sociologie Économique. Paris: PUF. Pp. 89-130.
@@ -87,6 +88,7 @@
 * Sennett, R. (1980). _Authority_. New York: Alfred A, Knopf.
 * Sennett, R. (2006). _The Culture of the New Capitalism_. New Haven, CT.: Yale University Press.
 * Shafqat, W., Lee, S., Malik, S. and Kim, H.-C. (2016). The Language of Deceivers, 25th International World Wide Web Conference, Montreal, Canada. [Conference Proceedings]. Available at: http://dx.doi.org/10.1145/2872518.2889356 [Accessed 25 Jul. 2017]. Pp. 99-100.
+* Shaw, J. and Graham, M. (2017). An Informational Right to the City? Code, Content, Control, and the Urbanization of Information. _Antipode_, 49(4). Pp. 907–927.
 * Simmel, G. (1978[1900]). _The Philosophy of Money_. London and New York: Routledge.
 * Sniderman, P. M. and Bullock, J. (2004). A Consistency Theory of Public Opinion and Political Choice: The Hypothesis of Men Dependence. In Saris, W. E. and Sniderman, P. M. (eds.). _Studies in Public Opinion: Attitudes, Nonattitudes, Measurement Error, and Change_. Princeton and Oxford: Princeton University Press. Pp. 337-357.
 * Swartz, D. (1997). _Culture & Power: The Sociology of Pierre Bourdieu_. Chicago: The University of Chicago Press.
@@ -95,6 +97,8 @@
 * Tocqueville, A. (1961[1840]). _De la démocratie en Amérique, II_. Paris: Gallimard.
 * Tocqueville, A. (1986[1835]). _De la démocratie en Amérique, I_. Paris: Gallimard.
 * Toffler, A. (1980). _The Third Wave_. New York: Morrow.
+* Tufekci, Z. (2014). The Medium and the Movement: Digital Tools, Social Movement Politics, and the End of the Free Rider Problem. _Policy & Internet_, 6(2). Pp. 202-208.
+* Tufekci, Z. (2016). As the Pirates Become CEOs: The Closing of the Open Internet. _Daedalus_, 145(1). Pp. 65–78.
 * Wang, N. (1999) Transaction Costs and the Structure of the Market, _American Journal of Economics and Sociology_, 58(4). Pp. 784-805.
 * Weber, M. (1976[1900]). _The Protestant Ethic and the Spirit of Capitalism_. London and New York: Routledge.
 * Weber, M. (1986[1919]). The Reich President. _Social Research_, 53(1). Pp. 125-132.
