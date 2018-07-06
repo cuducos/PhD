@@ -58,6 +58,7 @@
 * Indiegogo (2018). Indiegogo's 2015 Year In Review: Crowdfunding Statistics. Available at: https://go.indiegogo.com/blog/2015/12/2015-crowdfunding-infographic-statistics-tech-film-social.html [Accessed: 2 Jan. 2018].
 * ICT (2017) ICT Facts and Figures 2017. Available at: http://www.itu.int/en/mediacentre/Pages/2017-PR37.aspx [Accessed 14 Out. 2017].
 * Jaffe, E. (1997). Our Own Invisible Hand: Antipolitics as an American Given. In Schedler, A. (ed.) _The end of Politics? Explorations into modern antipolitics_. New York: Macmillan. Pp. 57-90.
+* Keen, A. (2007). _The Cult of the Amateur: How Blogs, MySpace, YouTube, and the Rest of Today's User-Generated Media Are Destroying Our Economy, Our Culture, and Our Values_. London and Boston: Nicholas Brealey.
 * Kickstarter (2015). Kickstarter Stats. Available at: https://www.kickstarter.com/help/stats [Accessed: 30 May. 2015].
 * Kickstarter (2018). The Kickstarter Fulfillment Report, Kickstarter. Available at: https://www.kickstarter.com/fulfillment [Accessed: 2 Jan. 2018].
 * Kvale, S. and Brinkmann, S. (2009). _Interviews. Learning the Craft of Qualitative Research Interviewing_. London: Sage.
@@ -78,6 +79,7 @@
 * Patreon (2016). Patreon: About. _Patreon_. Available at: https://www.patreon.com/about [Accessed: 22 May 2016].
 * Pew Research (2017). Public support for 'single payer' health coverage grows, driven by Democrats. Available at: http://www.pewresearch.org/fact-tank/2017/06/23/public-support-for-single-payer-health-coverage-grows-driven-by-democrats/ [Accessed on: 27 Feb. 2018].
 * Pew Research Center (2016). Online Shopping and E-Commerce. Available at: http://www.pewinternet.org/2016/12/19/online-shopping-and-e-commerce/ [Accessed: 22 Feb. 2017].
+* Potter, J. (2015). _Crisis at Work: Identity and the End of Career_. Basingstoke and New York: Palgrave Macmillan.
 * Pramuk, J. (2015) Student Debt Crushes Innovation: College President. In CNBC. Available at http://cnbc.com/id/102377355. Accessed 28 Jan. 2015.
 * Purewal, S. (2011). Kickstarter Faces Patent Suit Over Funding Idea. _PCWorld_. Available at: http://www.pcworld.com/article/241160/kickstarter_faces_patent_suit_over_funding_idea.html [Accessed: 20 Jan. 2014].
 * Ragin, C. (1994). _Constructing Social Research: The Unity and Diversity of Method_. Thousands Oaks, London and New Delhi: Pine Forge Press.
@@ -100,6 +102,7 @@
 * Tocqueville, A. (1986[1835]). _De la démocratie en Amérique, I_. Paris: Gallimard.
 * Toffler, A. (1980). _The Third Wave_. New York: Morrow.
 * Tufekci, Z. (2014). The Medium and the Movement: Digital Tools, Social Movement Politics, and the End of the Free Rider Problem. _Policy & Internet_, 6(2). Pp. 202-208.
+* Tufekci, Z. (2015). Algorithmic harms beyond Facebook and Google: Emergent challenges of computational agency. _Journal on Telecommunications and High Technology Law_, 13. Pp. 203-2018.
 * Tufekci, Z. (2016). As the Pirates Become CEOs: The Closing of the Open Internet. _Daedalus_, 145(1). Pp. 65–78.
 * Wang, N. (1999) Transaction Costs and the Structure of the Market, _American Journal of Economics and Sociology_, 58(4). Pp. 784-805.
 * Weber, M. (1976[1900]). _The Protestant Ethic and the Spirit of Capitalism_. London and New York: Routledge.
