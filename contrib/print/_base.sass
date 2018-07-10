@@ -14,8 +14,9 @@ b, strong
 i, em
   font-style: italic
 
-q
-  quotes: "\201C" "\201D" "\2018" "\2019"
+/* unsupported by Prince */
+// q
+//  quotes: "\201C" "\201D" "\2018" "\2019"
 
 small
   font-size: $small_font_size
@@ -41,7 +42,7 @@ h1
   text-align: left
 
 h2, h3, h4, h5, h6
-  margin: ($base_font_size * 3) 0 ($base_font_size * 2) 0
+  margin: ($base_font_size * 6) 0 ($base_font_size * 3) 0
 
 h2, #toctitle
   font-size: $base_font_size * 1.8
@@ -57,5 +58,8 @@ h5
 
 h6
   font-size: $base_font_size * 1
+
+table
+  line-height: $single_line_height
 
 
