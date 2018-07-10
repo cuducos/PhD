@@ -3,24 +3,15 @@ Eduardo Vicente Gonçalves
 :doctype: book
 :last-update-label!:
 :numbered!:
-:revdate: April 2018
-:revremark: Draft of the thesis.
+:revdate: July 2018
+:revremark: Thesis submitted to the Department of Sociology of the University of Essex for the degree of Doctor of Philosophy. Supervisors: Dr. Linsey McGoey and Dr. James Allen-Robertson.
 :sectanchors:
 :stylesheet: ../contrib/print.css
 :toc: macro
 :toclevels: 3
 
-[colophon]
-
-[.colophon]
-Draft of the thesis to be submitted to the Department of Sociology of the University of Essex for the degree of Doctor of Philosophy. +
-Supervisors: Dr. Linsey McGoey and Dr. James Allen-Robertson.
-
-<<<
-[dedication]
-
 [.dedication]
-For my grandma, who has taught me so much.
+_For my grandma, who has taught me so much._
 
 <<<
 toc::[]

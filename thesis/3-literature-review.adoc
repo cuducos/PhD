@@ -4,7 +4,7 @@
 :icons: font
 :stylesheet: ../contrib/print.css
 
-Two recurrent topics on contemporary political theory are extremely relevant in order to address the possibility of politics through crowd funding. One of them comes from the antipolitics stream (Schedler 1997), and it argues that many institutions and practices that were supposed to be political are, in fact, weaken politics as such. According to this critique, a spread dissatisfaction with the means and ends of these institutions and practices has lead to a general disavowal of politics _per se_; politics, therefore, starts to be taken with a skeptical and cynical tone, starts to be perceived as corrosive to society. By these means, it ceases to be the realm for conflicting interests, passions and desires. Furthermore, politics ends up either as technical matter relegated to specialists, or as a rational pursue for consensus — both alternatives sustained by a strong belief in a impartial set of procedures (Mouffe 2005).
+Two recurrent topics on contemporary political theory are extremely relevant in order to address the possibility of politics through crowd funding. One of them comes from the antipolitics stream (Schedler 1997), and it argues that many institutions and practices that were supposed to be political are, in fact, weaken politics as such. According to this critique, a spread dissatisfaction with the means and ends of these institutions and practices has lead to a general disavowal of politics _per se_; politics, therefore, starts to be taken with a skeptical and cynical tone, starts to be perceived as corrosive to society. By these means, it ceases to be the realm for conflicting interests, passions and desires. Furthermore, politics ends up either as technical matter relegated to specialists, or as a rational pursue for consensus — both alternatives sustained by a strong belief in an impartial set of procedures (Mouffe 2005).
 
 The other topic, subsequently, is one way to approach this contemporary political condition through the critique of rationalization and of utilitarianism (Weber 1976, Collins 1986), as well as through the underneath and widespread individualism and disconnectedness related to these ideals (Bellah _et al_ 2008). This set of critiques argues that in the last centuries traditional republican and religious morals have been fading out in terms of relevance, being replaced by a culture that fosters the pursue of self-interest in a way that does not create, neither sustain, social ties (Bellah _et al_ 2008, Graeber 2011).
 
@@ -16,7 +16,7 @@ Commonly this literature acknowledges the achievements of the Enlightenment, but
 
 The first part of this section draws the framework of these critiques towards the modern state as well as its democratic assumptions and failures. Next it discusses the contemporary debate built around this conquers and flaws, bringing in discussions around the arguable decline of political engagement in the turn of the twenty-first century. Finally, it sets some challenges in thinking political action in contemporary society. The idea is to grasp the difficulties in using traditional approaches to political institutions to understand how political action can be reinvented within nowadays tensions and conditions. This is the overarching theoretical background to which I will contrast my sociological analysis based on the data I collected. These critiques form the pillar for a sociological understanding of crowd funding in the early twenty-first century.
 
-=== Modern institutions and its discontents
+== Modern institutions and its discontents
 
 In terms of politics most of the ancient world was traditionally based on a distinction between the public and the private, two separated realms in which people would pursue different objectives through different means. However, this scenario has changed considerably during the last centuries:
 
@@ -99,7 +99,7 @@ If the Establishment vision rearticulated important aspects of the republican id
 
 In sum, neither the rational deliberation and consensus possibility, nor the agonistic one, are hosted in nowadays political institutions. Instead, there is a disavowal for politics, since it is generally perceived as inefficient, misguided and corrupt. However, this scenario may not eliminate politics as such, and people might find alternative ways to engage in the public and civic life — and that is the topic of the next section.
 
-=== Action, technology and politics
+== Action, technology and politics
 
 The last section described what can be understood as a crisis in the contemporary political arena. The idea that voting would grant an accountable authority for the rulers and, at the same time, the sense of participation and freedom to the ruled, is, at maximum, an unfinished project (Sennett 1980). If ordinary people do not trust politics, the notion of participation and civic engagement, together with the ideals of a representative government, are called into question.
 
