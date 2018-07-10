@@ -6,7 +6,7 @@ init:
 	@pip install docopt watchdog
 	@echo "==> Downloading Bourbon"
 	@bundle exec bourbon install --force --path ./contrib/
-	@echo "==> Remember to install the following font families:\n    Cardo (https://fonts.google.com/specimen/Cardo)\n    Lato (https://fonts.google.com/specimen/Lato)"
+	@echo "==> Remember to install the following font families:\n    EB Garamond (https://fonts.google.com/specimen/EB+Garamond)\n    Lato (https://fonts.google.com/specimen/Lato)"
 	@echo "==> Remember to install the following software:\n    Pandoc (https://pandoc.org)\n    Prince (https://princexml.com)"
 
 clean:
