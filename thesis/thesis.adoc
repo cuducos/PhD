@@ -38,7 +38,7 @@ include::2-methodology.adoc[]
 
 include::3-literature-review.adoc[]
 
-include::4-resignifying-money.adoc[]
+include::4-re-signifying-money.adoc[]
 
 include::5-autonomy.adoc[]
 
