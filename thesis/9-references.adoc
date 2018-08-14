@@ -21,7 +21,7 @@
 * Botsman, R. (2010). _What's Mine Is Yours: The Rise of Collaborative Consumption_. New York: HarperCollins.
 * Bourdieu, P. and Passeron, J.-C. (1970). _La Reproduction. Éléments pour une Théorie du Système d'Enseignement_. Paris. Minuit.
 * Edwards, J. (2014). Yes, you can make six figures as a YouTube star… and still end up poor. _Business Insider_. Available at: http://www.businessinsider.com/how-much-money-youtube-stars-actually-make-2014-2 [Accessed 5 Jun. 2017].
-* Caillé, A. (2009). Anti-utilitarisme et sociologie économique. In Steiner, P. and Vatin, F. (2009). _Traité de Sociologie Économique. Paris: PUF. Pp. 89-130.
+* Caillé, A. (2009). Anti-utilitarisme et sociologie économique. In Steiner, P. and Vatin, F. (2009). _Traité de Sociologie Économique_. Paris: PUF. Pp. 89-130.
 * Canadian Press, The (2013). Kickstarter crowd funding Site Officially Launches in Canada: Canadian Entry Held Up by Red Tape, Financial Regulations, Co-Founder Says. Available at: http://www.cbc.ca/news/business/kickstarter-crowd funding-site-officially-launches-in-canada-1.1703774 [Accessed: 20 Jan. 2014].
 * Catarse (2013). Nossa taxa de serviço – Parte 1: de onde vem e pra onde vai o dinheiro do Catarse. _Catarse_. Available at http://blog.catarse.me/nossa-taxa-de-servico-parte-1-de-onde-vem-e-pra-onde-vai-o-dinheiro-do-catarse/ [Accessed 8 Feb. 2014].
 * Catarse (2015a). Catarse. Available at: http://github.com/catarse/catarse [Accessed: 17 May 2015].
@@ -32,12 +32,12 @@
 * Costa, C. (2015). 200 Mil Catárticos — E Se Fôssemos Um Milhão? Available at: http://blog.catarse.me/200-mil-catarticos-e-se-fossemos-um-milhao/ [Accessed: 16 Jun. 2015].
 * CrowdCube (2015). Get @CaterhamF1 to Abu Dhabi. _CrowdCube_. Available at: https://www.crowdcube.com/caterham/ [Accessed 13 Jul. 2015].
 * Davies, W. (2014). _The Limits of Neoliberalism: Authority, Sovereignty and the Logic of Competition_. London: Sage.
-* Dellinger, A. (2018). Why Adult Content Creators Are Mad at Patreon. _Gizmodo_. Available at https://gizmodo.com/why-adult-content-creators-are-mad-at-patreon-1827254676 [Accessed in 1 Jul 2018].
-* DenBleyker, R. _Explosm_. Available at: http://explosm.net/comics/3869 [Accessed in 18 Mar. 2015].
+* Dellinger, A. (2018). Why Adult Content Creators Are Mad at Patreon. _Gizmodo_. Available at https://gizmodo.com/why-adult-content-creators-are-mad-at-patreon-1827254676 [Accessed 1 Jul 2018].
+* DenBleyker, R. _Explosm_. Available at: http://explosm.net/comics/3869 [Accessed 18 Mar. 2015].
 * Dewey, J. (1954[1927]). _The Public and its Problems_. Athens: Swallow Press.
 * Dodd, N. (2014). _The Social Life of Money_. Princeton and Oxford: Princeton University Press.
 * Elkington, J. & Hartigan, P. (2008). _The Power of Unreasonable People. How Social Entrepreneurs Create Markets that Change the World_. Harvard Business Press: Boston.
-* Financial Times (2018). Why are so many Americans crowdfunding their healthcare? Online donation sites are booming as patients with little or no health insirance turn to strangers to help pay medical costs. Available at: https://www.ft.com/content/b99a81be-f591-11e7-88f7-5465a6ce1a00 [Accessed: 27 Feb. 2018].
+* Financial Times (2018). Why are so many Americans crowdfunding their healthcare? Online donation sites are booming as patients with little or no health insurance turn to strangers to help pay medical costs. Available at: https://www.ft.com/content/b99a81be-f591-11e7-88f7-5465a6ce1a00 [Accessed: 27 Feb. 2018].
 * Fine, J. (1983). _The Ancient Greeks: A Critical History_. Cambridge and London: Belknap.
 * Forbes (2016). Global 500: Petrobras, _Forbes_. Available at: http://beta.fortune.com/global500/petrobras-58. Accessed 7 Mar. 2017.
 * Gazeta do Povo (2014). A vaquinha dos mensaleiros, _Gazeta do Povo_, 23 Feb. 2014. Available at: http://www.gazetadopovo.com.br/opiniao/editoriais/a-vaquinha-dos-mensaleiros-ewkabsho4l4m5rtof2m3u1t1q [Accessed: 24 Feb. 2014].
@@ -72,7 +72,7 @@
 * Mouffe, C. (2005). _On the Political_. London and New York: Routledge.
 * NBC Sports (2013). What's it cost to compete in Formula One? An IndyCar comparison, _NBC Sports_. Available at: http://motorsports.nbcsports.com/2013/05/22/whats-it-cost-to-compete-in-formula-one-an-indycar-comparison/ [Accessed 21 Mar. 2015].
 * New York Times, The Editorial Board (2013). Social Awakening in Brazil. _The New York Times_, 21 Jun. 2013. Pp. A22. Available at: http://www.nytimes.com/2013/06/21/opinion/social-awakening-in-brazil.html [Accessed: 21 Jun. 2013].
-* OECD (2013). OECD Factbook 2013: Economic, Environmental and Social Statistics_, OECD Publishing, Paris.
+* OECD (2013). _OECD Factbook 2013: Economic, Environmental and Social Statistics_, OECD Publishing, Paris.
 * Palmås, K. (2006). After Counterculture. In von Busch, O. and Palmås, K. (ed.). _Abstract Hacktivism: The Making of a Hacker Culture_. London and Istanbul: OpenMute Press. Pp. 62-103.
 * Pariser, E. (2012). _The Filter Bubble: How the New Personalized Web Is Changing What We Read and How We Think_. New York: Penguin.
 * Pasquale, F. (2016). Two Narratives of Platform Capitalism. _Yale Law & Policy Review_, 35(1). Pp. 309-319.
