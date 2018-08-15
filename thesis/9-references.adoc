@@ -23,13 +23,13 @@
 * Edwards, J. (2014). Yes, you can make six figures as a YouTube star… and still end up poor. _Business Insider_. Available at: http://www.businessinsider.com/how-much-money-youtube-stars-actually-make-2014-2 [Accessed 5 Jun. 2017].
 * Caillé, A. (2009). Anti-utilitarisme et sociologie économique. In Steiner, P. and Vatin, F. (2009). _Traité de Sociologie Économique_. Paris: PUF. Pp. 89-130.
 * Canadian Press, The (2013). Kickstarter crowd funding Site Officially Launches in Canada: Canadian Entry Held Up by Red Tape, Financial Regulations, Co-Founder Says. Available at: http://www.cbc.ca/news/business/kickstarter-crowd funding-site-officially-launches-in-canada-1.1703774 [Accessed: 20 Jan. 2014].
-* Catarse (2013). Nossa taxa de serviço – Parte 1: de onde vem e pra onde vai o dinheiro do Catarse. _Catarse_. Available at http://blog.catarse.me/nossa-taxa-de-servico-parte-1-de-onde-vem-e-pra-onde-vai-o-dinheiro-do-catarse/ [Accessed 8 Feb. 2014].
+* Catarse (2013). Nossa taxa de serviço -- Parte 1: de onde vem e pra onde vai o dinheiro do Catarse. _Catarse_. Available at http://blog.catarse.me/nossa-taxa-de-servico-parte-1-de-onde-vem-e-pra-onde-vai-o-dinheiro-do-catarse/ [Accessed 8 Feb. 2014].
 * Catarse (2015a). Catarse. Available at: http://github.com/catarse/catarse [Accessed: 17 May 2015].
 * Catarse (2015b). Sites Using Catarse. Available at: http://github.com/catarse/catarse/wiki/Sites-using-Catarse [Accessed: 17 May 2015].
 * Catarse (2015c). #SomosMuitos - 200mil em Catarse. Available at: http://youtu.be/CRqXvKk5A1Q [Accessed: 16 Jun. 2015].
 * Coleman, E. G. (2013). _Coding Freedom: The Ethics and Aesthetics of Hacking_ [digital book]. Princeton: Princeton University Press.
 * Collins, R. (1986). _Weberian Sociological Theory_. Cambridge: Cambridge University Press.
-* Costa, C. (2015). 200 Mil Catárticos — E Se Fôssemos Um Milhão? Available at: http://blog.catarse.me/200-mil-catarticos-e-se-fossemos-um-milhao/ [Accessed: 16 Jun. 2015].
+* Costa, C. (2015). 200 Mil Catárticos -- E Se Fôssemos Um Milhão? Available at: http://blog.catarse.me/200-mil-catarticos-e-se-fossemos-um-milhao/ [Accessed: 16 Jun. 2015].
 * CrowdCube (2015). Get @CaterhamF1 to Abu Dhabi. _CrowdCube_. Available at: https://www.crowdcube.com/caterham/ [Accessed 13 Jul. 2015].
 * Davies, W. (2014). _The Limits of Neoliberalism: Authority, Sovereignty and the Logic of Competition_. London: Sage.
 * Dellinger, A. (2018). Why Adult Content Creators Are Mad at Patreon. _Gizmodo_. Available at https://gizmodo.com/why-adult-content-creators-are-mad-at-patreon-1827254676 [Accessed 1 Jul 2018].
@@ -45,7 +45,7 @@
 * Golafshani, N. (2003) Understanding Reliability and Validity in Qualitative Research. _The Qualitative Report_, 8(4). Pp. 597-607.
 * Graeber, D. (2011). _Debt: The First 5,000 Years_. New York: Melville House.
 * Habermas, J. (1992[1985]). _The Theory of Communicative Action: Reason and the Rationalization of Society, Vol. I_. Boston: Beacon.
-* Habermas, J. (2005[1985]). _The Theory of Communicative Action: Lifeworld and System — A Critique of Functionalist Reason, Vol. II_. Boston: Beacon.
+* Habermas, J. (2005[1985]). _The Theory of Communicative Action: Lifeworld and System -- A Critique of Functionalist Reason, Vol. II_. Boston: Beacon.
 * Heath, J. and Potter, A. (2005). _The Rebel Sell: Why the Culture Can't Be Jammed_. Chichester: Wiley.
 * Hess, D. (2015). Undone Science and Social Movements: A Review and Typology. In Gross, M. and McGoey, L. (ed.). _The Routledge International Handbook of Ignorance Studies_. Routledge: London and New York. Pp. 141-154.
 * Hirschman, A. (1977). _The Passions and the Interests. Political Arguments for Capitalism before Its Triumph_. Princeton: Princeton University Press.
@@ -88,11 +88,11 @@
 * Ritzer, G. and N. Jurgenson (2010). Production, Consumption, Prosumption: The Nature of Capitalism in the Age of the Digital 'Prosumer.' _Journal of Consumer Culture_, 10(1). Pp 13-36.
 * Romero, S. (2013). Public Rage Catching Up With Brazilian's Congress. _The New York Times_, 28 Jun. 2013. Pp. A1. Available at: http://www.nytimes.com/2013/06/28/world/americas/public-rage-catching-up-with-brazils-congress.html [Accessed: 28 Jun. 2013].
 * Romero, S. and Neuman, W. (2013). Level of Unrest In Brazil Stuns Even Protesters. _The New York Times_, 21 Jun. 2013. Pp. A1. Available at: http://www.nytimes.com/2013/06/21/world/americas/brazil-protests.html [Accessed: 21 Jun. 2013].
-* Schedler, A. (1997). Introduction: Antipolitics — Closing and colonizing the public sphere. In Schedler, A. (ed.) _The end of Politics? Explorations into Modern Antipolitics_. New York: Macmillan. Pp. 1-20.
+* Schedler, A. (1997). Introduction: Antipolitics -- Closing and colonizing the public sphere. In Schedler, A. (ed.) _The end of Politics? Explorations into Modern Antipolitics_. New York: Macmillan. Pp. 1-20.
 * Sennett, R. (1980). _Authority_. New York: Alfred A, Knopf.
 * Sennett, R. (2006). _The Culture of the New Capitalism_. New Haven, CT.: Yale University Press.
 * Shafqat, W., Lee, S., Malik, S. and Kim, H.-C. (2016). The Language of Deceivers, 25th International World Wide Web Conference, Montreal, Canada. [Conference Proceedings]. Available at: http://dx.doi.org/10.1145/2872518.2889356 [Accessed 25 Jul. 2017]. Pp. 99-100.
-* Shaw, J. and Graham, M. (2017). An Informational Right to the City? Code, Content, Control, and the Urbanization of Information. _Antipode_, 49(4). Pp. 907–927.
+* Shaw, J. and Graham, M. (2017). An Informational Right to the City? Code, Content, Control, and the Urbanization of Information. _Antipode_, 49(4). Pp. 907-927.
 * Simmel, G. (1978[1900]). _The Philosophy of Money_. London and New York: Routledge.
 * Sniderman, P. M. and Bullock, J. (2004). A Consistency Theory of Public Opinion and Political Choice: The Hypothesis of Men Dependence. In Saris, W. E. and Sniderman, P. M. (eds.). _Studies in Public Opinion: Attitudes, Nonattitudes, Measurement Error, and Change_. Princeton and Oxford: Princeton University Press. Pp. 337-357.
 * Swartz, D. (1997). _Culture & Power: The Sociology of Pierre Bourdieu_. Chicago: The University of Chicago Press.
@@ -103,7 +103,7 @@
 * Toffler, A. (1980). _The Third Wave_. New York: Morrow.
 * Tufekci, Z. (2014). The Medium and the Movement: Digital Tools, Social Movement Politics, and the End of the Free Rider Problem. _Policy & Internet_, 6(2). Pp. 202-208.
 * Tufekci, Z. (2015). Algorithmic harms beyond Facebook and Google: Emergent challenges of computational agency. _Journal on Telecommunications and High Technology Law_, 13. Pp. 203-2018.
-* Tufekci, Z. (2016). As the Pirates Become CEOs: The Closing of the Open Internet. _Daedalus_, 145(1). Pp. 65–78.
+* Tufekci, Z. (2016). As the Pirates Become CEOs: The Closing of the Open Internet. _Daedalus_, 145(1). Pp. 65-78.
 * Wang, N. (1999) Transaction Costs and the Structure of the Market, _American Journal of Economics and Sociology_, 58(4). Pp. 784-805.
 * Weber, M. (1976[1900]). _The Protestant Ethic and the Spirit of Capitalism_. London and New York: Routledge.
 * Weber, M. (1986[1919]). The Reich President. _Social Research_, 53(1). Pp. 125-132.
