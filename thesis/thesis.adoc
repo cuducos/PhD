@@ -3,8 +3,8 @@ Eduardo Vicente Gonçalves
 :doctype: book
 :last-update-label!:
 :numbered!:
-:revdate: July 2018
-:revremark: Thesis submitted to the Department of Sociology of the University of Essex for the degree of Doctor of Philosophy. Supervisors: Dr. Linsey McGoey and Dr. James Allen-Robertson.
+:revdate: Date of submission for examination: August 2018
+:revremark: A thesis submitted for the degree of Doctor of Philosophy. Department of Sociology. University of Essex.
 :sectanchors:
 :stylesheet: ../contrib/print.css
 :toc: macro
