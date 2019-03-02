@@ -42,7 +42,7 @@ $ make init
 
 ## Generating print friendly versions
 
-A script helps you generating nice HTML, PDF and Word versions of the files:
+A script helps you generating nice HTML, PDF and Word versions of the files. Use `pipenv shell` to activate the environment and run:
 
 ```console
 $ python render.py <path to AsciiDoctor file>
