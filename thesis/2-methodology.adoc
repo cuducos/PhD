@@ -25,41 +25,41 @@ The areas briefly described above guide this research. They refer to three resea
 
 == Data collection and analysis
 
-The data collection included 26 interviews with platform founders and staff, project creators, supporters and experts. These informants are from the 8 different countries including 5 continents. This mix allowed me to investigate experiences from more than 10 different crowd funding platforms from 4 different countries. In fact, many of the interviewees have experience in more than one platform, but for the sake of simplicity, in the following table I listed only the one that was prominent in each interview. Finally, a few of them asked me to mention them by pseudonyms; in order to protect their identity I am not explicitly distinguishing them from the ones who have not asked for pseudonyms. Also, I am not using (real or fake) family names for any of my informants:
+The data collection included 26 interviews with platform founders and staff, project creators, supporters and experts. These informants are from the 7 different countries including 5 continents. This mix allowed me to investigate experiences from more than 10 different crowd funding platforms from 4 different countries. In fact, many of the interviewees have experience in more than one platform, but for the sake of simplicity, in the following table I listed only the one that was prominent in each interview. Finally, a few of them asked me to mention them by pseudonyms; in order to protect their identity I am not explicitly distinguishing them from the ones who have not asked for pseudonyms. Also, I am not using (real or fake) family names for any of my informants:
 
-[%header, cols="<,<,<,^,<", format=csv]
+[%header, cols="<,<,<,^,<,<", format=csv]
 .Interviewee profiles
 |===
-Name,Profile,Platform,Gender,Nationality
-Adam,Supporter,Ulule (France),♂,France
-Amanda,Creator,Catarse (Brazil),♀,Brazil
-Anna,Founder,Cinese (Brazil),♀,Brazil
-Brittany,Creator,GoFundMe (USA),♀,USA
-Carla,Supporter,Kickstarter (USA),♀,Brazil
-Chris,Expert,,♂,UK
-Daniel,Founder,Unlock (Brazil),♂,Brazil
-Daniel,Supporter,Benfeitoria (Brazil),♂,Brazil
-Daniel,Supporter,Kickstarter (USA),♂,Germany
-Emily,Founder,PeopleFundIt (UK),♀,UK
-Felipe,Expert,,♂,Brazil
-Felipe,Creator,Benfeitoria (Brazil),♂,Brazil
-Giovana,Staff,Cinese (Brazil),♀,Brazil
-Juliana,Supporter,Catarse (Brazil),♀,Brazil
-Lisandro,Supporter,Kickstarter (USA),♂,Brazil
-Maria,Creator,Indiegogo (USA),♀,Romania
-Miguel,Founder,Catarse (Brazil),♂,Brazil
-Noah,Supporter,Indiegogo (USA),♂,USA
-Pedro,Creator,Catarse (Brazil),♂,Brazil
-Rodrigo,Staff,Neighborly (USA),♂,USA
-Sam,Expert,,♂,USA
-Stephen,Expert,,♂,UK
-Talita,Supporter,Kickstarter (USA),♀,Brazil
-Victor,Creator,Patreon (USA),♂,Brazil
-Wei,Supporter,Kickstarter (USA),♂,China
+Name,Profile,Platform,Gender,Nationality,Residence
+Adam,Supporter,Ulule (France),♂,Brazil,France
+Amanda,Creator,Catarse (Brazil),♀,Brazil,Brazil
+Anna,Founder,Cinese (Brazil),♀,Brazil,Brazil
+Brittany,Creator,GoFundMe (USA),♀,USA,Brazil
+Carla,Supporter,Kickstarter (USA),♀,Brazil,Brazil
+Chris,Expert,,♂,UK,UK
+Daniel,Founder,Unlock (Brazil),♂,Brazil,Brazil
+Daniel,Supporter,Benfeitoria (Brazil),♂,Brazil,Brazil
+Daniel,Supporter,Kickstarter (USA),♂,Germany,Germany
+Emily,Founder,PeopleFundIt (UK),♀,UK,UK
+Felipe,Expert,,♂,Brazil,Italy
+Felipe,Creator,Benfeitoria (Brazil),♂,Brazil,UK
+Giovana,Staff,Cinese (Brazil),♀,Brazil,Brazil
+Juliana,Supporter,Catarse (Brazil),♀,Brazil,Brazil
+Lisandro,Supporter,Kickstarter (USA),♂,Brazil,Brazil
+Maria,Creator,Indiegogo (USA),♀,Romania,UK
+Miguel,Founder,Catarse (Brazil),♂,Brazil,Brazil
+Noah,Supporter,Indiegogo (USA),♂,USA,USA
+Pedro,Creator,Catarse (Brazil),♂,Brazil,Brazil
+Rodrigo,Staff,Neighborly (USA),♂,UK,USA
+Sam,Expert,,♂,USA,Spain
+Stephen,Expert,,♂,UK,UK
+Talita,Supporter,Kickstarter (USA),♀,Brazil,Brazil
+Victor,Creator,Patreon (USA),♂,Brazil,Brazil
+Wei,Supporter,Kickstarter (USA),♂,China,China
 William,Founder,ProduceRun (USA),♂,Australia,USA
 |===
 
-The sampling and data collection phase began with the publicly available channels to contact individuals at crowd funding platforms: email, contact form, social media etc. I reached them, explained the purpose of the research and asked for their participation. If they opted to cooperate, then I would invite them to an interview and also utilized the method of snowball sampling (that is to say, I would ask them to suggest other people I could also reach). Usually I would try to snowball different profiles: for example, when talking to staff I would ask if they could think of a particular supporter or project creator that might accept my invitation for an interview. In spite a couple of positive responses, this strategy was not that successful: I received no replies to many emails and posts; when I did obtain a response, usually it was a typical customer support text with standardized responses. It was invariably the case that the message within these responses was that anything I would like to know about their platform was already available on their institutional web pages. The few real conversations I managed to obtain using this approach ended up in declined interviews -- and in the case of the biggest platforms, I usually read that their company discourages (or forbids) them to take part in interviews.
+The sampling and data collection phase began with the publicly available channels to contact individuals at crowd funding platforms: email, contact form, social media etc. I reached them, explained the purpose of the research and asked for their participation. If they opted to cooperate, then I would invite them to an interview and also would employ the method of snowball sampling (that is to say, I would ask them to suggest other people I could also reach). Usually I would try to snowball different profiles: for example, when talking to staff I would ask if they could think of a particular supporter or project creator that might accept my invitation for an interview. In spite a couple of positive responses, this strategy was not that successful: I received no replies to many emails and posts; when I did obtain a response, usually it was a typical customer support text with standardized responses. It was invariably the case that the message within these responses was that anything I would like to know about their platform was already available on their institutional web pages. The few real conversations I managed to obtain using this approach ended up in declined interviews -- and in the case of the biggest platforms, I usually read that their company discourages (or forbids) them to take part in interviews.
 
 At this point I was required to work on a different strategy for data collection and I reverted to my personal background: I have been writing computer codes since I was a child. During my early twenties this hobby became my main professional activity for a brief period. From this experience I was already in touch with the free and open-source software community and also with groups of web developers, especially within communities guided by hacktivism (which ended up as the topic of my Master's thesis in sociology). There are a great amount of people from these civic-minded tech communities that have become involved in crowd funding, thus I consulted with previous colleagues in order to facilitate my access to informants. I could easily reach the ones I already knew and ask them for ideas, asking them who I should contact and requesting introductions. Snowballing succeeded from thereon, allowing me to collect valuable data for this research.
 
@@ -68,6 +68,8 @@ This access to data requires some notes in terms of positionality. Even with fri
 But this does not mean the study was free of bias or limitations. Most importantly, it is appropriate to highlight that the use of qualitative methods is not intended to generalize findings but aims at a detailed and in-depth description of a specific field. In my case I was cautious to avoid extending my arguments further than my data collection allowed me to. What follows is a careful discussion based on an important share of the crowd funding community: enthusiasts that at maximum are project creators in the big players such as Kickstarter and Indiegogo, but no voice from inside these big players. Maybe Catarse is an exception as it is the biggest crowd funding platform operating in Brazil. But that just adds another layer in terms of positionality, that of my homeland: many of my previous contacts are Brazilian, and even if they have been working in many different countries, I have greater access to data in Brazil than in any other country.
 
 Also, I have projects crowd funded through Catarse and Nós.vc and I have also contributed to projects on Catarse, Nós.vc, Indiegogo, Kickstarter and Patreon. Contacts from these projects were not considered for this research in order to minimize bias. Finally, during the research I informally monitored some social media and forums on the internet, looking for posts related to crowd funding and some interviewees (then unknown to me) I approached after reading some post or comment that they shared publicly and which mentioned crowd funding.
+
+One final note in terms of positionality and bias must be highlighted: as mentioned, I started the snowballing from my acquaintances and most of them were close to (or active in) hacktivist groups -- and this includes me. Having this particular social circle as my initial access point means I was probably more likely to reach politically motivated participants (especially when compared to my initial plan of starting from the mainstream players such as Kickstarter or Indiegogo). On the one hand, this corroborates the impossibility of generalizing my findings -- that is to say, one cannot easily extend the results of this research to describe more market-driven platforms or to describe crowd funding as a whole. On the other hand, having in mind that my research questions were centered in the possibility of understanding crowd funding as political action, this sample was more articulated, insightful and experienced in terms of politics -- that is to say, an optimum sample to test my ideas, to understand the tensions, potential and boundaries surrounding political action and crowd funding communities.
 
 The focus of the semi-structured interviews was on opinions of the interviewees about society, business, politics and economics -- especially (but not restricted to) when it comes to crowd funding. In order to better grasp these views, the first part of the interviews did  not explicitly mention crowd funding but investigated interviewees' personal trajectory and identity: I asked them to introduce themselves, to tell me about what they like to do, how they make a living and other background information that allowed me to contextualize the experiences that they were about to share with me. The idea was to adopt a funnel-shaped questioning technique, narrowing down the subject (namely, crowd funding and politics) towards the final part of the interaction. By these means, informants might get to the specific subject spontaneously -- if not, the next steps of the funnel would discreetly attempt to direct the conversation in such a direction. My role as an interviewer was to guide the interviewee in such a direction only if certain topics had not emerged in a more spontaneous way (Kvale and Brinkmann 2009). At the maximum what was expected for the first part of the interviews was to have a brief idea about the interviewee's general opinion on government, corporations, civic organizations, political views and attitudes. At this point these ideas were elicited from personal stories (when someone declined a job offer from a corporation in order to work in a NGO, for example) and not mentioned explicitly. The intention was to touch upon these aspects without intervention, that is to say, without stimulating the interviewee to relate these topics to crowd funding. This technique was employed to avoid the risk of making the interviewee stick to one or other concept just because the interviewer mentioned it -- and not because it was already part of the interviewee's own point of view (Kvale and Brinkmann 2009).
 
