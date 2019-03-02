@@ -73,6 +73,6 @@ This research is possible due to the scholarship offered by [CAPES](http://capes
 
 [![CAPES](http://www.capes.gov.br/images/logo-capes.png)](http://www.capes.gov.br/)
 
-These writings by [Eduardo Cuducos](http://cuducos.me/) are licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+These writings by [Eduardo Cuducos](http://cuducos.me/) are licensed under a [Creative Commons Attribution-NonCommercial 4.0 International](http://creativecommons.org/licenses/by-nc/4.0/).
 
-[![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4)
+[![Creative Commons License](https://licensebuttons.net/l/by-nc/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc/4.0/)
