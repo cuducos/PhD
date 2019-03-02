@@ -32,9 +32,9 @@ Initial [research design](research-design/research-design.adoc), 2014
 
 ## Installing dependencies
 
-The following commands and scripts depend on the following binaries available in yout path: `gem`, `asciidoctor`, `python` (version 3.4+), `prince` and `pandoc`.
+The following commands and scripts depend on the following binaries available in your path: `gem`, `asciidoctor`, `python` (version 3.4+), `prince` and `pandoc`.
 
-Once you have installed these packages, you can autmatically install some dependencies:
+Once you have installed these packages, you can automatically install some dependencies:
 
 ```console
 $ make init
@@ -55,13 +55,13 @@ $ python render.py conferences/cd2015.adoc
 
 ```
 
-While you are woring you can watch for changes and the files will be generated automatically:
+While you are working you can watch for changes and the files will be generated automatically:
 
 ```console
 $ python render.py watch
 ```
 
-There is also a shorcut to clean all the auto-generated files:
+There is also a shortcut to clean all the auto-generated files:
 
 ```console
 $ make clean
