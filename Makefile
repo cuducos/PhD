@@ -3,7 +3,8 @@ init:
 	@gem install bundler
 	@bundle install
 	@echo "==> Installing Python dependencies"
-	@pip install docopt watchdog
+	@pip install pipenv
+	@pipenv install
 	@echo "==> Downloading Bourbon"
 	@bundle exec bourbon install --force --path ./contrib/
 	@echo "==> Remember to install the following font families:\n    EB Garamond (https://fonts.google.com/specimen/EB+Garamond)\n    Lato (https://fonts.google.com/specimen/Lato)"
