@@ -16,7 +16,7 @@
 * Blumer, H. (1939). Collective Behavior. In Park, R. E. (ed.). _An Outline of the Principles of Sociology_. New York: Barnes & Noble. Pp. 219-80.
 * Bogost, I. (2012). Kickstarter: Crowdfunding Platform Or Reality Show?, Fast Company. Available at: http://www.fastcompany.com/1843007/kickstarter-crowdfunding-platform-or-reality-show [Accessed: 23 Jun. 2015].
 * Bogost, I. (2015). The Internet of Things You Don't Really Need, _The Atlantic_. Available at: http://www.theatlantic.com/technology/archive/2015/06/the-internet-of-things-you-dont-really-need/396485/ [Accessed: 23 Jun. 2015].
-* Böhm, S., and Land, C. (2012). The New "Hidden Abode": Reflections on Value and Labour in the New Economy. _The Sociological Review_, 60(2). Pp. 217–240.
+* Böhm, S., and Land, C. (2012). The New "Hidden Abode": Reflections on Value and Labour in the New Economy. _The Sociological Review_, 60(2). Pp. 217-240.
 * Boltanski, L. and Chiapello, È. (2011[1999]). _Le Nouvel Esprit du Capitalisme_. Paris: Gallimard.
 * Boltanski, L. and Chiapello, È. (2005). _The New Spirit of Capitalism_. London and New York: Verso.
 * Botsman, R. (2010). _What's Mine Is Yours: The Rise of Collaborative Consumption_. New York: HarperCollins.
@@ -101,7 +101,7 @@
 * Shafqat, W., Lee, S., Malik, S. and Kim, H.-C. (2016). The Language of Deceivers, 25th International World Wide Web Conference, Montreal, Canada. [Conference Proceedings]. Available at: http://dx.doi.org/10.1145/2872518.2889356 [Accessed 25 Jul. 2017]. Pp. 99-100.
 * Shaw, J. and Graham, M. (2017). An Informational Right to the City? Code, Content, Control, and the Urbanization of Information. _Antipode_, 49(4). Pp. 907-927.
 * Simmel, G. (1978[1900]). _The Philosophy of Money_. London and New York: Routledge.
-* Sniderman, P. M. and Bullock, J. (2004). A Consistency Theory of Public Opinion and Political Choice: The Hypothesis of Men Dependence. In Saris, W. E. and Sniderman, P. M. (eds.). _Studies in Public Opinion: Attitudes, Nonattitudes, Measurement Error, and Change_. Princeton and Oxford: Princeton University Press. Pp. 337-357.
+* Sniderman, P. M. and Bullock, J. (2004). A Consistency Theory of Public Opinion and Political Choice: The Hypothesis of Menu Dependence. In Saris, W. E. and Sniderman, P. M. (eds.). _Studies in Public Opinion: Attitudes, Nonattitudes, Measurement Error, and Change_. Princeton and Oxford: Princeton University Press. Pp. 337-357.
 * Swartz, D. (1997). _Culture & Power: The Sociology of Pierre Bourdieu_. Chicago: The University of Chicago Press.
 * Tarde, G. (1989[1901]). _L'opinion et la Foule_. Paris: Presses Universitaires de France.
 * Taylor, S. and Land, C. (2014). The Good Old Days Yet to Come: Postalgic times for the new spirit of capitalism. _Management & Organizational History_, 9(2). Pp 202-219.
