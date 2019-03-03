@@ -32,10 +32,11 @@ def run(command):
 def new_file(original, extension):
     basename, *_ = os.path.splitext(original)
     filename = '{}.{}'.format(basename, extension)
+    full_path = Path(filename)
 
     print('==> Generating {}'.format(filename))
     yield filename
-    print('    {} done! {}\n'.format(extension.upper(), filename))
+    print('    {} done! {}\n'.format(extension.upper(), full_path.absolute()))
 
 
 def remove_footnote_square_brackets(html):
