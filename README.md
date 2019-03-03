@@ -58,7 +58,7 @@ $ python render.py conferences/cd2015.adoc
 While you are working you can watch for changes and the files will be generated automatically:
 
 ```console
-$ python render.py watch
+$ python render.py
 ```
 
 There is also a shortcut to clean all the auto-generated files:
