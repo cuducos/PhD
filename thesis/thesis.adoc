@@ -1,0 +1,56 @@
+= Crowd funding: between politics and antipolitics
+Eduardo Vicente Gonçalves
+:doctype: book
+:last-update-label!:
+:numbered!:
+:revdate: Date of submission for examination: September 2018
+:revremark: A thesis submitted for the degree of Doctor of Philosophy. Department of Sociology. University of Essex.
+:sectanchors:
+:stylesheet: ../contrib/print.css
+:toc: macro
+:toclevels: 3
+
+[.dedication]
+_For my grandma, who has taught me so much._
+
+<<<
+toc::[]
+
+<<<
+[abstract]
+== Abstract
+
+Crowd funding platforms make projects financially viable through contributions from people in a way that apparently dismisses support from government or corporations. This realm is not precisely public but allows this community to sustain strong political claims. The tension in the divide between the public and the private is the core of this investigation: the emphasis put on action within the crowd funding community reinforces a world view that puts forward the anew in the form of a very specific realm which blurs the public and the private boundaries.
+
+The relationship between these realms has been long debated in political and social theory. Arendt criticized the role of the modern state as a guardian of individual freedom, highlighting that the capacity for effective political action is often still restricted to elites. Private interests of corporations have compromised the political sphere, as Wolin and Schedler have argued, and states take decisions within the private realm, diminishing public interests. Finally, Bellah has argued this scenario emphasizes private interests, favoring individualism. Yet, he adds, the lack of social ties makes citizens eager for connections. This thesis combines these critiques together with a hacker culture that focuses on action, as described by Palmås.
+
+I draws on interviews I conducted with people engaged with crowd funding. The analysis suggests that if the institutional conjuncture seems to seize the public sphere from people, citizens might be fighting back by recreating the public realm within the purportedly private space on online crowd funding. In the process they rely on cathartic self-perceptions and dissonances regarding their position within society and their representativeness, a fact that calls into question the potential of crowd funding as political action. This research contributes to the understanding of digital culture by reaching online networks impact upon areas such as politics, professional careers, and money.
+
+[.keywords]
+**Keywords**: crowd funding, politics, antipolitics, public space, private space.
+
+:leveloffset: +1
+:numbered:
+
+include::1-introduction.adoc[]
+
+include::2-methodology.adoc[]
+
+include::3-literature-review.adoc[]
+
+include::4-re-signifying-money.adoc[]
+
+include::5-autonomy.adoc[]
+
+include::6-a-new-realm-to-empower-action.adoc[]
+
+include::7-isolation-silence-and-absence.adoc[]
+
+include::8-conclusions-and-discussion.adoc[]
+
+include::9-references.adoc[]
+
+:numbered!:
+:leveloffset: -1
+
+== Notes

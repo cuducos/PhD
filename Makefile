@@ -17,5 +17,6 @@ clean:
 	@find . -iname '*.pdf' | xargs rm -v
 	@find . -iname '*.docx' | xargs rm -v
 	@find . -iname '*.html' | xargs rm -v
+	@find . -iname '*.epub' | xargs rm -v
 	@find . -iname '.DS_Store' | xargs rm -v
 	@echo "Done!"

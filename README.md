@@ -1,34 +1,14 @@
-# Cuducos's PhD writings 
+# Cuducos's PhD writings
 
-I'm a PhD student in sociology at the [University of Essex](https://www.essex.ac.uk/) and my research focus is the political side of crowdfunding.
+I have completed my PhD in sociology at the [University of Essex](https://www.essex.ac.uk/) and my research focus was the political side of digital culture, having crowd funding as my case study.
 
-Here I share my writings, working papers, drafts etc. Feel free to read, comment, criticize, get in touch and so on.
+Here I share [my thesis](https://cuducos.me/crowd-funding) as well as [working papers, drafts etc.](RESOURCES.md) Feel free to read, comment, criticize, get in touch and so on.
 
-Just in case: Yes, I'm geek enough to prefer a markdown language rather than a word processor; GitHub rather than word processors' comments and tracking tools.
+Just in case: Yes, I'm geek enough to prefer a markdown language rather than a word processor; Git rather than word processors' comments and tracking tools.
 
 As you probably have discovered by yourself, I'm not a native English speaker. I'm really sorry for all the small crimes I commit with your beloved language. I'd be really glad if you point them out.
 
 If this introduction is not enough [start stalking me](http://cuducos.me).
-
-## Resources
-
-* **Crowdfunding and the reconfiguration of public and private space**<br>
-Presented at the _Summer Doctoral Programme, Oxford Internet Institute_<br>
-Oxford, 2016<br>
-( [presentation slides](https://speakerdeck.com/cuducos/crowd-funding-and-politics-the-reconfiguration-of-public-and-private-space) )
-* **Crowdfunding and the reconfiguration of public and private space**<br>
-Presented at the _ECREA Communication and Democracy Section Conference — Political Agency in the Digital Age_<br>
-Copenhagen, 2015<br>
-Also presented at the _2015 Centre for European Policy Studies Winter School — From Uber to Amazon Mechanical Turk_<br>
-Brussels, 2015<br>
-( [paper](conferences/cd2015.adoc) | [presentation slides](https://speakerdeck.com/cuducos/crowdfunding-and-the-reconfiguration-of-public-and-private-space-1) )
-* **Contemporary political theory and the possibilities within crowdfunding**<br>
-[Literature review](research-design/politics.adoc) on politics, 2014
-* **Crowdfunding and post-politics**<br>
-[Presentation slides](https://speakerdeck.com/cuducos/crowdfunding-and-post-politics) for the _Manchester International Summer School on Emerging Technologies_<br>
-University of Manchester, 2014
-* **Post-politics and crowdfunding**<br>
-Initial [research design](research-design/research-design.adoc), 2014
 
 ## Installing dependencies
 
@@ -40,7 +20,9 @@ Once you have installed these packages, you can automatically install some depen
 $ make init
 ```
 
-## Generating print friendly versions
+## Generating human friendly versions
+
+### HTML, PDF and Word versions
 
 A script helps you generating nice HTML, PDF and Word versions of the files. Use `pipenv shell` to activate the environment and run:
 
@@ -66,6 +48,18 @@ There is also a shortcut to clean all the auto-generated files:
 ```console
 $ make clean
 ```
+
+### E-book
+
+The thesis is prepared to be published as an ebook:
+
+```console
+$ cd thesis
+$ asciidoctor-epub3 ebook.adoc
+>>>>>>> thesis
+```
+
+Since Amazon's `kindlegen` seams to be broken (it throws a `Bad CPU type in executable` error in macOS), the Kindle version was created from the `.epub` using [Kindle Previwer 3](https://www.amazon.com/gp/feature.html?docId=1003018611).
 
 ## Credits
 

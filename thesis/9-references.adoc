@@ -1,0 +1,125 @@
+[#9-references]
+= References
+
+[references]
+* Allen-Robertson, J. (2013). _Digital Culture Industry: A History of Digital Distribution_. Basingstoke and New York: Palgrave Macmilllan.
+* Arendt, H. (1968). _Between Past and Future_. New York: Penguin.
+* Arendt, H. (1973[1963]). _On Revolution_. Bungay: Penguin.
+* Arendt, H. (1985[1951]). _The origins of Totalitarianism_. San Diego, New York and London: Harcourt Brace.
+* Arendt, H. (1998[1958]). _The Human Condition_. 2 ed. Chicago and London: University of Chicago Press.
+* Arendt, H. (2005). _The promise of politics_. New York: Schocken.
+* Beer, D. and Burrows, R. (2007). Sociology And, Of and In Web 2.0: Some Initial Considerations. _Sociological Research Online_, 12(5).
+* Bellah, R., Madsen, R., Sullivan, W. M., Swidler, A. andTipton, S. M. (2008[1985]). _Habits of the Heat: Individualism and Commitment in American Life_. Berkeley: University of California Press.
+* Benkler, Y. (2008). _Wealth of Networks_. New Heaven and London: Yale University Press.
+* Bennett, E. A., Cordner, A., Klein, P. T. and Baiocchi, G. (2013). Disavowing Politics: Civic Engagement in an Era of Political Skepticism. _American Journal of Sociology_, 119(2). Pp. 518-548.
+* Berlin, Isaiah (1999[1958]). Two Concepts of Liberty. In Warburton, N. (ed.) _Arguments for Freedom_. Milton Keynes: Open University. Pp. 155-165.
+* Bishop, B. (2008). _The Big Sort: Why the Clustering of Like-Minded America Is Tearing Us Apart_. Boston: Houghton Mifflin Harcourt.
+* Blaikie, N. (2010). _Designing Social Research: The Logic of Anticipation_. 2nd ed. Cambridge: Polity Press.
+* Blanc, J. (2009). Usages de l'argent et pratiques monétaires. In Steiner, P. and Vatin, F. (2009). _Traité de Sociologie Économique_. Paris: PUF. Pp. 89-130.
+* Blumer, H. (1939). Collective Behavior. In Park, R. E. (ed.). _An Outline of the Principles of Sociology_. New York: Barnes & Noble. Pp. 219-80.
+* Bogost, I. (2012). Kickstarter: Crowdfunding Platform Or Reality Show?, Fast Company. Available at: http://www.fastcompany.com/1843007/kickstarter-crowdfunding-platform-or-reality-show [Accessed: 23 Jun. 2015].
+* Bogost, I. (2015). The Internet of Things You Don't Really Need, _The Atlantic_. Available at: http://www.theatlantic.com/technology/archive/2015/06/the-internet-of-things-you-dont-really-need/396485/ [Accessed: 23 Jun. 2015].
+* Böhm, S., and Land, C. (2012). The New "Hidden Abode": Reflections on Value and Labour in the New Economy. _The Sociological Review_, 60(2). Pp. 217-240.
+* Boltanski, L. and Chiapello, È. (2011[1999]). _Le Nouvel Esprit du Capitalisme_. Paris: Gallimard.
+* Botsman, R. (2010). _What's Mine Is Yours: The Rise of Collaborative Consumption_. New York: HarperCollins.
+* Bourdieu, P. and Passeron, J.-C. (1970). _La Reproduction. Éléments pour une Théorie du Système d'Enseignement_. Paris. Minuit.
+* Edwards, J. (2014). Yes, you can make six figures as a YouTube star… and still end up poor. _Business Insider_. Available at: http://www.businessinsider.com/how-much-money-youtube-stars-actually-make-2014-2 [Accessed 5 Jun. 2017].
+* Caillé, A. (2009). Anti-utilitarisme et sociologie économique. In Steiner, P. and Vatin, F. (2009). _Traité de Sociologie Économique_. Paris: PUF. Pp. 89-130.
+* Canadian Press, The (2013). Kickstarter crowd funding Site Officially Launches in Canada: Canadian Entry Held Up by Red Tape, Financial Regulations, Co-Founder Says. Available at: http://www.cbc.ca/news/business/kickstarter-crowd funding-site-officially-launches-in-canada-1.1703774 [Accessed: 20 Jan. 2014].
+* Catarse (2013). Nossa taxa de serviço -- Parte 1: de onde vem e pra onde vai o dinheiro do Catarse. _Catarse_. Available at http://blog.catarse.me/nossa-taxa-de-servico-parte-1-de-onde-vem-e-pra-onde-vai-o-dinheiro-do-catarse/ [Accessed 8 Feb. 2014].
+* Catarse (2015a). Catarse. Available at: http://github.com/catarse/catarse [Accessed: 17 May 2015].
+* Catarse (2015b). Sites Using Catarse. Available at: http://github.com/catarse/catarse/wiki/Sites-using-Catarse [Accessed: 17 May 2015].
+* Catarse (2015c). #SomosMuitos - 200mil em Catarse. Available at: http://youtu.be/CRqXvKk5A1Q [Accessed: 16 Jun. 2015].
+* Coleman, E. G. (2013). _Coding Freedom: The Ethics and Aesthetics of Hacking_ [digital book]. Princeton: Princeton University Press.
+* Collins, R. (1986). _Weberian Sociological Theory_. Cambridge: Cambridge University Press.
+* Costa, C. (2015). 200 Mil Catárticos -- E Se Fôssemos Um Milhão? Available at: http://blog.catarse.me/200-mil-catarticos-e-se-fossemos-um-milhao/ [Accessed: 16 Jun. 2015].
+* CrowdCube (2015). Get @CaterhamF1 to Abu Dhabi. _CrowdCube_. Available at: https://www.crowdcube.com/caterham/ [Accessed 13 Jul. 2015].
+* Davies, W. (2014). _The Limits of Neoliberalism: Authority, Sovereignty and the Logic of Competition_. London: Sage.
+* Deka, M. (2017). Calculation in the Pirate Bazaars. _Journal of Cultural Economy_, 10(5). Pp. 450-461.
+* Dellinger, A. (2018). Why Adult Content Creators Are Mad at Patreon. _Gizmodo_. Available at https://gizmodo.com/why-adult-content-creators-are-mad-at-patreon-1827254676 [Accessed 1 Jul 2018].
+* DenBleyker, R. _Explosm_. Available at: http://explosm.net/comics/3869 [Accessed 18 Mar. 2015].
+* Desmond, M. (2012). Disposable Ties and the Urban Poor. _American Journal of Sociology_, 117(5). Pp. 1295-1335.
+* Dewey, J. (1954[1927]). _The Public and its Problems_. Athens: Swallow Press.
+* Dodd, N. (2014). _The Social Life of Money_. Princeton and Oxford: Princeton University Press.
+* Elkington, J. & Hartigan, P. (2008). _The Power of Unreasonable People. How Social Entrepreneurs Create Markets that Change the World_. Harvard Business Press: Boston.
+* Financial Times (2018). Why are so many Americans crowdfunding their healthcare? Online donation sites are booming as patients with little or no health insurance turn to strangers to help pay medical costs. Available at: https://www.ft.com/content/b99a81be-f591-11e7-88f7-5465a6ce1a00 [Accessed: 27 Feb. 2018].
+* Fine, J. (1983). _The Ancient Greeks: A Critical History_. Cambridge and London: Belknap.
+* Forbes (2016). Global 500: Petrobras, _Forbes_. Available at: http://beta.fortune.com/global500/petrobras-58. Accessed 7 Mar. 2017.
+* Gazeta do Povo (2014). A vaquinha dos mensaleiros, _Gazeta do Povo_, 23 Feb. 2014. Available at: http://www.gazetadopovo.com.br/opiniao/editoriais/a-vaquinha-dos-mensaleiros-ewkabsho4l4m5rtof2m3u1t1q [Accessed: 24 Feb. 2014].
+* Giddens, A. (1991). _Modernity and Self-Identity: Self and Society in the Late Modern Age_. Cambridge: Polity.
+* Granovetter, M. (1973). The Strength of Weak Ties. _American Journal of Sociology_, 78(6). Pp. 1360-1380.
+* Granovetter, M. (1985). Economic Action and Social Structure: The Problem of Embeddedness. _American Journal of Sociology_, 91(3). Pp. 481-510.
+* Golafshani, N. (2003) Understanding Reliability and Validity in Qualitative Research. _The Qualitative Report_, 8(4). Pp. 597-607.
+* Google (2018). _YouTube. Monetization_. Available at: https://www.youtube.com/account_monetization [Accessed: 16 Aug. 2018].
+* Graeber, D. (2011). _Debt: The First 5,000 Years_. New York: Melville House.
+* Habermas, J. (1992[1985]). _The Theory of Communicative Action: Reason and the Rationalization of Society, Vol. I_. Boston: Beacon.
+* Habermas, J. (2005[1985]). _The Theory of Communicative Action: Lifeworld and System -- A Critique of Functionalist Reason, Vol. II_. Boston: Beacon.
+* Heath, J. and Potter, A. (2005). _The Rebel Sell: Why the Culture Can't Be Jammed_. Chichester: Wiley.
+* Hess, D. (2015). Undone Science and Social Movements: A Review and Typology. In Gross, M. and McGoey, L. (ed.). _The Routledge International Handbook of Ignorance Studies_. Routledge: London and New York. Pp. 141-154.
+* Hirschman, A. (1977). _The Passions and the Interests. Political Arguments for Capitalism before Its Triumph_. Princeton: Princeton University Press.
+* Hoffmann, S. & Feddersen, O. (2013). Karma Chakhs 2. _Startnext_. Available at: https://www.startnext.com/karma-chakhs2 [Accessed: 15 May 2016].
+* Hutchby, I. (2001). Technologies, Texts and Affordances. _Sociology_, 35. Pp. 441-56.
+* Independent (2017). Charlottesville: Crowdfunding sites refuse to host campaigns raising money for neo-Nazi murder suspect. Available at: http://www.independent.co.uk/news/world/americas/charlottesville-latest-james-alex-field-crowdfunding-white-nationalists-kkk-neo-nazis-gofundme-a7893891.html [Accessed: 15 Aug. 2017].
+* Indiegogo (2012). International Campaigns. Available at: http://support.indiegogo.com/entries/20882543-international-campaigns [Accessed: 20 Jan. 2014].
+* Indiegogo (2014). Let's Build a Goddamn Tesla Museum. Available at: http://http://indiegogo.com/teslamuseum [Accessed: 17 Jun. 2014].
+* Indiegogo (2016). The Third Dimension: #BlackLivesMatter. Available at: https://www.indiegogo.com/projects/the-third-dimension-blacklivesmatter-freedom [Accessed: 13 Jan. 2017].
+* Indiegogo (2018). Indiegogo's 2015 Year In Review: Crowdfunding Statistics. Available at: https://go.indiegogo.com/blog/2015/12/2015-crowdfunding-infographic-statistics-tech-film-social.html [Accessed: 2 Jan. 2018].
+* ICT (2017) ICT Facts and Figures 2017. Available at: http://www.itu.int/en/mediacentre/Pages/2017-PR37.aspx [Accessed 14 Out. 2017].
+* Jaffe, E. (1997). Our Own Invisible Hand: Antipolitics as an American Given. In Schedler, A. (ed.) _The end of Politics? Explorations into modern antipolitics_. New York: Macmillan. Pp. 57-90.
+* Keen, A. (2007). _The Cult of the Amateur: How Blogs, MySpace, YouTube, and the Rest of Today's User-Generated Media Are Destroying Our Economy, Our Culture, and Our Values_. London and Boston: Nicholas Brealey.
+* Kickstarter (2015). Kickstarter Stats. Available at: https://www.kickstarter.com/help/stats [Accessed: 30 May. 2015].
+* Kickstarter (2018). The Kickstarter Fulfillment Report, Kickstarter. Available at: https://www.kickstarter.com/fulfillment [Accessed: 2 Jan. 2018].
+* Kvale, S. and Brinkmann, S. (2009). _Interviews. Learning the Craft of Qualitative Research Interviewing_. London: Sage.
+* Le-Mentzel, V. B. (2012). Karma Chakhs. _Startnext_. Available at: https://www.startnext.com/en/karma-chakhs [Accessed: 15 May 2016].
+* Margetts, H., John, P., Hale, S. and Reissfelder, S. (2013). Leadership without Leaders? Starters and Followers in Online Collective Action. _Political Studies_, 63(2). Pp. 278-99.
+* Marx, K. (1992[1867]). _Capital. Volume I: The Process of Production of Capital_. London: Penguin and the New Left Review.
+* Marx, K. (2007[1961]). _Economic and Philosophic Manuscripts of 1844_. Mineola: Dover.
+* McGoey, L. (2015). _No Such Thing as a Free Gift: The Gates Foundation and the Price of Philanthropy_. London and New York: Verso.
+* McGoey, L. (2012). Strategic Unknowns: Towards a Sociology of Ignorance, _Economy and Society_ 41(1). Pp. 1-16.
+* Micheletti, M. (2003). _Political Virtue and Shopping: Individuals, Consumerism, and Collective Action_. New York and Basingstoke: Palgrave Macmillan.
+* Mitleton-Kelly E. (2003). Ten Principles of Complexity & Enabling Infrastructures. In _Complex Systems and Evolutionary Perspectives on Organisations: The Application of Complexity Theory to Organisations_. Bingley: Elsevier. Pp. 23-50.
+* Mouffe, C. (2005). _On the Political_. London and New York: Routledge.
+* NBC Sports (2013). What's it cost to compete in Formula One? An IndyCar comparison, _NBC Sports_. Available at: http://motorsports.nbcsports.com/2013/05/22/whats-it-cost-to-compete-in-formula-one-an-indycar-comparison/ [Accessed 21 Mar. 2015].
+* New York Times, The Editorial Board (2013). Social Awakening in Brazil. _The New York Times_, 21 Jun. 2013. Pp. A22. Available at: http://www.nytimes.com/2013/06/21/opinion/social-awakening-in-brazil.html [Accessed: 21 Jun. 2013].
+* OECD (2013). _OECD Factbook 2013: Economic, Environmental and Social Statistics_, OECD Publishing, Paris.
+* Palmås, K. (2006). After Counterculture. In von Busch, O. and Palmås, K. (ed.). _Abstract Hacktivism: The Making of a Hacker Culture_. London and Istanbul: OpenMute Press. Pp. 62-103.
+* Pariser, E. (2012). _The Filter Bubble: How the New Personalized Web Is Changing What We Read and How We Think_. New York: Penguin.
+* Pasquale, F. (2016). Two Narratives of Platform Capitalism. _Yale Law & Policy Review_, 35(1). Pp. 309-319.
+* Patreon (2016). Patreon: About. _Patreon_. Available at: https://www.patreon.com/about [Accessed: 22 May 2016].
+* Pew Research (2017). Public support for 'single payer' health coverage grows, driven by Democrats. Available at: http://www.pewresearch.org/fact-tank/2017/06/23/public-support-for-single-payer-health-coverage-grows-driven-by-democrats/ [Accessed on: 27 Feb. 2018].
+* Pew Research Center (2016). Online Shopping and E-Commerce. Available at: http://www.pewinternet.org/2016/12/19/online-shopping-and-e-commerce/ [Accessed: 22 Feb. 2017].
+* Potter, J. (2015). _Crisis at Work: Identity and the End of Career_. Basingstoke and New York: Palgrave Macmillan.
+* Pramuk, J. (2015) Student Debt Crushes Innovation: College President. In CNBC. Available at http://cnbc.com/id/102377355. Accessed 28 Jan. 2015.
+* Purewal, S. (2011). Kickstarter Faces Patent Suit Over Funding Idea. _PCWorld_. Available at: http://www.pcworld.com/article/241160/kickstarter_faces_patent_suit_over_funding_idea.html [Accessed: 20 Jan. 2014].
+* Ragin, C. (1994). _Constructing Social Research: The Unity and Diversity of Method_. Thousands Oaks, London and New Delhi: Pine Forge Press.
+* Ring, J. (1991). The Pariah as a Hero: Hannah Arendt's Political Actor. _Political Theory_, 19(3), Pp. 433-452.
+* Ritzer, G. (2014). Prosumption: Evolution, Revolution, or Eternal Return of the Same? _Journal of Consumer Culture_, 14(1). Pp. 3-24.
+* Ritzer, G. (2015). The "New" World of Prosumption: Evolution, "Return of the Same," or Revolution? _Sociological Forum_, 30(1). Pp. 1-17.
+* Ritzer, G. and N. Jurgenson (2010). Production, Consumption, Prosumption: The Nature of Capitalism in the Age of the Digital 'Prosumer.' _Journal of Consumer Culture_, 10(1). Pp 13-36.
+* Romero, S. (2013). Public Rage Catching Up With Brazilian's Congress. _The New York Times_, 28 Jun. 2013. Pp. A1. Available at: http://www.nytimes.com/2013/06/28/world/americas/public-rage-catching-up-with-brazils-congress.html [Accessed: 28 Jun. 2013].
+* Romero, S. and Neuman, W. (2013). Level of Unrest In Brazil Stuns Even Protesters. _The New York Times_, 21 Jun. 2013. Pp. A1. Available at: http://www.nytimes.com/2013/06/21/world/americas/brazil-protests.html [Accessed: 21 Jun. 2013].
+* Schedler, A. (1997). Introduction: Antipolitics -- Closing and colonizing the public sphere. In Schedler, A. (ed.) _The end of Politics? Explorations into Modern Antipolitics_. New York: Macmillan. Pp. 1-20.
+* Sennett, R. (1980). _Authority_. New York: Alfred A, Knopf.
+* Sennett, R. (2006). _The Culture of the New Capitalism_. New Haven, CT.: Yale University Press.
+* Shafqat, W., Lee, S., Malik, S. and Kim, H.-C. (2016). The Language of Deceivers, 25th International World Wide Web Conference, Montreal, Canada. [Conference Proceedings]. Available at: http://dx.doi.org/10.1145/2872518.2889356 [Accessed 25 Jul. 2017]. Pp. 99-100.
+* Shaw, J. and Graham, M. (2017). An Informational Right to the City? Code, Content, Control, and the Urbanization of Information. _Antipode_, 49(4). Pp. 907-927.
+* Simmel, G. (1978[1900]). _The Philosophy of Money_. London and New York: Routledge.
+* Sniderman, P. M. and Bullock, J. (2004). A Consistency Theory of Public Opinion and Political Choice: The Hypothesis of Menu Dependence. In Saris, W. E. and Sniderman, P. M. (eds.). _Studies in Public Opinion: Attitudes, Nonattitudes, Measurement Error, and Change_. Princeton and Oxford: Princeton University Press. Pp. 337-357.
+* Swartz, D. (1997). _Culture & Power: The Sociology of Pierre Bourdieu_. Chicago: The University of Chicago Press.
+* Tarde, G. (1989[1901]). _L'opinion et la Foule_. Paris: Presses Universitaires de France.
+* Taylor, S. and Land, C. (2014). The Good Old Days Yet to Come: Postalgic times for the new spirit of capitalism. _Management & Organizational History_, 9(2). Pp 202-219.
+* Tocqueville, A. (1961[1840]). _De la démocratie en Amérique, II_. Paris: Gallimard.
+* Tocqueville, A. (1986[1835]). _De la démocratie en Amérique, I_. Paris: Gallimard.
+* Toffler, A. (1980). _The Third Wave_. New York: Morrow.
+* Tufekci, Z. (2014). The Medium and the Movement: Digital Tools, Social Movement Politics, and the End of the Free Rider Problem. _Policy & Internet_, 6(2). Pp. 202-208.
+* Tufekci, Z. (2015). Algorithmic harms beyond Facebook and Google: Emergent challenges of computational agency. _Journal on Telecommunications and High Technology Law_, 13. Pp. 203-2018.
+* Tufekci, Z. (2016). As the Pirates Become CEOs: The Closing of the Open Internet. _Daedalus_, 145(1). Pp. 65-78.
+* Wang, N. (1999) Transaction Costs and the Structure of the Market, _American Journal of Economics and Sociology_, 58(4). Pp. 784-805.
+* Weber, M. (1976[1900]). _The Protestant Ethic and the Spirit of Capitalism_. London and New York: Routledge.
+* Weber, M. (1986[1919]). The Reich President. _Social Research_, 53(1). Pp. 125-132.
+* Wellmer, A. (2000). Arendt on Revolution. In Villa, D. (ed.) _The Cambridge Companion to Hannah Arendt_. Cambridge: Cambridge University Press. Pp. 220-241.
+* Wikipedia (2015). Comparison of crowd funding Services. Available at: http://en.wikipedia.org/wiki/Comparison_of_crowdfunding_services [Accessed: 17 May 2015].
+* Wolin, S. (1983). Hannah Arendt: Democracy and The Political. _Salmagundi_, 60. Pp. 3-19.
+* Wolin, S. (2004). _Politics and Vision: Continuity and Innovation in Western Political Thought_. Princeton and Oxford: Princeton University Press.
+* Zelizer, V. (1994). _The Social Meaning of Money_. New York: BasicBooks.
+* Zelizer, V. (2007). Pasts and Futures of Economic Sociology, _American Behavioral Scientist_, 50. Pp. 1056-69.
