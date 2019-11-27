@@ -1,3 +1,4 @@
+[#7-isolation-silence-and-absence]
 = Isolation, silence and absence
 :numbered:
 :sectanchors:

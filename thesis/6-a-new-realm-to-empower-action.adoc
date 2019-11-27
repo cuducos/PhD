@@ -1,3 +1,4 @@
+[#6-a-new-realm-to-empower-action]
 = A new realm to empower action
 :numbered:
 :sectanchors:

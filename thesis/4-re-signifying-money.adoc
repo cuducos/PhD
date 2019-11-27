@@ -1,3 +1,4 @@
+[#4-re-signifying-money]
 = Re-signifying money
 :numbered:
 :sectanchors:

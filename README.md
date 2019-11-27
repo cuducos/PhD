@@ -40,7 +40,9 @@ Once you have installed these packages, you can automatically install some depen
 $ make init
 ```
 
-## Generating print friendly versions
+## Generating human friendly versions
+
+### HTML, PDF and Word versions
 
 A script helps you generating nice HTML, PDF and Word versions of the files. Use `pipenv shell` to activate the environment and run:
 
@@ -66,6 +68,17 @@ There is also a shortcut to clean all the auto-generated files:
 ```console
 $ make clean
 ```
+
+### E-book
+
+The thesis is prepared to be published as an ebook:
+
+```console
+$ cd thesis
+$ asciidoctor-epub3 ebook.adoc
+```
+
+Since Amazon's `kindlegen` seams to be broken (it throws a `Bad CPU type in executable` error in macOS), the Kindle version was created from the `.epub` using [Kindle Previwer 3](https://www.amazon.com/gp/feature.html?docId=1003018611).
 
 ## Credits
 

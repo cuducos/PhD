@@ -1,3 +1,4 @@
+[#3-literature-review]
 = Literature Review
 :numbered:
 :sectanchors:
